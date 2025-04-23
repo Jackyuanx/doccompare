@@ -1,1 +1,26 @@
-asfgASGasgaSGAgaSGASGAGA GASGASG
+
+The macroeconomics projections up to 2030 are then used to generate energy
+demand functions using the regression software Microfit2. The energy demand
+functions generated then is used to estimate the final energy demand and supply
+projections and GHG emissions for the energy sector.
+3.3.2 Summary of GHG Emission Projection Results
+The projection indicates that the total emissions without LULUCF for Malaysia would
+be 481,363 Gg CO2 eq for the WOM case by 2030 (Figure 3.1 and Table 3.5).
+Continued implementation of the planned activities under the WEM scenario would
+bring the emissions down to 367,603 Gg CO2 eq. If further mitigation activities under
+the WAM scenario are carried out, the GHG emissions could reduce to 337,554 Gg
+CO2 eq. The mitigation assumptions for each of the scenarios and sectors are
+described in section 3.3.3.
+
+Figure 3.1: Projected Greenhouse Gas Emission Time Series for WOM, WEM
+and WAM Scenarios
+
+The energy sector is projected to continue to be the largest contributor of GHG
+emissions in 2030 followed by the IPPU and waste sectors. For the WEM scenario
+without LULUCF, the GHG emissions from the energy sector is likely to be 80% of the
+total emissions in 2030. This is followed by the IPPU sector at around 11%, the waste
+sector at about 6% and the agriculture sector at 3%. For the WAM scenario without
+LULUCF, the energy sector is likely to account for 78% of the emissions in 2030. This
+is followed by the IPPU sector at 13%, the waste sector at 7% and the agriculture
+sector at 3%.
+2 Microfit is an econometric software to generate the demand equations for each of the fuels and

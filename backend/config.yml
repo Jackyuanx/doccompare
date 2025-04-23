@@ -1,0 +1,94 @@
+# --- Base Path ---
+# verbose: whether to print out module details or not
+# ----------------- 
+verbose: True 
+
+# --- Data Path ---
+# data_sample: input file (.jsonl format)
+# content: each file should have a text, and optionally id and label columns
+# ----------------- 
+data_sample: "backend/data/input/sentences.jsonl"
+
+# --- Generation ---
+# prompt: prompt to generate 1st-level topics
+# seed: seed topics (TODO: modify to fit your conception of the data)
+# output: output file containing texts and their corresponding generated topics
+# topic_output: md file containing all generated topics
+# ----------------- 
+generation:
+  prompt: "backend/prompt/A/generation_discussion_1_A.txt"
+  seed: "backend/prompt/seed_1.md"      
+  output: "backend/true_outputs/1/properOutput.jsonl"
+  topic_output: "backend/true_outputs/1/properTopics.md"
+
+
+
+# --- Subtopic Generation ---
+# generate_subtopics: whether to generate subtopics or not
+# prompt: prompt to generate subtopic to each high-level topic, given some example documents that correspond to that high-level topic
+# output: output file containing texts and their corresponding high-level and low-level topics
+# topic_output: md file containing topic tree
+# ---------------------------
+generate_subtopics: False
+generation_2:
+  prompt: "prompt/A/generation_discussion_2_A.txt"
+  output: "true_outputs/1/generation_2_4.jsonl"
+  topic_output: "true_outputs/1/generation_2_4.md"
+
+# --- Assignment ---
+# prompt: prompt to assign topics to documents
+# output: output of topic assignment
+# ------------------
+assignment:
+  prompt: "backend/prompt/assignment.txt"
+  output: "backend/true_outputs/1/properAssign.jsonl"
+
+
+
+# --- Comparison ---
+# ------------------
+generate_comparison: True
+comparison:
+  prompt: "prompt/A/generation_A.txt"
+  output: "comparisons/4.jsonl"
+
+# --- Baseline ---
+# ------------------
+baseline:
+  prompt: "prompt/A/baseline.txt"
+  output: "baseline/4.jsonl"
+
+
+# --- Evaluate ---
+# ------------------
+evaluate:
+  prompt: "prompt/A/evaluate.txt"
+  output: "evaluate/4.jsonl"
+
+
+
+
+# --- Refinement ---
+# refining_topics: whether to refine topics or not
+# prompt: prompt to merge near duplicate topics
+# output: output file, with an added refined_responses columns that replaces all removed/merged topics with the corresponding new topic
+# topic_output: md file containing the list of refined topics
+# mapping: mapping between originally generated topics and the topic they have been merged to
+# remove: whether to remove topics with low frequency (occurring <1% of the time)
+refining_topics: False
+refinement:
+  prompt: "prompt/refinement.txt"
+  output: "true_outputs/1/refinement.jsonl"
+  topic_output: "true_outputs/1/refinement.md"
+  mapping_file: "true_outputs/1/refinement_mapping.json"
+  remove: True      
+
+
+
+# --- Correction ---
+# prompt: prompt to correct topics
+# output: output of topic correction
+# ------------------
+correction:
+  prompt: "prompt/correction.txt"
+  output: "true_outputs/1/assignment_corrected.jsonl"

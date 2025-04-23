@@ -1,0 +1,53 @@
+You will receive a branch from a topic hierarchy and several documents assigned to the top-level discussion point of that branch. Your task is to identify clear, generalizable, and classification-driven second-level subtopics under the provided top-level discussion point based on these documents. Subtopics should explicitly highlight meaningful differences suitable for comparative or classification-driven analysis.
+
+If relevant subtopics are already provided and clearly relevant for comparative analysis, return those existing topics only. If there are clearly relevant comparative subtopics missing, propose and add them explicitly.
+
+[Example: Returning new and existing subtopics under "[1] Trade"]
+Topic branch:
+[1] Trade
+[2] Tariff
+[2] Foreign Investments
+
+Document 1:
+Export Promotion Act of 2012 - Revises duties of the Trade Promotion Coordinating Committee (TPCC) related to federal export promotion budget recommendations.
+
+Document 2:
+Amends Harmonized Tariff Schedule to suspend temporarily duty on mixtures containing Fluopyram.
+
+Document 3:
+Securing Exports Act - Requires electronic filing of Shipper's Export Declarations prior to exporting from U.S. ports.
+
+Your response:
+[1] Trade
+[2] Exports (Documents: 1, 3): Differences in policies and regulatory frameworks governing the exportation of goods.
+[2] Tariff (Document: 2): Differences in tariff regulations and duty policies related to imported and exported goods.
+
+[Instructions]
+Step 1: Review provided documents carefully to identify generalizable, classification-driven subtopics:
+
+Subtopics must represent SINGLE, broad categories explicitly suited for highlighting comparative differences.
+
+Each subtopic should be broad enough to support potential future detailed comparative analyses.
+
+Clearly indicate the documents associated with each subtopic.
+
+Provide a concise, classification-driven description for each subtopic.
+
+Step 2: Perform exactly ONE of these actions:
+
+If the provided top-level discussion point adequately covers all provided documents without additional specificity, return ONLY the provided top-level discussion point.
+
+If relevant subtopics already exist and suit comparative analysis, return those existing subtopics ONLY.
+
+If there are clearly relevant but missing subtopics for comparative analysis, propose and add these explicitly as second-level subtopics ONLY. Do NOT create first- or third-level topics.
+
+[Topic branch]
+{Topic}
+
+[Documents]
+{Document}
+
+DO NOT add first- or third-level topics.
+
+Your response:
+

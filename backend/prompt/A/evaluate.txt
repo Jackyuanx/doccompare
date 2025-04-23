@@ -1,0 +1,16 @@
+You are an expert evaluator. Two comparisons are provided below, each generated following specific instructions. Your task is to evaluate them based on accuracy, 
+comprehensiveness, clarity.
+
+Comparison One:
+{comparisonone}
+
+Comparison Two:
+{comparisontwo}
+
+Please assign a score based on your evaluation:
+- Enter "one" if you prefer Comparison One.
+- Enter "two" if you prefer Comparison Two.
+- Enter "neither" if you are unable to choose a clear winner or find them equivalent.
+
+Your response should be a single word: one, two, neither.
+Your response: 

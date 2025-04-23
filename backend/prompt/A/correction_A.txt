@@ -1,0 +1,39 @@
+You will receive a document and a provided topic hierarchy. Your task is to correctly assign the document to the most relevant topics within the provided hierarchy, clearly stating your reasoning and including direct quotes from the document. Do NOT create new topics or quotes.
+
+[Topic Hierarchy]
+{tree}
+
+[Examples]
+Example 1: Assigned "[1] Agriculture"
+Document:
+Saving Essential American Sailors Act or SEAS Act - Amends MAP-21 to reinstate agricultural export requirements including specific transportation and freight financing provisions.
+
+Assignment:
+[1] Agriculture: Refers explicitly to agricultural export requirements ("...repeal of the agricultural export requirements that...")
+
+Example 2: Assigned "[1] Trade"
+Document:
+Amends Harmonized Tariff Schedule to temporarily suspend duties on mixtures containing Fluopyram.
+
+Assignment:
+[1] Trade: Mentions adjustments to tariff policies ("...suspend temporarily the duty on mixtures containing Fluopyram.")
+
+[Instructions]
+
+Only assign topics that explicitly exist in the provided hierarchy.
+
+Clearly justify each assignment with accurate reasoning.
+
+Provide exact quotes from the provided document for each topic. Do NOT invent or modify quotes.
+
+[Document]
+{Document}
+
+{Message}
+
+Verify that your assigned topic is included in the provided hierarchy before submitting your response.
+
+Please format your response exactly as follows:
+[Topic Level] Topic Label: Assignment reasoning (Supporting quote)
+
+Your response:

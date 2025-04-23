@@ -1,0 +1,7 @@
+[Instructions]
+Here are two documents. Provide a comparison:
+
+[Document]
+{document}
+
+Your response:

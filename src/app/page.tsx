@@ -9,6 +9,7 @@ export default function ComparePage() {
   const [docA, setDocA] = useState<string>("");
   const [docB, setDocB] = useState<string>("");
   const [clusters, setClusters] = useState<number>(5);
+  const [results, setResults] = useState<any[]>([]);
 
   // Fetch documents once on mount
   useEffect(() => {
@@ -21,11 +22,21 @@ export default function ComparePage() {
     });
   }, []);
 
-  const handleRun = () => {
-    // TODO: replace with actual clustering call
-    console.log("Run clustering with", clusters, "clusters");
-  };
+  const handleRun = async () => {
+  try {
+    const res = await fetch("/api/topic_gpt", { method: "POST" });
+    if (!res.ok) throw new Error("TopicGPT failed");
+    const data = await res.json();
+    console.log("TopicGPT output files:", data);
 
+    setResults(data);  // <--- store the returned JSONL array
+  } catch (err) {
+    console.error(err);
+    alert("TopicGPT run failed – see console");
+  }
+};
+
+  
   return (
     <main className="container mx-auto p-6 space-y-8">
       <h1 className="text-2xl font-semibold text-center">Document Comparison Prototype</h1>
@@ -54,7 +65,32 @@ export default function ComparePage() {
           </Button>
         </CardContent>
       </Card>
-      
+      {/* Results */}
+{results.length > 0 && (
+  <section className="space-y-4">
+    <h2 className="text-xl font-semibold">TopicGPT Assignments</h2>
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+      {results.map((item, idx) => (
+        <Card key={idx}>
+          <CardHeader>
+            <CardTitle>Sentence {item.id}</CardTitle>
+          </CardHeader>
+          <CardContent className="space-y-2">
+            <div>
+              <p className="text-sm font-semibold">Text</p>
+              <p className="text-sm whitespace-pre-wrap">{item.text}</p>
+            </div>
+            <div>
+              <p className="text-sm font-semibold">Responses</p>
+              <p className="text-sm whitespace-pre-wrap">{item.responses}</p>
+            </div>
+          </CardContent>
+        </Card>
+      ))}
+    </div>
+  </section>
+)}
+
       {/* Documents */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         {/* Doc A */}

@@ -1,0 +1,1 @@
+[1] Country: Relates to a specific country.

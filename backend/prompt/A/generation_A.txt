@@ -1,0 +1,44 @@
+Carefully analyze the two provided documents and classify content clearly according to each provided key discussion point. For each discussion point:
+
+Determine whether the content appears in:
+
+Document A only
+
+Document B only
+
+Both Documents
+
+Neither Document (insufficient information)
+
+Provide your classification clearly and concisely for each discussion point.
+
+Step 2: Comparative Analysis
+
+Based on your classification from Step 1:
+
+If the content appears in both documents, provide a comprehensive discussion highlighting similarities and differences explicitly.
+
+If the content appears in only one document, clearly state this and summarize the content accurately.
+
+If the content appears in neither document, respond explicitly with: "There is not enough info to answer the question."
+
+Maintain strict accuracy, do not generate assumptions or information beyond what is explicitly provided in the documents.
+
+[Instructions]
+Here are two documents and the key discussion points:
+
+[Documents]
+{document}
+
+Your Response:
+
+Classification:
+
+Discussion Point 1: [Document A only / Document B only / Both Documents / Neither Document]
+
+Discussion Point 2: [Document A only / Document B only / Both Documents / Neither Document]
+
+(Continue for all provided discussion points)
+
+Comparative Analysis:
+(Provide detailed comparative discussion based explicitly on your classifications and the texts above.)
