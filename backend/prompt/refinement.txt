@@ -19,7 +19,7 @@ Your response:
 - Perform the following operations as many times as needed: 
     - Merge relevant topics into a single topic.
     - Do nothing and return "None" if no modification is needed.
-- When merging, the output format should contain a level indicator, the updated label and description, followed by the original topics.
+- When merging, the output format should contain a level indicator, the updated label, followed by the original topics.
 
 
 [Topic List]

@@ -72,32 +72,60 @@ def run_topicgpt(jsonl_path: Path):
         verbose=config["verbose"],
     )
 
-    if config["generate_subtopics"]:
-        generate_topic_lvl2(
-            "openai",
-            "gpt-4o",
-            config["generation"]["topic_output"],
-            config["generation"]["output"],
-            config["generation_2"]["prompt"],
-            config["generation_2"]["output"],
-            config["generation_2"]["topic_output"],
-            verbose=config["verbose"],
-        )
-    assign_topics(
-        "openai",
-        "gpt-4o-mini",
-        config["data_sample"],
-        config["assignment"]["prompt"],
-        config["assignment"]["output"],
-        config["generation"][
-            "topic_output"
-        ],  # TODO: change to generation_2 if you have subtopics, or config['refinement']['topic_output'] if you refined topics
-        verbose=config["verbose"],
-    )
-        
+    # if config["generate_subtopics"]:
+    #     generate_topic_lvl2(
+    #         "openai",
+    #         "gpt-4o",
+    #         config["generation"]["topic_output"],
+    #         config["generation"]["output"],
+    #         config["generation_2"]["prompt"],
+    #         config["generation_2"]["output"],
+    #         config["generation_2"]["topic_output"],
+    #         verbose=config["verbose"],
+    #     )
+
+    
+
+# # Optional: Refine topics if needed
+#     if config["refining_topics"]:
+#         refine_topics(
+#         "openai",
+#         "gpt-4o",
+#         config["refinement"]["prompt"],
+#         config["generation"]["output"],
+#         config["generation"]["topic_output"],
+#         config["refinement"]["topic_output"],
+#         config["refinement"]["output"],
+#         verbose=config["verbose"],
+#         remove=config["refinement"]["remove"],
+#         mapping_file=config["refinement"]["mapping_file"]
+#     )
+
+
+    # assign_topics(
+    #     "openai",
+    #     "gpt-4o-mini",
+    #     config["data_sample"],
+    #     config["assignment"]["prompt"],
+    #     config["assignment"]["output"],
+    #     config['refinement']['topic_output'],  # TODO: change to generation_2 if you have subtopics, or config['refinement']['topic_output'] if you refined topics
+    #     verbose=config["verbose"],
+    # )
+    # correct_topics(
+    # "openai",
+    # "gpt-4o-mini",
+    # config["assignment"]["output"],
+    # config["correction"]["prompt"],
+    # config['refinement']['topic_output'],  # TODO: change to generation_2 if you have subtopics, or config['refinement']['topic_output'] if you refined topics
+    # config["correction"]["output"],
+    # verbose=config["verbose"],
+    # )
     return {"assignments": str(config["assignment"]["output"])}
 
 if __name__ == "__main__":
-    with open("backend/true_outputs/1/properAssign.jsonl", "r", encoding="utf-8") as f:
+    # a, b   = read_docs()
+    # data   = make_jsonl(a, b)
+    # result = run_topicgpt(data)
+    with open("backend/true_outputs/1/properOutput.jsonl", "r", encoding="utf-8") as f:
         content = [json.loads(line) for line in f if line.strip()]
         print(json.dumps(content))

@@ -1,17 +1,39 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
+import { useEffect, useMemo, useState } from "react";
+import {
+  Card,
+  CardHeader,
+  CardTitle,
+  CardContent,
+} from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 
-export default function ComparePage() {
-  const [docA, setDocA] = useState<string>("");
-  const [docB, setDocB] = useState<string>("");
-  const [clusters, setClusters] = useState<number>(5);
-  const [results, setResults] = useState<any[]>([]);
+/* ---------- helpers ---------- */
 
-  // Fetch documents once on mount
+type TopicRow = {
+  id: number;
+  text: string;
+  responses: string;        // topic label
+  source?: "A" | "B";       // optional if backend adds this
+};
+
+const split = (txt: string) =>
+  txt
+    .split(/(?<=[.!?])\s+/) // very simple sentence splitter
+    .filter(Boolean);
+
+/* ---------- page ---------- */
+
+export default function ComparePage() {
+  const [docA, setDocA] = useState("");
+  const [docB, setDocB] = useState("");
+  const [clusters, setClusters] = useState(5);
+  const [rows, setRows] = useState<TopicRow[]>([]);
+  const [selected, setSelected] = useState<string | null>(null); // topic selected
+
+  /* fetch docs once */
   useEffect(() => {
     Promise.all([
       fetch("/docA.txt").then((r) => r.text()),
@@ -22,26 +44,46 @@ export default function ComparePage() {
     });
   }, []);
 
+  /* run TopicGPT */
   const handleRun = async () => {
-  try {
-    const res = await fetch("/api/topic_gpt", { method: "POST" });
-    if (!res.ok) throw new Error("TopicGPT failed");
-    const data = await res.json();
-    console.log("TopicGPT output files:", data);
+    try {
+      const res = await fetch("/api/topic_gpt", { method: "POST" });
+      if (!res.ok) throw new Error("TopicGPT failed");
+      const data: TopicRow[] = await res.json();
+      setRows(data);
+      setSelected(null); // reset highlight
+    } catch (err) {
+      console.error(err);
+      alert("TopicGPT run failed – see console");
+    }
+  };
 
-    setResults(data);  // <--- store the returned JSONL array
-  } catch (err) {
-    console.error(err);
-    alert("TopicGPT run failed – see console");
-  }
-};
+  /* group rows by topic */
+  const topics = useMemo(() => {
+    const map: Record<string, TopicRow[]> = {};
+    rows.forEach((r) => (map[r.responses] ??= []).push(r));
+    return map;
+  }, [rows]);
 
-  
+  /* sets for quick highlighting */
+  const highlightSet = useMemo(() => {
+    if (!selected) return new Set<string>();
+    return new Set(topics[selected]?.map((r) => r.text));
+  }, [selected, topics]);
+
+  /* sentence arrays for rendering */
+  const docASent = useMemo(() => split(docA), [docA]);
+  const docBSent = useMemo(() => split(docB), [docB]);
+
+  /* ---------- render ---------- */
+
   return (
     <main className="container mx-auto p-6 space-y-8">
-      <h1 className="text-2xl font-semibold text-center">Document Comparison Prototype</h1>
+      <h1 className="text-2xl font-semibold text-center">
+        Document Comparison Prototype
+      </h1>
 
-      {/* Control panel */}
+      {/* control panel */}
       <Card className="max-w-lg mx-auto">
         <CardHeader>
           <CardTitle>Parameters</CardTitle>
@@ -56,8 +98,9 @@ export default function ComparePage() {
               type="number"
               value={clusters}
               min={1}
-              onChange={(e) => setClusters(parseInt(e.target.value || "0", 10))}
-              placeholder="e.g. 6"
+              onChange={(e) =>
+                setClusters(parseInt(e.target.value || "0", 10))
+              }
             />
           </div>
           <Button className="w-full md:w-auto" onClick={handleRun}>
@@ -65,54 +108,71 @@ export default function ComparePage() {
           </Button>
         </CardContent>
       </Card>
-      {/* Results */}
-{results.length > 0 && (
-  <section className="space-y-4">
-    <h2 className="text-xl font-semibold">TopicGPT Assignments</h2>
-    <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-      {results.map((item, idx) => (
-        <Card key={idx}>
-          <CardHeader>
-            <CardTitle>Sentence {item.id}</CardTitle>
-          </CardHeader>
-          <CardContent className="space-y-2">
-            <div>
-              <p className="text-sm font-semibold">Text</p>
-              <p className="text-sm whitespace-pre-wrap">{item.text}</p>
-            </div>
-            <div>
-              <p className="text-sm font-semibold">Responses</p>
-              <p className="text-sm whitespace-pre-wrap">{item.responses}</p>
-            </div>
-          </CardContent>
-        </Card>
-      ))}
-    </div>
-  </section>
-)}
 
-      {/* Documents */}
+      {/* topic palette */}
+      {Object.keys(topics).length > 0 && (
+        <div className="flex flex-wrap gap-2">
+          {Object.entries(topics).map(([topic, arr]) => (
+            <Button
+              key={topic}
+              variant={selected === topic ? "secondary" : "outline"}
+              onClick={() => setSelected(topic)}
+            >
+              {topic} ({arr.length})
+            </Button>
+          ))}
+          <Button
+            variant={selected === null ? "secondary" : "outline"}
+            onClick={() => setSelected(null)}
+          >
+            Clear
+          </Button>
+        </div>
+      )}
+
+      {/* documents */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-        {/* Doc A */}
-        <Card className="h-[75vh] flex flex-col">
-          <CardHeader>
-            <CardTitle>Document A</CardTitle>
-          </CardHeader>
-          <CardContent className="flex-1 overflow-y-auto whitespace-pre-wrap">
-            {docA || "Loading…"}
-          </CardContent>
-        </Card>
-
-        {/* Doc B */}
-        <Card className="h-[75vh] flex flex-col">
-          <CardHeader>
-            <CardTitle>Document B</CardTitle>
-          </CardHeader>
-          <CardContent className="flex-1 overflow-y-auto whitespace-pre-wrap">
-            {docB || "Loading…"}
-          </CardContent>
-        </Card>
+        <DocCard
+          title="Document A"
+          sentences={docASent}
+          highlight={highlightSet}
+        />
+        <DocCard
+          title="Document B"
+          sentences={docBSent}
+          highlight={highlightSet}
+        />
       </div>
     </main>
+  );
+}
+
+/* ---------- sub-component for a document ---------- */
+
+function DocCard({
+  title,
+  sentences,
+  highlight,
+}: {
+  title: string;
+  sentences: string[];
+  highlight: Set<string>;
+}) {
+  return (
+    <Card className="h-[75vh] flex flex-col">
+      <CardHeader>
+        <CardTitle>{title}</CardTitle>
+      </CardHeader>
+      <CardContent className="flex-1 overflow-y-auto leading-relaxed space-y-2">
+        {sentences.map((s, i) => (
+          <span
+            key={i}
+            className={highlight.has(s) ? "bg-yellow-200" : ""}
+          >
+            {s + " "}
+          </span>
+        ))}
+      </CardContent>
+    </Card>
   );
 }
