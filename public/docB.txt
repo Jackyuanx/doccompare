@@ -13,7 +13,7 @@ CO2 eq. The mitigation assumptions for each of the scenarios and sectors are
 described in section 3.3.3.
 
 Figure 3.1: Projected Greenhouse Gas Emission Time Series for WOM, WEM
-and WAM Scenarios
+and WAM Scenarios.
 
 The energy sector is projected to continue to be the largest contributor of GHG
 emissions in 2030 followed by the IPPU and waste sectors. For the WEM scenario
@@ -23,4 +23,4 @@ sector at about 6% and the agriculture sector at 3%. For the WAM scenario withou
 LULUCF, the energy sector is likely to account for 78% of the emissions in 2030. This
 is followed by the IPPU sector at 13%, the waste sector at 7% and the agriculture
 sector at 3%.
-2 Microfit is an econometric software to generate the demand equations for each of the fuels and
+2 Microfit is an econometric software to generate the demand equations for each of the fuels and.

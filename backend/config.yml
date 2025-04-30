@@ -17,9 +17,9 @@ data_sample: "backend/data/input/sentences.jsonl"
 # ----------------- 
 generation:
   prompt: "backend/prompt/A/generation_discussion_1_A.txt"
-  seed: "backend/prompt/seed_1.md"      
-  output: "backend/true_outputs/1/properOutput.jsonl"
-  topic_output: "backend/true_outputs/1/properTopics.md"
+  seed: "backend/prompt/A/seed.md"      
+  output: "backend/out/generation1output.jsonl"
+  topic_output: "backend/out/gen1topicout.md"
 
 
 
@@ -33,9 +33,9 @@ generation:
 refining_topics: True
 refinement:
   prompt: "backend/prompt/refinement.txt"
-  output: "backend/true_outputs/1/refinement.jsonl"
-  topic_output: "backend/true_outputs/1/refinement.md"
-  mapping_file: "backend/true_outputs/1/refinement_mapping.json"
+  output: "backend/out/refinement.jsonl"
+  topic_output: "backend/out/refinement.md"
+  mapping_file: "backend/out/refinement_mapping.json"
   remove: True      
 
 
@@ -48,8 +48,8 @@ refinement:
 generate_subtopics: False
 generation_2:
   prompt: "prompt/A/generation_discussion_2_A.txt"
-  output: "true_outputs/1/generation_2_4.jsonl"
-  topic_output: "true_outputs/1/generation_2_4.md"
+  output: "out/generation_2_4.jsonl"
+  topic_output: "out/generation_2_4.md"
 
 # --- Assignment ---
 # prompt: prompt to assign topics to documents
@@ -57,7 +57,7 @@ generation_2:
 # ------------------
 assignment:
   prompt: "backend/prompt/assignment.txt"
-  output: "backend/true_outputs/1/properAssign.jsonl"
+  output: "backend/out/properAssign.jsonl"
 
 
 # --- Correction ---
@@ -66,7 +66,7 @@ assignment:
 # ------------------
 correction:
   prompt: "backend/prompt/correction.txt"
-  output: "backend/true_outputs/1/assignment_corrected.jsonl"
+  output: "backend/out/assignment_corrected.jsonl"
 
 
 # --- Comparison ---

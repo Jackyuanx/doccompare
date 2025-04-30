@@ -3,7 +3,7 @@
 Run TopicGPT on all sentences from docA.txt + docB.txt
 and print the paths of the generation / assignment JSON files.
 """
-import json, os
+import json, os, io, contextlib
 from pathlib import Path
 import os
 api_key = os.environ["OPENAI_API_KEY"]
@@ -36,11 +36,16 @@ OUT_DIR.mkdir(parents=True, exist_ok=True)
 import re
 from typing import List
 
-def split_into_sentences(text: str) -> List[str]:
+_SENT_SPLIT = re.compile(r'(?<=[.!?])\s+')
 
-    """Split text into sentences using regex."""
-    sentence_endings = re.compile(r'(?<=[.!?]) +')
-    return sentence_endings.split(text.strip())
+def split_sentences(text: str) -> List[str]:
+    """
+    • Replace all runs of whitespace (newline, tab, double-space) with a single space.
+    • Split where the previous char is . ! or ?  followed by whitespace.
+    • Strip trailing/leading spaces on each sentence.
+    """
+    clean = re.sub(r'\s+', ' ', text.strip())        # collapse newlines etc.
+    return [s.strip() for s in _SENT_SPLIT.split(clean) if s.strip()]
 
 def read_docs():
     """Read docA and docB text files from the public folder."""
@@ -48,17 +53,17 @@ def read_docs():
     doc_b = (DOC_DIR / "docB.txt").read_text(encoding="utf-8")
     return doc_a, doc_b
 
-def make_jsonl(doc_a: str, doc_b: str) -> Path:
-    """Convert both documents into per-sentence JSONL format for TopicGPT."""
-    sentences = split_into_sentences(doc_a) + split_into_sentences(doc_b)
-    out_path = IN_DIR / "sentences.jsonl"
-    with out_path.open("w", encoding="utf-8") as f:
-        for i, sentence in enumerate(sentences):
-            json.dump({"id": i, "text": sentence.strip()}, f)
-            f.write("\n")
-    return out_path
+a, b = read_docs()
+sentences = split_sentences(a) + split_sentences(b)
 
-def run_topicgpt(jsonl_path: Path):
+with open(IN_DIR / "sentences.jsonl", "w") as f:
+    for i, s in enumerate(sentences):
+        json.dump({"id": i, "text": s}, f)
+        f.write("\n")
+
+
+
+def run_topicgpt():
 
 
     generate_topic_lvl1(
@@ -84,22 +89,19 @@ def run_topicgpt(jsonl_path: Path):
     #         verbose=config["verbose"],
     #     )
 
-    
-
-# # Optional: Refine topics if needed
-#     if config["refining_topics"]:
-#         refine_topics(
-#         "openai",
-#         "gpt-4o",
-#         config["refinement"]["prompt"],
-#         config["generation"]["output"],
-#         config["generation"]["topic_output"],
-#         config["refinement"]["topic_output"],
-#         config["refinement"]["output"],
-#         verbose=config["verbose"],
-#         remove=config["refinement"]["remove"],
-#         mapping_file=config["refinement"]["mapping_file"]
-#     )
+    # if config["refining_topics"]:
+    #     refine_topics(
+    #     "openai",
+    #     "gpt-4o",
+    #     config["refinement"]["prompt"],
+    #     config["generation"]["output"],
+    #     config["generation"]["topic_output"],
+    #     config["refinement"]["topic_output"],
+    #     config["refinement"]["output"],
+    #     verbose=config["verbose"],
+    #     remove=config["refinement"]["remove"],
+    #     mapping_file=config["refinement"]["mapping_file"]
+    # )
 
 
     # assign_topics(
@@ -108,9 +110,10 @@ def run_topicgpt(jsonl_path: Path):
     #     config["data_sample"],
     #     config["assignment"]["prompt"],
     #     config["assignment"]["output"],
-    #     config['refinement']['topic_output'],  # TODO: change to generation_2 if you have subtopics, or config['refinement']['topic_output'] if you refined topics
+    #     config['generation']['topic_output'],  # TODO: change to generation_2 if you have subtopics, or config['refinement']['topic_output'] if you refined topics
     #     verbose=config["verbose"],
     # )
+
     # correct_topics(
     # "openai",
     # "gpt-4o-mini",
@@ -123,9 +126,8 @@ def run_topicgpt(jsonl_path: Path):
     return {"assignments": str(config["assignment"]["output"])}
 
 if __name__ == "__main__":
-    # a, b   = read_docs()
-    # data   = make_jsonl(a, b)
-    # result = run_topicgpt(data)
-    with open("backend/true_outputs/1/properOutput.jsonl", "r", encoding="utf-8") as f:
+    # with contextlib.redirect_stdout(io.StringIO()):
+    #     run_topicgpt()
+    with open("backend/out/generation1output.jsonl", "r", encoding="utf-8") as f:
         content = [json.loads(line) for line in f if line.strip()]
         print(json.dumps(content))

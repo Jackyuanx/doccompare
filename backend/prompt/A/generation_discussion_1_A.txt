@@ -1,4 +1,4 @@
-You will receive a document and a set of existing top-level topics from a topic hierarchy. Your task is to identify clear, generalizable, and classification-driven discussion points from the document. These discussion points should explicitly highlight meaningful differences, suitable for comparative analysis, and must be general enough to accommodate future subtopics or detailed exploration.
+You will receive a document and a set of existing top-level topics from a topic hierarchy. Your task is to identify clear, generalizable, and classification-driven discussion points from the document. These discussion points should be suitable for comparative analysis, and must be general enough to accommodate future subtopics or detailed exploration. They should be broad enough so that similar sentences would have the exact same topic.
 
 [Top-level Topics]
 {Topics}
@@ -10,14 +10,14 @@ Document:
 Saving Essential American Sailors Act or SEAS Act - Amends the Moving Ahead for Progress in the 21st Century Act (MAP-21) to repeal the repeal of agricultural export requirements, including requirements on tonnage transported by U.S. vessels and funding of freight charges.
 
 Your response:
-Agricultural Export Regulations
+Agriculture
 
 Example 2: Existing discussion point found
 Document:
 Amends the Harmonized Tariff Schedule of the United States to temporarily suspend duties on mixtures containing Fluopyram.
 
 Your response:
-Trade Tariffs
+Tariffs
 
 [Instructions]
 Step 1: Carefully analyze the provided document to identify clearly relevant, generalizable, and comparative discussion points suitable for classification-driven analysis.

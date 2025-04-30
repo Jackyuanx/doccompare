@@ -1,2 +1,0 @@
-[1] Urban and Regional Planning (Count: 2): Involves the development and design of land use and the built environment, including the infrastructure passing into and out of urban areas, such as transportation, communications, and distribution networks.
-    [2] Urbanisation Policy (Count: 1): Pertains to policies guiding sustainable urban planning and development, emphasizing balanced development across physical, environmental, social, and economic dimensions.
