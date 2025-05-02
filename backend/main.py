@@ -126,8 +126,8 @@ def run_topicgpt():
     return {"assignments": str(config["assignment"]["output"])}
 
 if __name__ == "__main__":
-    # with contextlib.redirect_stdout(io.StringIO()):
-    #     run_topicgpt()
+    with contextlib.redirect_stdout(io.StringIO()):
+        run_topicgpt()
     with open("backend/out/generation1output.jsonl", "r", encoding="utf-8") as f:
         content = [json.loads(line) for line in f if line.strip()]
         print(json.dumps(content))

@@ -1,26 +1,378 @@
-
-The macroeconomics projections up to 2030 are then used to generate energy
-demand functions using the regression software Microfit2. The energy demand
-functions generated then is used to estimate the final energy demand and supply
-projections and GHG emissions for the energy sector.
-3.3.2 Summary of GHG Emission Projection Results
-The projection indicates that the total emissions without LULUCF for Malaysia would
-be 481,363 Gg CO2 eq for the WOM case by 2030 (Figure 3.1 and Table 3.5).
-Continued implementation of the planned activities under the WEM scenario would
-bring the emissions down to 367,603 Gg CO2 eq. If further mitigation activities under
-the WAM scenario are carried out, the GHG emissions could reduce to 337,554 Gg
-CO2 eq. The mitigation assumptions for each of the scenarios and sectors are
-described in section 3.3.3.
-
-Figure 3.1: Projected Greenhouse Gas Emission Time Series for WOM, WEM
-and WAM Scenarios.
-
-The energy sector is projected to continue to be the largest contributor of GHG
-emissions in 2030 followed by the IPPU and waste sectors. For the WEM scenario
-without LULUCF, the GHG emissions from the energy sector is likely to be 80% of the
-total emissions in 2030. This is followed by the IPPU sector at around 11%, the waste
-sector at about 6% and the agriculture sector at 3%. For the WAM scenario without
-LULUCF, the energy sector is likely to account for 78% of the emissions in 2030. This
-is followed by the IPPU sector at 13%, the waste sector at 7% and the agriculture
-sector at 3%.
-2 Microfit is an econometric software to generate the demand equations for each of the fuels and.
+31
+Year 2005 2019
+GNI/capita (at 2015 constant prices) RM 28,251 RM 43,111
+Primary Energy Supply 65,344 ktoe 98,680 ktoe
+Final Energy Demand 38,284 ktoe 66,483 ktoe
+Total Electricity Consumption 80,705 GWh 158,603 GWh
+Length of roads (Federal, State and Toll
+Highways) 90,016 km 258,511 km
+Motor vehicle registration 14,816,407 31,214,772
+Annual Ridership on urban rail network
+in Greater Kuala Lumpur/ Klang Valley
+(passenger journeys)
+157,475,402 275,565,135
+Annual ridership on Stages Buses (11
+towns and cities) (passenger journeys) - 31,232
+Solid Waste -
+33,130
+tonnes/day
+(2012)
+1.17 Institutional Arrangements
+The institutional arrangements support three key areas of climate change action:
+policy making, development planning and implementation, and guidance and
+reporting. It should be highlighted that since the Third National Communication (NC3),
+Malaysia had experienced three rounds of changes in Government and ministerial
+restructuring. Changes during the first two rounds were reported in the Third Biennial
+Update Report (submitted December 2020) and the latest round being the most recent
+change in federal power which is detailed below.
+1.17.1 Restructuring of Ministries in 2022
+Following the results of the 15th General Election in November 2022, the two key
+ministries for climate change were merged. The Ministry of Environment and Water,
+which was the focal point ministry to the UNFCCC since 2020 and the Ministry of
+Energy and Natural Resources were combined to form the Ministry of Natural
+Resources, Environment and Climate Change (NRECC). Subsequently, as of the end
+of December 2023, it underwent further transformation into the Ministry of Natural
+Resources and Environmental Sustainability (NRES). This ministry now takes on the
+role of the national focal point for climate change within the UNFCCC framework.
+In addition, several ministries and the central planning agency had undergone
+restructuring and/or renaming as listed below:
+(a) Ministry of Agriculture and Food Industries to Ministry of Agriculture and Food
+Security;
+(b) Ministry of Domestic Trade and Consumer Affairs to Ministry of Domestic Trade
+and Cost of Living;
+(c) Ministry of Housing and Local Government to Ministry of Local Government
+Development;
+32
+(d) Ministry of Plantation Industries and Commodities to Ministry of Plantation and
+Commodities; and
+(e) Economic Planning Unit, Prime Minister’s Department to Ministry of Economy.
+1.17.2 Policy Making
+The Malaysia Climate Change Action Council (MyCAC) was established to address
+the policy direction of climate change in December 2020. It is chaired by the Prime
+Minister and has key Cabinet Ministers and state leaders as members.
+The Cabinet is the highest policy decision-making body in the country on climate
+change matters under the purview of the Minister of Natural Resources and
+Environmental Sustainability (NRES). Any decisions taken at the MyCAC and other
+bodies require a final endorsement by the Cabinet.
+1.17.3 Development Planning and Implementation
+Development planning and implementation is coordinated by the Ministry of Economy
+in consultation with other Ministries. These are carried out through the five-year
+development plans and include climate change mitigation and adaptation
+programmes. Table 1.33 shows the coordinating Ministries and their respective
+implementing agencies for key sectors.
+Table 1.33: Coordinating Ministries and Their Respective Agencies
+Responsible for Climate Actions
+Area Sector/Area Coordinating
+Ministries
+Associated Implementing
+Ministries/State
+Ministries/Agencies
+Greenhouse
+Gas
+Inventory
+All IPCC
+Sectors
+Ministry of Natural
+Resources and
+Environmental
+Sustainability
+Ministry of Natural Resources
+and Environmental
+Sustainability
+(Energy, LULUCF and waste
+sectors)
+Ministry of Plantation and
+Commodities (Agriculture,
+LULUCF and waste sectors)
+Ministry of Agriculture and
+Food Security (Agriculture
+sector)
+Energy Commission (Energy
+sector)
+Forest Research Institute
+Malaysia (LULUCF sector)
+33
+Area Sector/Area Coordinating
+Ministries
+Associated Implementing
+Ministries/State
+Ministries/Agencies
+Department of Environment
+(Waste sector)
+Malaysia Agriculture Research
+and Development Institute
+(Agriculture sector)
+Department of Statistics
+Malaysia
+Institute of Energy Policy and
+Research, Universiti Tenaga
+Nasional (Energy and
+Industrial Processes and
+Product Use sectors)
+Mitigation
+Energy
+Ministry of
+Economy
+and
+Ministry of Natural
+Resources and
+Environmental
+Sustainability
+Energy Commission
+Sustainable Energy
+Development Authority
+Sabah State Economic
+Planning Unit
+Ministry of Energy and
+Environmental Sustainability
+Sarawak
+Sabah Electricity Sendirian
+Berhad
+Sarawak Energy Berhad
+PETRONAS
+Transport Ministry of
+Transport
+Land Public Transport Agency
+Marine Department Malaysia
+Civil Aviation Authority of
+Malaysia
+Ministry of Plantation and
+Commodities
+Industries
+Ministry of
+Investment,
+Trade and
+Industry
+Malaysia Investment
+Development Authority
+SME Corporation Malaysia
+Malaysia Automotive Institute
+34
+Area Sector/Area Coordinating
+Ministries
+Associated Implementing
+Ministries/State
+Ministries/Agencies
+Ministry of Domestic Trade
+and Cost of Living
+Sabah State Economic
+Planning Unit
+Economic Planning Unit
+Sarawak
+Agriculture
+Ministry of
+Agriculture and
+Food Security
+and
+Ministry of
+Plantation and
+Commodities
+Department of Agriculture
+(Peninsular Malaysia, Sabah
+and Sarawak)
+Department of Veterinary
+Services (Peninsular Malaysia,
+Sabah and Sarawak)
+Malaysian Agriculture
+Research and Development
+Institute
+Malaysian Palm Oil Board
+Malaysian Rubber Board
+Malaysian Cocoa Board
+Forestry
+Ministry of Natural
+Resources and
+Environmental
+Sustainability
+Forestry Department
+Peninsular Malaysia
+Sarawak Forest Department
+Sabah Forestry Department
+Department of Wildlife and
+National Parks Peninsular
+Malaysia
+Sabah Parks
+Sabah Wildlife Department
+Sarawak Forestry Corporation
+35
+Area Sector/Area Coordinating
+Ministries
+Associated Implementing
+Ministries/State
+Ministries/Agencies
+Waste
+Ministry of Local
+Government
+Development
+and
+Ministry of Natural
+Resources and
+Environmental
+Sustainability
+National Solid Waste
+Management Department
+Solid Waste Management and
+Public Cleansing Management
+Corporation
+Sewerage Service Department
+Department of Environment
+Malaysian Palm Oil Board
+Ministry of Local Government
+and Housing Sabah
+Ministry of Public Health,
+Housing and Local
+Government Sarawak
+State governments (Selangor,
+Pulau Pinang, Perak, Kelantan
+and Terengganu)
+Adaptation
+Water
+Resources
+Ministry of Natural
+Resources and
+Environmental
+Sustainability
+Department of Irrigation and
+Drainage
+National Water Services
+Commission
+National Water Research
+Institute of Malaysia
+Department of Mineral and
+Geoscience
+Ministry of Utility and
+Telecommunication Sarawak
+Sabah State Water
+Department
+Coastal
+Resources
+Ministry of Natural
+Resources and
+Environmental
+Sustainability
+Department of Irrigation and
+Drainage
+National Water Research
+Institute of Malaysia
+36
+Area Sector/Area Coordinating
+Ministries
+Associated Implementing
+Ministries/State
+Ministries/Agencies
+Agriculture
+Ministry of
+Agriculture and
+Food Security
+and
+Ministry of
+Plantation and
+Commodities
+Department of Agriculture
+(Peninsular Malaysia, Sabah
+and Sarawak)
+Department of Veterinary
+Services (Peninsular Malaysia,
+Sabah and Sarawak)
+Department of Fisheries
+(Peninsular Malaysia and
+Sabah)
+Department of Marine
+Fisheries Sarawak
+Malaysian Agriculture
+Research and Development
+Institute
+Malaysian Palm Oil Board
+Malaysian Rubber Board
+Malaysian Cocoa Board
+Forestry and
+Biodiversity
+Ministry of Natural
+Resources and
+Environmental
+Sustainability
+Forestry Department
+Peninsular Malaysia
+Department of Fisheries
+Malaysia
+Department of Wildlife and
+National Parks Peninsular
+Malaysia
+Sabah Forestry Department
+Sabah Wildlife Department
+Sabah Parks
+Sarawak Forest Department
+Sarawak Forestry Corporation
+Ministry of Agriculture and
+Food Security (Division of
+Marine Parks)
+37
+Area Sector/Area Coordinating
+Ministries
+Associated Implementing
+Ministries/State
+Ministries/Agencies
+Infrastructure
+and Housing
+Ministry of Works,
+Ministry of Local
+Government
+Development
+and
+Ministry of Natural
+Resources and
+Environmental
+Sustainability
+Public Works Department
+Local Government Department
+National Housing Department
+Federal Department of Town
+and Country Planning
+Sewerage Service Department
+Ministry of Local Government
+and Housing Sabah
+Ministry of Public Health,
+Housing and Local
+Government Sarawak
+Energy
+Ministry of
+Economy
+and
+Ministry of Natural
+Resources and
+Environmental
+Sustainability
+Energy Commission
+Sustainable Energy
+Development Authority
+PETRONAS
+Health Ministry of Health Institute for Medical Research
+Disease Control Division
+1.17.4 Guidance and Reporting
+The National Steering Committee on Climate Change (NSCCC)
+Operational matters on climate change are guided and endorsed by the National
+Steering Committee on Climate Change (NSCCC) chaired by the Secretary General
+of NRES. The coordination for the preparation of national communications (NCs) and
+biennial update reports (BURs) is under the Technical Committee on Climate Change
+(TCCC) which reports to the NSCCC.
+The secretariat to these committees is the Climate Change Division of NRES which is
+also the national focal point for climate change to the UNFCCC. The technical work of
+the NCs and BURs is carried out through six Technical Working Groups (TWGs)
+established under the TCCC. Figure 1.10 shows the institutional arrangement and
+thematic groupings to address climate change and NC/BUR reporting.
+38
+Figure 1.10: Institutional Arrangement and Thematic Technical Working
+Groups for Climate Change
+The National Steering Committee and Technical Working Committee for REDD
+Plus
+At the national level, the National Steering Committee on REDD Plus (NSCREDD)
+was established in 2011 to formulate the directions and strategies for REDD plus
+implementation. The NSCREDD is chaired by the Secretary General of the NRES with
+membership from State Economic Planning Units, Forestry Departments and relevant
+Ministries. NSCREDD is supported by the Technical Working Committee on REDD
+Plus. The roles of this Technical Working Committee include providing methodological
+guidance on REDD plus implementation and formulating national action plans.
+The National Committee on Clean Development Mechanism
+The National Clean Development Mechanism (CDM) Committee was established in
+2002 to guide CDM implementation. It is chaired by the Deputy Secretary-General of
+the NRES with the Secretary General being the Designated National Authority (DNA).

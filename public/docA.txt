@@ -1,22 +1,156 @@
-MITIGATION MEASURES
-Thailand has made efforts to uphold its commitment under the Convention by
-integrating climate change mitigation into its national and sectoral policies and plans
-and implementing mitigating measures in order to achieve the national GHG reduction
-targets—NAMA’s target to reduce GHG emissions by 7-20% from BAU by 2020 and
-NDC’s target to reduce GHG emission by 20-25% from BAU by 2030. Thailand submitted
-the 2nd updated NDC, which aligns with an ambitious pledge to reduce GHG emissions
-by 30% from the BAU level by 2030. The contribution level increases to 40%, subject
-to adequate and enhanced access to technology development and transfer, financial
-resources, and capacity-building support. Furthermore, Thailand will continue efforts to
-meet the long-term goals of carbon neutrality by 2050 and net-zero GHG emissions
-by 2065.
-Thailand implemented NAMA’s mitigation measures and successfully achieved a GHG
-reduction of 56.54 MtCO2eq in 2020 from 10 mitigation measures in the energy and
-transport sectors which is 15.40% lower than its BAU level. As NAMA ended in 2020,
-Thailand has transitioned toward NDC, which aims to reduce GHG emissions in the
-energy, transport, industrial process and product use, and waste management sectors.
-In addition, Thailand has also increasingly developed supporting measures and
-voluntary actions to mitigate GHG reduction, such as the carbon market and carbon
-label schemes.
-
-Figure: Thailand’s GHG emission reduction from NAMA implementation 2013-2020
+1.2.1 Energy Consumption
+In 2020, Thailand’s energy consumption was 77,340 ktoe, a decrease of 9.8% from
+the previous year. The total value of final energy consumption was 1,245 billion THB.
+Commercial energy consumption was 86.4% of the total final energy consumption, while
+renewable energy was 8.7%, and traditional renewable energy was 4.9%. Total final
+commercial energy consumption was 66,821 ktoe. Of this amount, petroleum products
+consumption totaled 37,124 ktoe, electricity 16,761 ktoe, coal and its products 7,983
+ktoe, and natural gas 4,953 ktoe. Renewable energy consumption was 6,717 ktoe,
+including solar, fuelwood, paddy husk, bagasse, agricultural waste, MSW, and biogas.
+Traditional renewable energy consumption was 3,802 ktoe, including fuelwood, charcoal,
+paddy husk, and agricultural waste from the previous year. However, consumption of
+petroleum products played the greatest proportion, 48.0% of the total final energy
+consumption, followed by electricity, coal and its products, renewable energy, natural gas,
+and traditional renewable energy shared 21.67%, 10.32%, 8.69%, 6.40%, and 4.92%,
+respectively.
+Figure 1-9: Final Energy Consumption by Fuel Type 2020
+Source: Energy Balance of Thailand 2020, Department of Alternative Energy Development and Efficiency
+Source: Energy Balance of Thailand 2020, Department of Alternative Energy Development and Efficiency
+Final energy consumption by fuel type
+Quantity (ktoe) Growth (%)
+2018 2019 2020 2019 2020
+Final Energy Consumption 83,952 85,708 77,340 2.09 -9.76
+Commercial Energy 70,822 72,126 66,821 1.84 -7.36
+• Petroleum Products 41,383 42,084 37,124 1.69 -11.79
+• Electricity 16,805 17,358 16,761 3.29 -3.44
+• Coal and Coal Products 6,865 7,116 7,983 3.66 12.18
+• Natural Gas 5,769 5,568 4,953 -3.48 -11.05
+Renewable Energy 7,919 8,525 6,717 7.65 -21.21
+Traditional Renewable Energy 5,211 5,057 3,802 -2.96 -24.82
+Table 1-2: Final energy consumption by fuel type 2018-2020
+CHAPTER 110
+1.2.2 Energy Production
+Energy production was 65,821 ktoe in 2020, a decrease of 11.8% from the previous
+year. Classified by commercial energy production contributed 63.61% of the total energy
+production, renewable energy 24.34%, traditional renewable energy 7.87%, biofuel
+3.56%, and other energy 0.62%. Total commercial energy production was 41,871 ktoe.
+This amount consisted of crude oil 5,860 ktoe, lignite 3,282 ktoe, natural gas 28,865
+ktoe, and condensate 3,864 ktoe. The proportion of total renewable energy production
+(i.e., solar, wind, hydro, geothermal, fuelwood, paddy husk, bagasse, agricultural waste,
+MSW, and biogas) was 16,020 ktoe. Traditional renewable energy, including fuelwood,
+charcoal, paddy husk, and agricultural waste, was 5,179 ktoe and biofuel was 2,343 ktoe.
+Other energy (black liquor & residual gas) was 408 ktoe.
+The energy consumption by economic sectors was distributed among the following: the
+agricultural sector amounted to 2,318 ktoe, the industrial sector (including manufacturing,
+mining, and construction) amounted to 28,837 ktoe, the residential sector 10,150 ktoe,
+the commercial sector 6,336 ktoe, and the transport sector 29,699 ktoe. Of this total,
+the most significant proportion is the energy consumed in the transport sector sharing
+at 38.4%. The industrial, residential, commercial, and agricultural sectors shared 37.29%,
+13.12%, 8.19%, and 3.0%, respectively.
+Source: Energy Balance of Thailand 2020, Department of Alternative Energy Development and Efficiency
+Figure 1-10: Final Energy Consumption by Economic Sectors 2020
+THAILAND'S FOURTH NATIONAL COMMUNICATION11
+Table 1-3: Energy production by fuel type 2020
+Source: Energy Balance of Thailand 2020, Department of Alternative Energy Development and Efficiencyurces
+* solar, wind, hydro geothermal, fuelwood, paddy husk, bagasse, agricultural waste, MSW, and biogas
+** fuelwood, charcoal, paddy husk, and agricultural waste
+*** black liquor and residual gas
+Energy Production
+Quantity (ktoe) Growth (%)
+2018 2019 2020 2019 2020
+Total Energy Production 72,609 74,592 65,821 2.73 -11.76
+Commercial Energy 45,828 46,188 41,871 0.79 -9.35
+• Crude Oil 6,453 6,178 5,860 -4.26 -5.15
+• Lignite 3,756 3,532 3,282 -5.96 -7.08
+• Natural Gas 31,122 31,871 28,865 2.41 -9.43
+• Condensate 4,497 4,607 3,864 2.45 -16.13
+Renewable Energy* 17,156 18,670 16,020 8.82 -14.19
+Traditional Renewable
+Energy** 7,012 6,842 5,179 -2.42 -24.31
+Biofuel 2,113 2,422 2,343 14.62 -3.26
+Other Energy*** 500 470 408 -6.00 -13.19
+Source: Energy Balance of Thailand 2020, Department of Alternative Energy Development and Efficiency
+Figure 1-11: Energy Production by Fuel Type 2020
+CHAPTER 112
+Total energy import in 2020 was 77,199 ktoe, a decrease of 0.6% from the previous
+year. Nearly all energy import was commercial energy, sharing 99.9% of the total energy
+import and the rest 0.1% proportion was traditional renewable energy. The commercial
+energy import was in a total of 77,155 ktoe. This amount consisted of crude oil import
+42,291 ktoe, coal import 14,908 ktoe, petroleum products import 1,862 ktoe, natural gas
+import 14,064 ktoe, condensate import 1,512 ktoe, electricity import 2,518 ktoe, and
+traditional renewable energy which is fuelwood and charcoal import 44 ktoe.
+Total energy export was 10,812 ktoe in 2020, an increase of 6.2% from the previous year.
+Commercial energy was shared 99.9% of the total energy export, and the rest proportion
+of 0.1% was the traditional renewable energy and biofuel. The commercial energy export
+was 10,800 ktoe, consisting of petroleum products as the most considerable amount with
+a total of 9,253 ktoe, crude oil of 1,230 ktoe, electricity of 222 ktoe, natural gasoline of
+51 ktoe, and coal of 44 ktoe. The traditional renewable energy, including fuels wood and
+charcoal of 12 ktoe, was exported.
+Source: Energy Balance of Thailand 2020, Department of Alternative Energy Development and Efficiency
+Figure 1-12: Import of Energy by Fuel Type 2020
+THAILAND'S FOURTH NATIONAL COMMUNICATION13
+Source: Energy Balance of Thailand 2020, Department of Alternative Energy Development and Efficiency
+Figure 1-13: Export of Energy by Fuel Type 2020
+In 2020, there were 7 petroleum refinery plants with a total capacity of 1,244,500 barrels
+per day (bpd), 6 natural gas processing plants totaling 2,870 MMscf per day, and one
+more small plant for gas processing to produce LPG unit with a total capacity of 163.3
+MMscf per day. In 2020, the total petroleum products produced from the petroleum
+refineries plant comprised diesel oil, gasoline, LPG, fuel oil, jet fuel, and kerosene by
+47.8%, 20.7%, 16.2%, 7.5%, 5.2%, and 2.6%, respectively.
+Source: Energy Balance of Thailand 2020, Department of Alternative Energy Development and Efficiency
+Figure 1-14: The proportion of petroleum products production in 2020
+CHAPTER 114
+1.2.3 Alternative Energy
+Consumption Situation: Energy consumption from alternative energy produced in the
+country comprises solar energy, wind energy, hydro energy, biomass, biogas, MSW, and
+biofuel (ethanol and biodiesel). In 2020, Thailand’s alternative energy consumption was
+11,997 ktoe, a decrease of 15.13% from the previous year. Of this amount, alternative
+energy consumption in terms of electricity, heat, and biofuel (ethanol and biodiesel) shared
+15.5% of the total final energy consumption. The electricity consumption produced from
+alternative energy was 2,903 ktoe, and heat consumption was 6,717 ktoe. The biofuel
+consumption from ethanol was 765 ktoe, and that from biodiesel was 1,612 ktoe
+Natural gas, the primary fuel for electricity generation, was shared 59.1% of the total fuel
+consumption in electricity generation. The followings were coal/lignite 17.6% and fuel/
+diesel oil 0.1%. The rest (renewable energy and other energy) was 23.2%.
+Source: Energy Balance of Thailand 2020, Department of Alternative Energy Development and Efficiency
+Source: Energy Balance of Thailand 2020, Department of Alternative Energy Development and Efficiency
+Figure 1-15: The proportion of fuel consumption for electricity generation in 2020
+Alternative Energy Consumtion
+Quantity (ktoe) Growth (%)
+2018 2019 2020 2020
+1. Electricity* (solar, wind,
+hydroelectricity, biomass, MSW
+and biogas)
+2,960 3,239 2,903 -10.37
+2. Heat** (solar, biomass, MSW
+and biogas) 7,919 8,525 6,717 -21.21
+3. Biofuel
+• Ethanol 781 829 765 -7.72
+• Biodiesel 1,336 1,543 1,612 4.47
+Total 12,996 14,136 11,997 -15.13
+Table 1-4: Alternative energy consumption 2020
+THAILAND'S FOURTH NATIONAL COMMUNICATION15
+Figure 1-16: Energy Efficiency Situation in 2020
+Energy Efficiency Situation: In 2020, energy intensity significantly improved, with a
+decrease of 7.53% from 2010. A decline resulted from the Government’s energy-efficiency
+policy, particularly Thailand’s National Energy Efficiency Plan of 2018–2037 targeting
+Energy Intensity (EI) reduction in 2037 by 30% from the base year of 2010. The Energy
+Efficiency Plan provides financial assistance and incentives for energy projects related to
+energy conservation, renewable energy, research and development, public awareness
+promotion, and training on energy efficiency.
+Source: Energy Balance of Thailand 2020, Department of Alternative Energy Development and Efficiency
+Source: Thailand’s Voluntary National Review on the Implementation of the 2030 Agenda for Sustainable
+Development 2021, Ministry of Foreign Affairs
+The main achievements of energy development targeting indicators for SDG 7—Ensure
+access to affordable, reliable, sustainable, and modern energy for all, focused on three
+areas:
+• Access to energy: Thailand has made significant progress in access to electricity
+from 82.1% in 2000 to 99.21% in 2020. This is due to the efforts to promote local energy
+generation in far-off areas and increase the generation efficiency throughout the energy
+chain.
+• Uptake in renewable energies: Thailand aims to increase the percentage of
+renewable energy in final gross consumption to 24.08% by 2030. In 2020, renewable
+energy constituted 15.99% of final gross consumption, an increase from 10.9% in 2011.
+• Improve energy efficiency: Thailand’s Government aims to reduce Energy
+Intensity (EI) by 30% by 2036 compared to levels from 2010. In 2019, EI stood at 7.85%,
+which was an 8.08% decrease and equaled the saving of 7,541 ktoe.
