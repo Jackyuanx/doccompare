@@ -1,0 +1,1393 @@
+THAILAND:
+
+
+CHAPTER 3:
+
+MITIGATION MEASURES
+
+Thailand has put all efforts within its capacity to uphold its commitment under
+the Convention by integrating climate change mitigation into its national and sectoral
+policies and plans and implementing mitigating measures to achieve the national GHG
+reduction targets—NAMA’s target to reduce GHG emission by 7-20% from BAU by
+2020 and NDC’s target to reduce GHG emission by 20-25% from BAU by 2030. Thailand
+submitted the 2nd updated NDC, which aligns with an ambitious pledge to reduce GHG
+emissions by 30 % from the BAU level by 2030. The contribution level increases to
+40%, subject to adequate and enhanced access to technology development and
+transfer, financial resources, and capacity-building support. Furthermore, Thailand will
+continue efforts to meet the long-term goals of carbon neutrality by 2050 and net-zero
+GHG emissions by 2065.
+This chapter lays out Thailand’s national, sectoral, and municipal mitigation policies and
+plans. The national plans include the 20-Year National Strategy, 12th National Economic
+and Social Development Plan, Climate Change Master Plan, Nationally Appropriate
+Mitigation Action (NAMA), Thailand’s Nationally Determined Contribution (NDC), and
+Long-Term Low Greenhouse Gas Emission Development Strategy (LT-LEDS). Aligning
+with the economy wide, the climate mitigation agenda is also incorporated into sectoral
+plans in emission-intensive sectors—energy, transport, IPPU, and waste sectors.
+Subsequently, this chapter sums up the overall implementation of NAMA’s measures,
+its GHG reduction achievement, and the transition toward the NDC implementation. It
+further illustrates other mitigation actions, including voluntary actions from the carbon
+market and carbon label schemes which are increasingly developed.
+
+3.1 Policies and plans
+Thailand has integrated the climate change agenda into its national, sectoral, and
+municipal policies and plans to address the problem systematically and effectively.
+3.1.1 National Plans
+The climate change agenda, particularly climate mitigation, has been incorporated into
+national development policies, strategies, and plans, including the 20-year National
+Strategy, the 12th National Economic and Social Development Plan, the Climate Change
+Master Plan, the Nationally Appropriate Mitigation Action (NAMA), the Nationally
+Determined Contribution (NDC), and the Long-Term Low Greenhouse Gas Emission
+Development Strategy.
+
+74
+
+ 
+THAILAND'S FOURTH NATIONAL COMMUNICATION
+The 20-Year National Strategy 2018 – 2037
+The 20-Year National Strategy (2018-2037) is the country’s first national long-term
+strategy developed pursuant to the Constitution Section 65 stipulating that the State
+should develop a national strategy to be employed as the country’s goal for sustainable
+national development in accordance with the principle of good governance. One of
+the key strategies is the “Eco-Friendly Development and Growth,” aiming to
+1) conserve and preserve natural resources and environment as well as culture for
+the next generation’s sustainability, 2) restore and reconstruct natural resources and
+the environment for mitigation of negative impacts that may arise from national
+economic and social development, 3) ensure balanced utilization of the natural resource
+and environmental base by balancing development with ecosystem capacity, and
+4) ensure the country’s paradigm shift for the determination the country’s natural resources
+and environment, as well as culture, based on good governance and public participation.
+This development strategy seeks to achieve all development aspects of the Sustainable
+Development Goals (SDGs), including promoting mutual growth in terms of the economy,
+environment, and quality of life. The focus is to create balance among these three factors
+to promote sustainability for future generations.
+The National Strategy recognizes that climate change impacts have been anticipated to
+intensify concerning variability, frequency, and coverage. Such impacts will inevitably
+threaten lives, damage properties and necessary infrastructure, and affect agricultural
+production and water security. At the same time, ecological systems are likely to
+deteriorate. Given this recognition, Greenhouse gas (GHG) emissions and values of
+the bioeconomy are one of the key indicators for this development goal. The strategic
+guideline to promote sustainable climate-friendly based society growth focuses on the
+following points:
+• Mitigation measures: reducing greenhouse gas emissions and promoting
+a low-carbon society, supporting agricultural management to benefit from greenhouse
+gas reductions, accelerating the restoration of deteriorated forests, and expanding
+forest areas to function as carbon storage areas.
+• Adaptation measures: improving the overall disaster management system,
+enhancing people’s capacity to cope with and adjust to any harmful impact caused by
+climate change, and developing preparedness and response systems for emerging and
+reemerging infectious diseases caused by climate change.
+• Enabling measures: developing a database system, promoting low-carbon
+products and services to systematically reinforce national competitiveness, developing
+economic measures to incentivize investments that cope with climate change,
+encouraging businesses to plan for climate change, and improving relevant laws to
+drive climate change management.
+Source: The 20-Year National Strategy 2018 – 2037
+
+75
+
+ 
+CHAPTER 3
+The 12th National Economic and Social Development Plan 2017-2021
+The 12th National Economic and Social Development Plan 2017-2021 recognizes that
+climate change and natural disasters have become more unpredictable and severe,
+particularly floods and droughts, causing impacts on the economic sectors and the
+domestic supply chain. Plus, international agreements on climate change and competitive
+trade have intensified. Thus, the fourth strategy, "Strategy for Environmentally Friendly
+Growth for Sustainable Development," seeks to improve greenhouse gas reduction and
+adaptation capacity, lessen the impacts of climate change, and improve the response
+to natural disasters. For this target, key indicators include: 1) the volume of greenhouse
+gas emissions in the energy and transport sectors decreases by 7% compared to the
+business as usual scenario for 2030, 2) the unit costs of GHG emissions reduction decrease
+(THB per ton of carbon dioxide equivalent), 3) there are action plans for adaptation to
+climate change in each of the priority sectors, such as water resources management,
+agriculture, health and forestry, and 4) domestic climate change mitigation mechanisms
+are established to provide support in terms of finance, technology, and capacity building.
+The development guidelines to support greenhouse gas reduction as well as enhance
+adaptive capacity to climate change are as follows:
+• Draft and amend laws and regulations related to climate change so that they can
+respond to international climate change agreements in an integrated and comprehensive
+manner.
+• Prescribe measures and mechanisms to support greenhouse gas reduction in all
+sectors, emphasizing the following sectors: electricity generation, transport, industry,
+households, and buildings. Reduce the use of fossil fuels in generating power while
+promoting renewable energy, energy-saving, and waste-to-energy. Build the capacity of
+the workforce to excel in various forms of renewable energy. Support sustainable transport
+systems, and increase the efficiency of engines, machines, and instruments. Foster the
+establishment of financial mechanisms between the public and private sectors in order
+to support climate change actions that generate co-benefits. Moreover, encourage the
+private sector to invest more in greenhouse gas reduction.
+• Promote the private sector, state enterprises, and local administrations to collect
+and report information regarding greenhouse gas emissions, mainly from energy usage.
+• Enhance the capacity of R&D in science, technology, and innovation (ST&I) to
+support climate change adaptation.
+• Create knowledge and understanding and raise awareness and public participation
+from all stakeholders in response to climate change impacts.
+
+Source: The 12th National Economic and Social Development Plan 2017-2021
+
+76
+
+ 
+THAILAND'S FOURTH NATIONAL COMMUNICATION
+Policy and Plan for Enhancement and Conservation of National Environmental
+Quality 2017 – 2036
+Under section 13 (1) of the Enhancement and Conservation of National Environmental
+Quality Act 1992, the Office of Natural Resources and Environmental Policy and
+Planning (ONEP) has prepared the Policy and Plan for the Enhancement and Conservation
+of Environmental Quality 2017–2036 as a direction framework for managing natural
+resources and the environment of the country in the next 20 years. The objectives are to
+be a policy framework and direction for integrally managing natural resources and the
+environment in the next 20 years; for all relevant sectors to use it as a guideline for the
+preparation of master plans and action plans in the mid- term (5 years) to achieve
+appropriate, proactive, and efficient natural resource and environmental management;
+and to enhance the environmental management capacity which enable environmentally
+friendly economic and social growth, promote equilibrium and sustainable development,
+and keep pace with global and regional changes.
+The management of natural resources and the environment is based on 10 principles—
+Sustainable Development, Ecosystem Approach, Precautionary Principle, Polluters Pay
+Principle (PPP), Beneficiaries Pay Principle: BPP, Public-Private Partnership, Good
+Governance, Extended Producer Responsibility (EPR), Resource Decoupling/Resource
+Efficiency, and Human Rights—translating into 4 main policies as follows:
+1) A policy to manage natural resources based on balance, fairness, and sustainability:
+It focuses on maintaining national biodiversity and balance of the ecosystem, which are
+the sources of food, water, and energy security. It aims to create a system that enables
+fair access, sharing, and utilization of natural resources within
+their limits of regenerating capacity.
+2) A policy to generate environmentally friendly growth for wealth and prosperity:
+It seeks to provide people with a safe and quality environment, enhance an eco-friendly
+economy, and promote a production and consumption system with effective and efficient
+natural resource exploitation causing minimum waste and pollution.
+3) A policy to enhance measures in natural resource and environmental
+management: It targets to create legal, financial, technical, and technology development
+mechanisms that enhance the capacity of natural resource management to be efficient
+and proactive and support environmentally friendly development and
+growth.
+4) A policy to create partnerships in natural resource and environmental
+management: It aims to involve all sectors in managing and exploiting natural resources
+and the environment in the form of mutual ownership by encouraging all sectors to learn
+and have joint responsibility with the government, including enhancing the capacity for
+international environmental cooperation.
+Source: Office of Natural Resources and Environmental Policy and Planning (ONEP)
+
+77
+
+ 
+CHAPTER 3
+Climate Change Master Plan (2015-2050)
+Aligning with the 20-Year National Strategy and the 12th National Economic and Social
+Development Plan, Thailand’s Climate Change Master Plan (CCMP) aims for Thailand to
+be resilient to the impacts of climate change and achieves low carbon growth through
+sustainable development. The objectives of the plan are 1) to provide a long-term national
+framework for climate change adaptation and low carbon growth promotion according
+to the sustainable development principle; 2) to provide a policy framework for
+the development of mechanisms and tools at the sectoral and national level, to achieve
+effective resolutions for climate change, 3) to provide government agencies and relevant
+organizations with a framework for detailed action plans; facilitating awareness and mutual
+understanding by means of a common framework of reference points, thereby increasing
+integration and reducing redundant processes, 4) to provide budgeting agencies with
+a clear framework for budget allocation, thus enabling the mobilization of concrete
+climate change resolutions. The Master Plan also consists of three key strategies: climate
+change adaptation, mitigation, low carbon development, and enabling environment on
+climate change management. The implementation of these three strategies is divided
+into three phases: short-term 2016, medium-term 2020, and long-term 2050. The CCMP
+is subject to be revised according to the updated Nationally Determined Contribution
+and Long-Term Strategy Target.
+The CCMP Strategy 2 “Mitigation and low carbon development” comprises actions and
+measures in the following eight sectors:
+• Power generation and energy supply—focusing on decreasing fossil fuel
+consumption, increasing/developing renewable energy production, and developing
+infrastructure which facilitates low carbon development while simultaneously lowering
+GHG emissions
+• Transport—focusing on increasing the efficiency of transport and logistics,
+developing low carbon transport infrastructure, and applying sustainable principles to
+manage transport demand
+• Energy consumption in buildings—focusing on improving energy conservation
+and efficiency in buildings
+• Industry—focusing on improving the performance of machinery, energy efficiency,
+and waste reduction through measures such as the promotion of renewable energy
+production and consumption, and investments in low-carbon and environmentally friendly
+industries
+• Waste management—focusing on integrated life cycle waste management by
+prioritizing source reduction and the 3R (Reduce, Reuse, Recycle) in accordance with
+the waste hierarchy. Waste management efficiency will be increased by supporting
+waste-to-energy programs.
+• Agriculture—focusing on low emission agricultural practices with environmental
+and financial co-benefits; increasing the capacity of farmers to accommodate GHG
+reduction technologies and management systems
+
+78
+
+ 
+THAILAND'S FOURTH NATIONAL COMMUNICATION
+• Forestry—focusing on creating carbon sinks via forest conservation, restoration,
+reforestation, and afforestation. Measures that affect communities in forested areas
+should be evaluated on the merits of their environmental and social impact via public
+hearings of sufficient duration and transparency, which will ultimately aid the decision
+and policy-making processes.
+• Urban management—focusing on increasing urban green spaces to act as carbon
+and pollution sinks which can also help mitigate GHG emissions from human activities
+in major cities
+
+Figure 3-1: Overview of Climate Change Master Plan 2015-2050
+Source: 1) Thailand’s Climate Change Master Plan (2015-2050) 2) Office of Natural Resources and Environmental Policy
+and Planning (ONEP)
+
+Nationally Appropriate Mitigation Action (NAMA)
+Thailand’s GHG mitigation goal committed to UNFCCC can be divided into 2 phases:
+Pre-2020 and Post-2020. For the Pre-2020, Thailand’s Nationally Appropriate Mitigation
+Action (NAMA) pledged in 2014 to reduce national GHG emissions in the range of 7-20%
+from the business-as-usual (BAU) scenario in the energy and transport sectors by 2020,
+subject to the level of international support provided. The details of the NAMA Roadmap
+and its progress were reported in the BUR3. Thailand implemented NAMA Roadmap
+and Action Plan and achieved a GHG emission reduction target. The overall NAMA
+implementation will be illustrated in section 3.2, “Mitigation Measures,” of this chapter.
+
+79
+
+ 
+CHAPTER 3
+
+Figure 3-2: Thailand’s GHG Mitigation Target
+Source: 1) Thailand Third Biennial Update Report 2) Office of Natural Resources and Environmental Policy and Planning
+(ONEP)
+
+Thailand’s Nationally Determined Contribution (NDC)
+For the Post-2020, on 1 October 2015, Thailand submitted its Intended Nationally
+Determined Contribution (INDC) to UNFCCC. It later launched Thailand’s Nationally
+Determined Contribution (NDC) Roadmap and Action Plan in 2017, aiming to reduce
+GHG emissions by 20-25% from the projected BAU level by 2030. The NDC Roadmap
+established a framework for mitigation measures in Energy, Transport, IPPU, and Waste
+sectors. To achieve the NDC targets, key agencies have developed NDC Sectoral Action
+Plans on greenhouse gas mitigation corresponding to the NDC Roadmap to ensure
+the achievement of the pledged target of a 20% reduction from the 2030 BAU. In addition,
+key agencies, NDC sectoral focal points, developed the Supportive Action Plan, which
+aims to create enabling environment to support the NDC implementation.
+
+80
+
+ 
+THAILAND'S FOURTH NATIONAL COMMUNICATION
+
+Figure 3-3: Overview of Thailand’s NDC Roadmap and Action Plan
+Source: Office of Natural Resources and Environmental Policy and Planning (ONEP)
+
+NDC Sectoral Action Plan for Energy Sector 2021 – 2030
+The Energy Policy and Planning Office (EPPO) was assigned by the National Climate
+Change Policy Committee (NCCC) to be the main responsible agency for the preparation of
+the national greenhouse gas reduction action plan for 2021 – 2030 in the energy sector
+together with the Office of Natural Resources and Environment Policy and Plan (ONEP)
+and Greenhouse Gas Management Organization (TGO). EPPO, ONEP, and TGO cooperate
+with related agencies, such as the Department of Alternative Energy Development
+and Efficiency (DEDE), Electricity Generating Authority of Thailand (EGAT), Office of
+the Energy Regulatory Commission (OEC), Office of Transport Policy and Planning, and
+Traffic (OTP), Chiang Mai University, and private power producers to prepare the details
+for the draft action plan aiming to national GHG emissions in the energy sector, which
+consists of three key plans:
+1) Energy Efficiency Plan (EEP2015) aims to reduce energy intensity (EI) by 30 % in
+2036 compared to 2010, which will be implemented in four economic sectors: industrial
+sectors, business and government buildings, residential sector, and transport sector.
+2) Alternative Energy Development Plan 2015 – 2036 (AEDP2015) aims to increase
+the share of renewable energy consumption by considering the potential for renewable
+energy sources that can be developed in the form of electricity, heat, and biofuels
+accounting for 30 % of final energy consumption by 2036.
+3) Power Development Plan 2018 – 2037 (Power Development Plan: PDP2018) has four
+main guidelines: 1) promote renewable power generation, 2) allocate main power plants for
+81
+
+ 
+CHAPTER 3
+
+regional energy security according to the necessity and sufficiency to maintain
+the stability of the electricity system, 3) renewable energy has an annual purchase policy under
+the renewable energy generation policy, and it is purchased at a price not exceeding Grid
+Parity to prevent the retail electricity price from rising, and 4) energy conservation policy can
+prove convincing with quality and compete with price not exceeding the Grid Parity.
+The NDC Sectoral Action Plan for energy sector 2021 – 2030 aims to reduce greenhouse
+gases by at least 82 million tCO2 by 2030, compared to a business-as-usual case. The plan
+laid down three strategies for greenhouse gas reduction operations: drive GHG reduction
+in the energy sector, prepare a long-term strategy for GHG reduction in the energy sector,
+and create a network of public, private, and public partnerships.
+Source: The Energy Policy and Planning Office (EPPO)
+
+NDC Sectoral Action Plan for Transport Sector 2021 – 2030
+The Office of Transport and Traffic Policy and Planning (OTP) has developed the NDC
+Sectoral Action Plan for Transport Sector 2021 – 2030, aiming to reduce GHGs by millions
+of tons of carbon dioxide equivalent with four key strategies: 1) supporting and promoting
+the planned implementation of relevant agencies in the transport sector, 2) developing
+and improving laws supporting GHG reduction, 3) developing measurement, reporting
+and verification (MRV), and 4) engaging and strengthening the capacity of all agencies
+to reduce GHGs. An emphasis is on developing efficient and sustainable transport
+systems to reduce energy consumption in the transport sector, lessen traffic congestion,
+create livable cities, and reduce greenhouse gas emissions, which will lead to stable and
+sustainable economic growth. Three key measures are as follows:
+1) Avoid: developing policies that encourage people to avoid travel or reduce
+unnecessary travel distances by integrating urban planning with appropriate transportation
+planning, such as developing living spaces in compact areas, the development of the area
+around transit-oriented development (TOD), and work-from-home measure promotion.
+2) Switch: developing policies that encourage people to switch from using private
+vehicles to more efficient and environmentally friendly forms of travel, including public
+transport and motorless travel (cycling and walking).
+3) Improve: developing policies that improve energy efficiency in motor vehicles
+and fuel efficiencies such as automotive energy-saving technology, alternative energy
+consumption, promoting gasohol oil consumption, and promoting electric vehicles and
+bicycles.
+Source: The Office of Transport and Traffic Policy and Planning (OTP)
+
+NDC Sectoral Action Plan for IPPU Sector 2021 – 2030
+The Department of Industrial Works (DIW) has prepared the NDC Sectoral Action Plan for
+IPPU Sector 2021 – 2030 to reduce greenhouse gas emissions in the IPPU sector by setting
+targets for implementation in 2 phases: 1) Preparation phase (2019 - 2020) is to be
+completed in 2020, which is a preparation to support the implementation of measures
+according to the NDC roadmap starting in the year 2021; 2) Action Phase (2021-2030)
+82
+
+ 
+THAILAND'S FOURTH NATIONAL COMMUNICATION
+targets fordriving key measures and supporting measures to reduce GHG emissions in
+the IPPU sector, including wastewater from industries to achieve the goal within the year
+2030 according to NDC Roadmap and Action Plan.
+The NDC Sectoral Action Plan for IPPU and industrial wastewater consists of three main
+measures:
+1) Clinker substitution measures with 2 sub-activities: the use of clinker substitutes
+in the hydraulic cement production process and the increased use of cement substitutes
+in ready-mixed concrete.
+2) Refrigerant replacement measures with 2 sub-activities: refrigerant modification
+under the RAC NAMA project and the proper disposal of waste and deteriorated
+refrigerant.
+3) Measures to manage industrial wastewater: consistent and have the potential
+to reduce GHG emissions according to the NDC goals guideline, such as measures to
+increase biogas production from industrial wastewater by reusing Methane gas according
+to the Alternative Energy Development Plan 2015 – 2036 (AEDP2015), which sets goals
+for the use of biogas from industrial wastewater, agricultural waste ranch, and community
+waste to be utilized to generate electricity and heat.
+Source: The Department of Industrial Works (DIW)
+
+NDC Sectoral Action Plan for Waste Sector 2021 – 2030
+In conjunction with the relevant authorities, the Pollution Control Department (PCD) has
+developed the NDC Sectoral Action Plan for Waste Sector 2021-2030, targeting to
+reduce GHG emissions of 2.0 million tCO2eq from municipal solid waste and municipal and
+industrial wastewater. 65% of this target (1.3 million tCO 2eq) is expected from
+implementing measures in the municipal solid waste sector, while 35% (0.7 million tCO2eq)
+is expected from implementing measures in wastewater management. The plan is divided
+into 2 parts: 1) NDC Action Plan in the municipal waste management sector, prepared
+by the Pollution Control Department, Ministry of Natural Resources and Environment,
+and 2) NDC Action Plan in the industrial processes and product use, including industrial
+wastewater sector, prepared by the Department of Industrial Works, Ministry of Industry.
+The prospective mitigation measures in municipal solid waste management include:
+1) landfill gas utilization, 2) waste to energy, 3) composting, 4) semi-aerobic landfill, 5)
+anaerobic digestion, and 6) mechanical biological treatment, whereas the potential
+mitigation measure in industrial wastewater management is methane recovery from
+industrial wastewater treatment. The MRV systems for implementation of NDC measures,
+including landfill gas utilization, waste to energy, composting, and methane recovery
+from industrial wastewater treatment, have been accomplished. Additionally, supportive
+mechanisms for effective implementation of the sectoral action plans in the waste sector,
+such as research and development, capacity building, and stakeholder engagement, are
+being executed.
+Source: The Pollution Control Department (PCD)
+
+83
+
+ 
+CHAPTER 3
+Second Updated Thailand’s Nationally Determined Contribution (2nd Updated NDC)
+At the World Leader Summit COP26 on 1 November 2021, Thailand’s Prime Minister
+expressed Thailand’s intention to fully elevate climate mitigation measures by all means.
+Thailand aims to achieve carbon neutrality by 2050 and net-zero Greenhouse Gas emissions
+by 2065. Furthermore, Thailand aims to increase the NDC target to reduce 40% of GHG
+emissions compared to BAU by 2030, given that the international community, through
+the mechanism of the Convention, can provide necessary financial, technical, technology,
+and capacity-building supports. Based on a more ambitious pledge, Thailand updated
+the Nationally Determined Contribution (NDC) and Long-Term Low Greenhouse Gas
+Emission Development Strategy (LT-LEDs) to reflect national targets aligning with
+the Prime Minister’s statement. The 2nd Updated NDC was submitted to the UNFCCC
+on 4 November 2022.
+The revised NDC concept framework of Thailand is similar to that of Thailand’s LongTerm Low Greenhouse Gas Emission Development Strategy (LT-LEDS). The revised NDC
+is carried out with reference to the planned implementation goals of each relevant
+Ministry in the energy, IPPU, Agriculture, LULUCF, and waste management sectors. The
+plans include the Energy Efficiency Plan 2018–2037 (EEP2018), the Alternative Energy
+Development Plan 2018–2037 (AEDP2018), the Power Development Plan 2018–2037
+No. 1 revised edition (PDP2018 Rev.1), and the guidelines for the promotion of electric
+vehicles (EV) of the country according to the 30@30 policy. Measures from the agricultural
+sector were incorporated into the revised NDC goal and guidelines to reduce greenhouse
+gas emissions. The revised NDC guidelines and measures include:
+• Energy and transport sector: The energy sector has the most significant
+potential to reduce greenhouse gas emissions. It includes measures to increase
+the energy efficiency of equipment/machines in power plants and renewable energy
+utilization.
+• IPPU sector, comprising clinker substitution measures and the refrigerant
+replacement.
+• Waste management sector consists of municipal solid waste management,
+domestic wastewater management, and industrial wastewater management.
+• Agriculture sector consists of fixed dome digester biogas production measures
+and improvements in rice farming to reduce methane emissions.
+Source: Office of Natural Resources and Environmental Policy and Planning (ONEP)
+
+Thailand’s Long-Term Low Greenhouse Gas Emission Development Strategy (LT-LEDS)
+The implementation of Thailand’s Long-Term Low Greenhouse Gas Emission
+Development Strategy is in accordance with Article 4 of the Paris Agreement, which
+requires all countries to develop and communicate a long-term strategy for low GHG
+emission development to the UNFCCC Secretariat aiming to limit global temperature
+from rising above 2°C or 1.5°C. Thailand sets long-term targets and guidelines for GHG
+reduction toward carbon neutrality by 2050 and net-zero emission in 2065 by identifying
+key measures in the sectors of energy, transport, IPPU, waste, agriculture, and LULUCF,
+which is the GHG removal sector of the country, for relevant agencies and sectors to use
+as operational guidelines.
+84
+
+ 
+THAILAND'S FOURTH NATIONAL COMMUNICATION
+ONEP revised and updated LT-LEDS and NDC with support from the Deutsche
+Gesellshaft für Internationale Zusammenarbeit (GIZ) GmbH to study, improve, and
+formulate a long-term strategy for the country’s low emissions development and set GHG
+reduction targets under the NDC consistent with the Prime Minister’s statement at the
+COP26 meeting. The revised LT-LEDS was submitted to the UNFCCC on 7 November
+2022. The revised LT-LEDS sets goals and measures aligning with an increase in global
+average temperatures of 1.5°C and moving toward carbon neutrality by 2050. It was
+developed by using the Asia-Pacific Integrated Assessment Model (AIMEnduse) to project
+the long-term low-level greenhouse gas emissions, including remedial policy measures
+for climate change adaptation action, and using a computable general equilibrium (AIM/
+CGE) model to assess the economic and environmental impacts of energy policy and
+others in the development of LT-LEDS. The current national plans used to develop and
+define LT-LEDS are as follows:
+• 20-Year National Strategy 2018-2037
+• Climate Change Master Plan 2015-2050
+• Thailand Nationally Determined Contribution (NDC) 2021-2030
+• National Energy Plan (2022)
+• Energy Efficiency Plan 2018-2037 (EEP 2018)
+• Alternative Energy Development Plan 2018-2037 (AEDP 2018)
+• Power Development Plan 2018-2037 ( PDP 2018 Rev.1)
+• The guideline for promoting electric vehicles (EV) under policy 30@30
+• National Industrial Development Master Plan 2012-2031
+• Industrial Development Strategy of Thailand 4.0 2017-2036
+• Thailand Forest Reference Emission Level and Forest Reference Level REDD+
+under the UNFCCC
+• 20-Year Strategy of the Royal Forest Department 2017-2036
+Source: Office of Natural Resources and Environmental Policy and Planning (ONEP)
+
+3.1.2 Sectoral Plans
+3.1.2.1 Energy Sector
+Moving toward Carbon Neutrality in 2050, the Ministry of Energy is developing details in
+the National Energy Plan 2022 Framework, consisting of 5 key plans:
+• Power Development Plan 2018-2037 (PDP): The plan includes constructing new
+power plants with clean energy sources; phasing out fossil-fuel power plants; enhancing
+CCUS technology; developing an energy management system and energy forecast system;
+liberalizing the energy business; creating the wheeling charge system; and promoting EV
+and EV charging station production and purchasing system.
+• Alternative Energy Development Plan 2018-2037 (AEDP): It aims to increase
+the renewable energy generation target and investment; enhance the renewable energy
+(RE) management and trade; develop RE at community levels to elevate farmers’ standard
+of living and grassroots economy; formulate Data Platform and RE control center, research
+
+85
+
+ 
+CHAPTER 3
+and develop the Hydrogen utilization; and develop Bio Circular Economy, carbon credits
+mechanism and RECs, and biofuel market for energy and heat production.
+• Energy Efficiency Plan 2018-2037 (EEP): It seeks to enhance energy efficiency
+in buildings, industries, and households; promote green industries and Smart Energy
+Management; and develop digital and EV Data platforms and charging stations to
+promote electric vehicle utilization
+• Gas Plan 2018-2037: Its targets include enhancing LNG importation and
+management; promoting LNG use in industrial and transport sectors; developing capacity
+assessment and management system; and managing land-based and marine-based gas
+sources.
+• Oil Plan 2018-2037: It intends to improve the standard of an oil refinery to
+EURO 5 and 6 and LNG and NGV management; promote proper biofuel utilization in
+the transport sector; develop an oil database and control system; reconstruct oil price
+and reduce biofuel cost; and manage oil industry to accommodate EV utilization.
+The policy direction of National Energy Plan aims for 4 targets: increasing renewable
+energy to at least 50 %, transitioning the energy used in transportation to green energy by
+promoting electric vehicles to reduce GHG emissions and particulate matters,
+increasing energy efficiency by 30 % by utilizing technology and innovation to optimize
+energy efficiency and management, and modifying the energy business structure to
+embrace energy transition according to the 4D1E framework (Decarbonization,
+Digitalization, Decentralization, Deregulation, and Electrification).
+
+Figure 3-4 : Policy Direction of National Energy Plan 2022
+Source: The Energy Policy and Planning Office (EPPO)
+
+86
+
+ 
+THAILAND'S FOURTH NATIONAL COMMUNICATION
+3.1.2.2 Transport Sector
+Thailand’s Transport Infrastructure Development Plan 2015-2022
+Thailand’s Transport Infrastructure Development Plan 2015-2022 is a development framework
+that seeks to improve people’s quality of life by mobilizing long-term economic and social
+development, creating jobs, distributing income, stimulating the economy, and ensuring
+the safety of people’s lives and properties. Five Action Plans are developing an intercity
+rail network, improving public transport networks, enhancing connectivity between key
+domestic production bases and neighboring countries, increasing water transport networks,
+and enhancing air transport capability.
+
+1.1 Tracking &
+Facilities
+Improvemet
+
+1.2 Dual Track
+Development
+
+5.1 Airport
+Capability
+Expension
+2.1 Implementation
+of 10 Metro Lines
+
+2.2 Condtruction of
+Roads & Bridges
+
+2.3 Implementation
+3,183 NGV Buses
+and Depots
+
+5.2 Enhancement in
+Air Traffic
+Management
+Capability
+5.3 Increased Fleet
+Utilization
+5.4 Air Transport
+Industrial Park
+5.5 Human Resource
+Development
+
+Figure 3-5: Thailand’s Transport Infrastructure Development Action Plan
+Source: Office of Transport and Traffic Policy and Planning
+
+3.1.2.3 Industrial Sector
+National Industrial Development Master Plan 2012-2031
+As climate change is one of the key factors affecting the changing dynamic of the Thai
+industrial sector, National Industrial Development Master Plan 2012-2031 aims to achieve
+sustainable production that takes into account social and environmental considerations
+“Environmentally Friendly - Green and Clean.” The development in the industrial
+sector should reflect a green growth industry, climate resilience society, and low
+carbon society. Therefore, the industrial development framework in the master plan aims
+to strike a balance between 4 dimensions: 1) Enhancing economic wealth and security,
+2) Utilizing human wisdom for innovation and value creation for sustainable development,
+3) Securing social well-being and reducing social inequality, and 4) Promoting
+environmental wellness to raise public awareness for environmental conservation and
+improving regulations and their enforcement to support environmentally friendly
+production and eliminate negative externalities.
+
+87
+
+ 
+CHAPTER 3
+Thailand’s Industrial Development Strategy 4.0 (2017-2036)
+In the fourth phase of industrial development, Thailand seeks to shift the paradigm into
+an innovative-driven economy targeting prosperity, security, and sustainability through
+three mechanisms: productive growth engine, inclusive growth engine, and green
+growth engine. The green growth engine focuses on environmentally friendly technology
+development and renewable energy transition. The development perspective shifts from
+cost advantage to loss advantage—considering the benefits of overall loss mitigation.
+The cornerstone is ensuring that the production process internalizes the negative
+externalities and minimizes adverse environmental effects. The green growth
+engine solves the “inequitable development trap” between the environment and
+human needs. The phases and mechanisms of industrial development in Thailand can
+be illustrated in the Figure below:
+
+• Middle Income Trap
+• Inequality Trap
+• Imbalance Trap
+
+• Productive Growth Engine
+• Inclusive Growth Engine
+• Green Growth Engine
+
+• Prosperity
+• Security
+• Sustainability
+
+Figure 3-6: Industrial development phases of Thailand and mechanisms
+for industrial development 4.0
+Source: 1) National Industrial Development Master Plan 2012-2031 2) Thailand’s Industrial Development Strategy 4.0
+(2017-2036)
+
+Green Industry
+The Ministry of Industry launched Thailand’s Green Industry Initiative and established
+two implementation guidelines:
+1. Set guidelines and create a concrete green industry under two main concepts:
+continuous improvement and sustainable development
+2. Integrate environmentally relevant projects of all departments within the Ministry
+of Industry under the green industry projects
+Thailand’s Green Industry Initiative is implemented on a voluntary basis to conduct
+business in a community and environmentally friendly manner for sustainable
+development. Green industry means industry committed to continuously improving
+production processes and environmentally friendly business management and
+adhering to business operations with the responsibility to society both inside and
+
+88
+
+ 
+THAILAND'S FOURTH NATIONAL COMMUNICATION
+outside the organization throughout the supply chain. The Ministry of Industry
+promotes the industry sector in Thailand to achieve environmentally and
+socially friendly operations by encouraging establishments nationwide to integrate
+environmentally friendly practices into business operations and continue to evolve
+into green industries on 5 levels. The industries can acquire benefits according to
+the level achieved such as using Green Industry logo or acquiring governmental
+procurement. The 5 levels of implementation are as follows:
+• Level 1: Green Commitment is a manifestation of commitment in the form of
+policies, goals, and plans to reduce environmental impacts and have communications
+within the organization.
+• Level 2: Green Activity is the implementation of policies by having goals and
+a roadmap to reduce environmental impacts in a concrete way and achieve the set
+commitments.
+• Level 3: Green System is systematic environmental management—monitoring,
+evaluation, and review for continuous development or awarding recognized or accredited
+environmental awards related to the conservation of resources and
+environments.
+• Level 4: Green Culture is when everyone in the organization has a common
+conscience to preserve and maintain a good environment and cooperate in all aspects
+of the business to be environmentally friendly and take action to become part of
+the corporate culture.
+• Level 5: Green Network is an extension of the scope of the green industry from
+within the organization itself and throughout the supply chain by encouraging partners
+to be part of the green industry.
+
+Figure 3-7: Green Industry levels and its benefits
+Source: Ministry of Industry
+
+89
+
+ 
+CHAPTER 3
+
+3.1.2.4 Waste Sector
+Draft National Waste Management Action Plan 2022-2027
+The Draft National Waste Management Action Plan 2022 – 2027 was prepared as
+a framework and guidelines to drive waste management operations to align with
+the country’s development guidelines and the global context. The Action Plan is set to
+frame new waste management for a clean environment and promote a sustainable society
+and the following principles:
+• Bio-Economy, Circular Economy, and Green Economy (BCG Model) consists of
+three elements: 1) Bio-Economy aims to enhance technology and innovation to develop
+biological resources or agricultural products such as the development of biodegradable
+plastics (compostable plastics) or alternative plastic products from natural materials,
+2) Circular economy focuses on bringing used resources or products back to the production
+process again to be recycled or processed into a new product, creating value for waste
+and reducing the amount of waste in the manufacturing sector to zero (Zero Waste), and
+3) Green Economy promotes the use of environmentally friendly production technology
+such as using bio-based substances instead of chemical pesticides. The BCG Model is
+a strategy to develop the national economy by balancing economic growth and natural
+resource sustainability.
+• 3R principle (Reduce, Reuse, Recycle): Reduce the waste generation at the source
+in the process of design, production, and consumption, reuse the packaging waste or
+waste material without processing or reprocessing, and recycle waste materials by
+processing in the production process and produces a new product.
+• Polluter Pays Principles (PPP): Economic tool used to manage natural resources
+and the environment. The polluters must bear the cost of preventing damage to human
+health or the environment.
+• Public-Private Partnership: All sectors should participate in waste management
+from production, import, distribution, consumption, and management at the destination,
+which encourages the private sector to invest or jointly invest in the operation of a waste
+management system.
+• Extended Producer Responsibility (EPR): The principle encourages producers
+to take responsibility for their products after public consumption by jointly paying
+the production handling fee and participating in waste recovery for reuse, recycling, and
+environmentally safe disposal. It also encourages the producers to modify the design
+and manufacturing process to be more environmentally friendly by reducing the use of
+harmful substances in products and consider designing and manufacturing products that
+will last a lifetime.
+The objectives for implementing the National Waste Management Action Plan (2022 – 2027)
+by the year 2027 seek to have 80% of solid waste properly managed, 60% of household
+hazardous waste properly managed, 100% of infectious waste properly managed, and
+100 % of hazardous industrial waste correctly processed in the management system.
+The implementation measures focus on “Reduce and Enhance”—reducing the generation
+of solid waste and hazardous waste at source and enhancing capacity to manage solid
+waste and hazardous waste, promoting solid waste and hazardous waste management.
+
+90
+
+ 
+THAILAND'S FOURTH NATIONAL COMMUNICATION
+
+Figure 3-8: Bio-Economy, Circular Economy, and Green Economy (BCG Model)
+Source: The Office of National Higher Education Science Research and Innovation Policy Council (NXPO)
+
+Thailand’s Roadmap on Plastic Waste Management 2018 – 2030
+According to the Pollution Control Department report in 2019, the amount of plastic waste
+was 1.91 million tons, and 0.36 million tons (about 19%) were recycled. The COVID-19
+pandemic also intensifies theplastic waste problem. In addition, a 2021 UN comprehensive
+assessment report, released before COP26, emphasized that plastics are a climate
+problem. Plastics, the by-product of fossil fuels, contribute to GHG emissions throughout
+the life cycle, from production to disposal. Acknowledging that plastic waste and the
+climate change problems are intertwined, Thailand has formulated the Plastic Waste
+Management Roadmap 2018-2030 to move toward sustainable plastic management
+based on the principle of Circular Economy, seeking to serve as a framework and direction
+for preventing and solving the plastic waste problem in the country. The roadmap’s
+underlying principles include Circular Economy, Responsible Production and
+Consumption, Public-Private Partnership, and Life Cycle Approach.
+Guidelines for operation under the roadmap are divided into 3 measures: 1) Measures
+to reduce the generation of plastic waste at the source, 2) Measures to reduce the use of
+single-use plastic (Single-use Plastic) in the process of consumption, and 3) Measures to
+manage the plastic waste after consumption by supporting and encouraging them to be
+reused. The roadmap also defines the roles, duties, and responsibilities of relevant
+agencies in the implementation of the draft Roadmap in all sectors. It further defines
+various mechanisms for the Roadmap mobilization, such as enhancing knowledge
+and understanding with relevant agencies, people, and consumers in order to develop
+integrated cooperation for the operation and public relations campaign through social
+media. There will be studies and target setting on recycled plastics and plastic waste
+that cannot be recycled to be disposed of properly.
+
+91
+
+ 
+CHAPTER 3
+The mechanism of plastic waste management and its roadmap can be illustrated in
+the Figure below:
+
+Figure 3-9: Thailand’s Roadmap on Plastic Waste Management 2018 – 2030
+Source:1) Pollution Control Department 2) Draft National Waste Management Action Plan 2022-2027 3) Thailand’s
+Roadmap on Plastic Waste Management 2018 – 2030
+
+3.1.3 Municipality Plan
+Draft Bangkok Climate Change Master Plan 2021-2030
+In 2021, Bangkok Metropolitan Administrator (BMA) and the Japan International
+Cooperation Agency (JICA) developed the draft Bangkok Master Plan on Climate Change
+2021-2030. The Master Plan aims to align with the Nationally Determined Contribution
+(NDC) in terms of both the policy andthe implementation timeframe. It will significantly
+contribute to Bangkok's long term vision to achieve net-zero GHG emissions by 2050.
+The plan outlines the development of key measures for GHG reduction and climate
+change adaptation, including institutional structures, monitoring and evaluation (M&E),
+and measurement, reporting, and verification (MRV) systems.
+Bangkok intends to achieve the GHG emission reduction target and the response to climate
+change by setting the target and the commitment to reduce its GHG emissions by 19%
+compared to the BAU from the base year of 2018 by 2030 and to have the long-term
+goal under the vision to continually reduce greenhouse gases toward a “net-zero
+emission city” by 2050. The mitigation measures of GHG reduction under this master
+plan cover 4 sectors: transport, energy, waste and wastewater, and green urban planning.
+The significant sectors for GHG emissions reduction are energy and transport, with
+a reduction target of 94% of the total, and the remaining 6% is from the waste
+management sector. Green urban planning is the sector that does not directly reduce
+GHG emissions but helps to absorb GHGs in the atmosphere.
+
+92
+
+ 
+THAILAND'S FOURTH NATIONAL COMMUNICATION
+
+Figure 3-10: Bangkok’s interim target by 2030 and long-term vision toward
+net-zero emission by 2050
+Source: Bangkok Metropolitan Administrator (BMA)
+
+3.2 Mitigation Measures
+3.2.1 Thailand’s Nationally Appropriate Mitigation Action (NAMA)
+3.2.1.1 Domestic NAMA
+Thailand proclaimed its Nationally Appropriate Mitigation Action (NAMA) to reduce
+national GHG emissions from the energy and transport sectors compared to
+the Business as Usual (BAU) by stating that Thailand had the potential to reduce
+GHG emissions by 7-20 % by 2020. After the target was set, Thailand developed
+a system to monitor and assess the amount of GHGs reduction from domestic measures,
+especially measures on energy and transport. Thailand has implemented monitoring
+and evaluation of GHG reductions as follows:
+1) A GHG reduction reporting structure was established according to the Domestic
+MRV structure approved by the National Committee on Climate Change Policy, as
+illustrated in Chapter 1.
+2) The mechanism of the Working Group on GHG Inventory and Mitigation
+Measures in the energy sector, as referred to in Chapter 1, “Institutional Arrangement,”
+was employed in selecting the appropriate measures/policy for monitoring and evaluating
+GHG reduction according to the criteria. Once the measures/policies were obtained, a
+method for calculating the GHG reduction was developed, and the Coefficient/Emission
+Factor was designated. The MRV process for activity data and calculating GHG reduction
+from measures/policy was commenced to prepare a report on greenhouse gas reduction
+results.
+3) When the Working Group on GHG Inventory and Mitigation Measures approved
+the detailed information in the second step, they would send the official information to
+the relevant Ministries, i.e., the Climate Change Coordinating Working Group under
+
+93
+
+ 
+CHAPTER 3
+the Ministry of Energy, to consider the following: appropriate measures/policies for
+monitoring and evaluating GHG reductions, GHG reduction calculation methods, MRV
+process structure for activity data, and GHG reductions from measures/policy and GHG
+reduction reports. When the Ministries approved, they must notify the secretary of the
+Working Group on GHG Inventory and Mitigation Measures. In case of disagreement or
+amendments, the Ministries could propose and stress the issues that need to be revised.
+4) After the relevant Ministries have considered and approved the details under
+the third step, the Ministry’s consideration would be submitted to the Subcommittee on
+Climate Change Knowledge and Database for further approval.
+5) Once the Subcommittee on Climate Change Knowledge and Database
+has approved, the GHG reduction results would be presented to and approved by
+the National Committee on Climate Change Policy. After approval, GHG reduction results
+would be reported in the BUR and NC reports.
+
+For the first phase, achieving the NAMA’s target was the first steppingstone toward
+Thailand’s success in reducing GHG emissions in line with the goals of the 20-Year National
+Strategy, National Reform Plans, the National Economic and Social Development Plan, and
+the country’s Climate Change Master Plan focusing on developing a low-carbon economy.
+Since 2015, the Ministry of Energy by the Climate Change Coordinating Working Group
+has assigned the Energy Policy and Planning Office (EPPO) to be the coordination unit
+for implementing the monitoring and evaluation report on GHG reductions from energy
+measures. In 2019, the Office of Transport and Traffic Policy and Planning (OTP) started
+reporting GHG reduction in the transport sector. The results of the GHG reductions from
+2013 - 2019 are summarized as follows:
+• In 2013, the GHG reduction was 14.34 MtCO2eq, equivalent to (3.91%) compared to BAU.
+• In 2014, the GHG reduction was 37.47 MtCO2eq, equivalent to (10.21%) compared to BAU.
+• In 2015, the GHG reduction was 40.14 MtCO2eq, equivalent to (10.94%) compared to BAU.
+• In 2016, the GHG reduction was 45.68 MtCO2eq, equivalent to (12.45%) compared to BAU.
+• In 2017, the GHG reduction was 51.72 MtCO2eq, equivalent to (14.09%) compared to BAU.
+• In 2018, the GHG reduction was 57.84 MtCO2eq, equivalent to (15.76%) compared to BAU.
+• In 2019, the GHG reduction was 64.20 MtCO2eq, equivalent to (17.49%) compared to BAU.
+(Including transport sector)
+In 2020, Thailand reduced GHG emissions to 56.54 MtCO2eq (15.40%) from 10 mitigation
+measures in the energy and transport sectors.
+
+94
+
+ 
+THAILAND'S FOURTH NATIONAL COMMUNICATION
+
+Figure 3-11: Thailand’s GHG emission reduction from NAMA implementation 2013-2020
+Source: Office of Natural Resources and Environmental Policy and Planning (ONEP)
+
+Important lessons learned from the implementation of NAMAs which can be beneficial
+for the preparation of new mitigation measures are as follows:
+1) The formation of the NAMA mitigation roadmap for the energy and transport
+sectors in line with the existing plans of government agencies contributed to the success
+of respective mitigation measures.
+2) The development of a domestic MRV system to track progress toward
+NAMA targets involved the Ministry of Natural Resources and Environment, Ministry of
+Energy, and Ministry of Transport, as well as strong cooperation from other stakeholders
+in the public and private sectors.
+3) Apart from GHG reduction, other environmental co-benefits could be integrated
+into Thailand’s policies and measures, such as biodiversity conservation, air pollution
+reduction, and marine litter management, creating multilateral cooperation under other
+conventions.
+Source: Office of Natural Resources and Environmental Policy and Planning (ONEP)
+
+95
+
+ 
+CHAPTER 3
+3.2.1.2 International Support
+Apart from the national efforts to achieve NAMA’s target, Thailand received international
+support in two key projects to reduce GHG emissions:
+RAC NAMA
+RAC NAMA project, or Thailand Refrigeration and Air Conditioning Nationally Appropriate
+Mitigation Action, is commissioned by the NAMA Facility on behalf of the German
+Ministry for the Environment, Nature Conservation, and Nuclear Safety and the UK’s
+Department for Business, Energy & Industrial Strategy and implemented by GIZ with
+support from Department of Alternative Energy Development and Efficiency (DEDE) and
+Office of Natural Resources and Environmental Policy and Planning (ONEP). A milestone
+for the IPPU sector, contributing to the NDC achievement with a total emission reduction
+of 35,000 tCO2eq. The project implementation can be classified and illustrated as follows:
+• Policy: The MRV system has been set for the RAC NAMA project through
+the policy and technical recommendations so that Thailand can report the implementation
+following the commitment under the Convention and elevate the emission reduction
+targets in this sector. The RAC NAMA safety system was demonstrated to relevant
+stakeholders to mimic the actual leakage and designate the intensity of leakage from
+the system. The result showed the efficiency of the system without any hazards.
+• Technology and training: The training center was founded to train chief
+mechanics on the safe handling of flammable refrigerants. Nine business operators were
+adequately trained to transition the production line and development. The industries
+and prototype passed the safety test. The testing operational labs within the Ministry of
+Industries were reconditioned to support the testing of air condition using flammable
+refrigerants according to new standards of IEC, EN, and TISI 1529-2561
+• Financial support: The RAC NAMA fund was established with 8.3 million EUR
+or about 300 million THB by EGAT in the name of the Thai government to be the fund
+manager. The fund aims to promote the production and utilization of eco-friendly and
+energy-efficient refrigeration technology. EGAT has provided financial aid through various
+financial instruments for the past two years.
+• Supply-side: for the producers to transition their production lines, EGAT provided
+1) a short-term loan for one year without interest for 52 million THB and 2) grants for 80
+million THB.
+• Demand-side: 1) over 10 million THB as a subsidy to induce consumers to
+purchase eco-friendly refrigerators and 2) over 146 million THB as subsidy without interest
+for marketing measures
+• Service sector: 1) 15 million THB of grants to purchase equipment for the 8
+training centers and 2) 2.5 million THB grants for reconditioning testing operational labs
+at electric and electronics institutes.
+
+96
+
+ 
+THAILAND'S FOURTH NATIONAL COMMUNICATION
+Thai Rice NAMA
+Thai Rice NAMA is a cooperative project between MOAC and GIZ, funded by NAMA
+Facility. This project, implemented from 2018 to 2023, promotes converting traditional
+to sustainable rice cultivation or GAP++ by adopting Alternative wetting and drying
+(AWD), site-specific nutrient management (SSNM), and crop residue management.
+The project targets is 100,000 farmer households in Thailand’s Central plain area (6
+provinces). The implementation and progress of the project can be described as
+follows:
+• GHG emission reduction: It targets GHG reduction of 1.7 million tCO2eq. in
+a 5-year period (2018-2023). In 2021, the emission decreased by 160,000 tCO2eq.Due
+to the COVID-19 pandemic, drought, and floods, the implementation is delayed.
+• Technology transfer: Emission reduction technologies were transferred to and
+widely adopted by farmers consisting of Alternative wetting and drying (AWD), Laser Land
+Leveling, site-specific nutrient management (SSNM), and crop residue management.
+• Policy and management: The Sustainable Rice Platform National Chapter was
+established as a forum to engage all stakeholders in developing Thai GAP++ (Sustainable
+rice standard). The Sustainable Rice Standard has been circulated for public hearing. Now
+it is in the process of revision before submission for Agriculture Standard Committee’s
+approval and announcement. The standard promotes rice cultivation method that is
+internationally recognized as contributing to climate mitigation and adaptation.
+• Technical and capacity building: Series of training on sustainable rice
+cultivation were provided for 295 officials from the Rice Department (RD) and Department
+of Agricultural Extension (DOAE) and 13,220 farmers, the entire rice fields of approximately
+63,450 ha. There was a series of training to build capacity for the service providers on
+Laser Land Leveling technology. Subsequently, the service providers used this technology
+to level the rice fields to 69 farmers in 151.24 ha.
+• Financial mechanism: Pre-finance mechanism was established by having the Bank
+for Agriculture and Agricultural Cooperatives (BAAC) as a grant manager. By integrating
+the project into BAAC’s green finance mechanism, 1,328,444 THB were provided for
+farmers to prepare rice fields using Laser Land Leveling technology.
+From implementing the Thai Rice NAMA project, the RD, BAAC, and GIZ considered
+that sustainable rice cultivation benefited Thailand’s economic, social, and environmental
+development and enhanced the farmers’ standard of living. The relevant agencies
+continue to scale up and expand the project implementation to other provincial parts of
+Thailand. As an Accredited Entity, GIZ held a discussion session with the ONEP and BAAC
+to develop a concept note for strengthening Climate Smart Rice Farming and submit
+this concept project to Green Climate Fund: GCF in 2021. The approval is to be followed.
+Another extension from the Thai Rice NAMA is the project of Strengthening ClimateSmart Rice Value Chains, aiming to improve the capacity of rice farmers and service
+providers on climate mitigation and adaption technology. The project targets 250,000
+farmer households in 15 provinces with emissions from rice fields of 3.7 million tCO2eq.
+The project will be developed through a rice cultivation paradigm shift, rice value chain
+generation, and private sector participation.
+Source: Bangkok Metropolitan Administrator (BMA)
+97
+
+ 
+CHAPTER 3
+3.2.2 Preparation for NDC Transition
+When NAMA ended in 2020, Thailand has transitioned toward the second phase, i.e.,
+Nationally Determined Contribution (NDC) that focuses on reducing GHG emissions in
+the energy, transport, IPPU, and waste management sectors which is more challenging
+than the first phase. Therefore, it is necessary to have various mechanisms for operations
+to achieve the goals. ONEP has prepared the following:
+3.2.2.1 Preparation for NDC Tracking System
+Thailand has established the MRV system to track progress on climate mitigation measures
+under the NDC Roadmap 2021-2030. MRV system plays a significant role in steering
+the implementation of mitigation measures to achieve the targets set by responsible
+agencies in the following sectors: Energy, Transport, IPPU, and Waste. It also enables
+all relevant stakeholders’ engagement, including the public sector, private sector,
+academic institutions, international organizations, and citizens, to acknowledge problems
+and constraints arising from such implementation. Thus, the mitigation policies, plans, and
+measures can be revised, making them appropriate and in line with the current situation.
+ONEP, as a national focal point of the Convention, the Ministry of Energy, Ministry of
+Industry, Ministry of Natural Resources and Environment, and the private sectors has
+prepared to measure, report, and verify the implementation of mitigation measures under
+the NDC Roadmap on three sectors: Energy, IPPU, and Waste.
+In the Energy sector, the information form and methodology were developed.
+The handbook on MRV will be prepared to apply for 1) measures enhancing
+energy efficiency from reusing heat (energy production and industrial use), 2) measures
+enhancing energy efficiency from electricity used in the manufacturing industry, and
+3) measures enhancing energy efficiency from heat production in the manufacturing
+industry. In the IPPU sector, the representatives from the Ministry of Industry, Thai Cement
+Manufacturers Association, and Thailand Concrete Association have discussed and
+prepared the MRV system. As a result, the MRV framework will be applied to
+clinker substitution measures in hydraulic cement production. In the Waste sector, ONEP
+initiated a working session with TGO and PCD to develop a methodology for GHG
+emission reduction, designate the emission factors, test the MRV system, and improve
+the MRV handbook for measures on municipal solid waste management and biogas
+production from industrial wastewater.
+3.2.2.2 Study and analysis of guidelines for reporting GHG reduction and developing
+a system to collect and link data from all sectors under the Enhanced Transparency
+Framework (ETF) of the Paris Agreement
+ONEP has prepared a study and an analysis of activity data reporting patterns and
+supporting information in various fields from measures under the national participation
+mechanism established in accordance with the Enhanced Transparency Framework under
+the framework of the Paris Agreement Work Program (PAWP) and the resolutions of
+the Conference of Parties (COP). This preparation aims to develop a TGEIS system to
+support GHG inventory and the MRV system for NDC tracking. ONEP has also analyzed
+the monitoring and evaluation guidelines to cover the NDC action plan for 2021–2030.
+98
+
+ 
+THAILAND'S FOURTH NATIONAL COMMUNICATION
+
+3.2.2.3 Preparation for an economic and social impact assessment on LT-LEDS
+measures implementation
+ONEP has prepared a study to assess the economic and social impacts of
+the implementation of greenhouse gas reduction measures under the long-term national
+strategy by gathering information related to the socio-economic impact assessment, such
+as general information, socio-economic status, demand-supply condition (demand-supply),
+both current and future forecasts, the impact of COVID-19 pandemic, demographics,
+employment, and related policies. Subsequently, ONEP has used a model to analyze and
+compare the results of overall and sectoral studies of long-term GHG reduction measures
+implementation under the case of 1.5 °C and the case where Thailand moves toward
+carbon neutrality.
+Source: Office of Natural Resources and Environmental Policy and Planning (ONEP)
+
+3.2.3 Supporting Measures and Voluntary Actions
+Clean Development Mechanism: CDM
+The Clean Development Mechanism (CDM), defined in Article 12 of the Kyoto Protocol,
+allows a country with an emission-reduction or emission-limitation commitment under
+the Kyoto Protocol (Annex B Party) to implement an emission-reduction project in
+developing countries. Such projects can earn saleable certified emission reduction
+(CER) credits, each equivalent to one ton of CO2, which can be counted toward meeting
+Kyoto targets. Thailand Greenhouse Gas Management Organization (TGO), as Designated
+National Authority of CDM, has issued Letter of Approval to 222 projects. Thailand
+has 154 CDM projects registered by the Clean Development Mechanism Executive
+Committee (CDM EB), classifying UNFCCC projects into 147 general projects and
+7 planned projects (PoA). In addition, Thailand has 70 CDM projects certified for
+greenhouse gases (issued CERs) with 15.03 million tCO2eq.
+
+Figure 3-12: Thailand’s GHG emission reduction 2013-2020 from NAMA implementation
+Source: Thailand Greenhouse Gas Management Organization (TGO)
+99
+
+ 
+CHAPTER 3
+Joint Crediting Mechanism (JCM)
+The Joint Crediting Mechanism (JCM) is a bilateral mechanism initiated by Japan to
+help Thailand adopt low-carbon technology for greenhouse gas reduction projects with
+financial support from the Japanese government. The JCM mechanism is managed by
+the Joint Committee, which consists of committees from Japan and Thailand. Greenhouse
+gas reduction projects require measurement, reporting, and verification (MRV) to ensure
+reliable reduction in greenhouse gases. The Joint Committee endorses the methodology
+used to calculate the amount of greenhouse gases that can be reduced. Register and
+certify the amount of greenhouse gases that the project reduces, also known as carbon
+credits. Certified reductions in greenhouse gases can be used to meet greenhouse gas
+reduction targets under the United Nations Framework Convention on Climate Change
+(UNFCCC). From 2015-2021, the Ministry of Environment of Japan has funded 38 of
+Thailand’s projects to develop JCM Model Projects, expected to be reduced GHG by
+204,968 tCO2eq/year.
+Source: Thailand Greenhouse Gas Management Organization (TGO)
+
+Low Emission Support Scheme (LESS)
+The Low Emission Support Scheme, also known as the LESS project, aims to raise
+awareness of greenhouse gas emission reduction and support the operators of greenhouse
+gas reduction activities by providing them a letter of recognition (LOR). LOR is issued for
+the activities that have already been implemented and achieved GHG reduction, and
+the GHG reduction cannot be sold or purchased. The objectives are to honor
+the operators, encourage greenhouse gas reduction activities on a small scale, such as
+communities, temples, and schools, and encourage support for implementing greenhouse
+gas reduction projects. The benefits of LESS implementation include:
+• Showing Corporate Social and Environmental Responsibility (CSR) through
+the implementation of greenhouse gas reduction activities
+• Creating opportunities for the communities to receive funding, technology, and
+potential development support in conducting greenhouse gas reduction activities
+• Contributing to job creation and revenue from activities that reduce greenhouse
+gases
+• Supporting the development of greenhouse gas reduction technology in
+the country
+• Restoring and maintaining the ecological balance of natural resources and
+the environment
+• Raising awareness for organizations, agencies, and communities to contribute to
+greenhouse gas reduction and conduct environmentally friendly activities
+From 2015-2021, there are 1,041 operators and 7,697 activities with total GHG reduction
+of 3,518,444 tCO2eq and total carbon sequestration 186,582,286 tCO2eq.
+
+100
+
+ 
+THAILAND'S FOURTH NATIONAL COMMUNICATION
+
+Figure 3-13: GHG reduction from LESS projects during 2015-2021
+Source: Thailand Greenhouse Gas Management Organization (TGO)
+
+Thailand Voluntary Emission Reduction Program (T-VER)
+Thailand has established guidelines on the trading and use of carbon credits for
+domestic and international purposes. Recognizing global awareness of climate
+change and GHG emissions reduction, as well as the guidelines under Article 6 of
+the Paris Agreement, Thailand Greenhouse Gas Management Organization (TGO) has
+developed an internationally equivalent standard of Thailand Voluntary Emission
+Reduction Program or T-VER as an alternative for project developers to use and trade
+internationally recognized carbon credits. T-VER mechanism promotes and supports
+all sectors to voluntarily participate in GHG emission reduction. The T-VER carbon
+credits are developed in compliance with the requirements of the GHG reduction
+mechanism under Article 6.4 of the Paris Agreement and the international voluntary GHG
+reduction mechanism implemented by non-governmental organizations such as the
+Verified Carbon Standard (VCS) and the Gold Standard (GS). The participants can trade
+the emission reduction unit or carbon credit, called “T-VER,” under the voluntary carbon
+result in carbon sequestration within Thailand’s jurisdiction. The benefits of T-VER include:
+• Carbon Credits can be used for CSR purposes and voluntary carbon offsets for
+companies.
+• Encouraging the development of GHG emission reduction projects with
+co-benefits by means of certifying carbon credits
+• Promoting Voluntary Carbon Market in Thailand
+• Raising perception /awareness of climate change and encouraging public and
+private sector involvement
+• Preparing all stakeholders for the future new agreement on Global GHG emission
+reduction
+From 2014-2021, 257 projects have been registered as T-VER projects with the expected
+GHG emissions reduction potential of 9,582,052 tCO2eq per year.
+
+101
+
+ 
+CHAPTER 3
+
+Figure 3-14: Expected GHG reduction from T-VER projects 2014-2021 (tCO2eq/year)
+Source: Thailand Greenhouse Gas Management Organization (TGO)
+
+Carbon Offsetting Program and Voluntary Carbon Market
+In 2013, Thailand launched the Thailand Carbon Offsetting Program (T-COP). Each
+participant (i.e., individuals, organizations, products & services, and events) can voluntarily
+offset their GHG emissions in this offsetting carbon program. It provides a platform for
+a participant to offset its carbon footprint by contributing money to retire the certified
+carbon credits, particularly the domestic carbon credits from (T-VER). This has created
+a voluntary carbon market in Thailand with a transaction volume of around 286,000
+tCO2eq at the average price of carbon credits around 34 THB/tCO 2eq. Thailand’s
+carbon market is a small voluntary market with an average growth rate of 8.5% per annum,
+with most carbon credit trading within Thailand in the form of negotiations. (Over-theCounter: OTC) the price of carbon credits is between 15-200 THB/ tCO2eq. From 20132021, overall participants are 112 companies with 690,678 tCO2eq carbon credits, 46
+products with 3,471 tCO2eq carbon credits, 107 events with 15,523 tCO2eq carbon
+credits, and 1,265 individuals with 5,817 tCO2eq carbon credits.
+
+Figure 3-15: Participants in Thailand Carbon Offsetting Program (T-COP)
+Source: Thailand Greenhouse Gas Management Organization (TGO)
+102
+
+ 
+THAILAND'S FOURTH NATIONAL COMMUNICATION
+Corporate Carbon Footprint (CCF)
+Corporate Carbon Footprint for Organization (Corporate Carbon Footprint: CCF) is
+a method for displaying the amount of greenhouse gases emitted from corporate
+operations. This will lead to the determination of the management approach. Manage to
+effectively reduce greenhouse gas emissions at the factory, industrial and national levels.
+Currently, TGO has created a project to promote the organization’s carbon footprint in
+the industrial sector and local government. CCF shows the amount of greenhouse gases
+emitted by corporate activities such as fuel combustion, electricity consumption, waste
+management, and transportation. It can be used to drive the organization’s management
+of greenhouse gas emission reduction.
+
+Figure 3-16: Statistic of registered companies for CCF
+Source: Thailand Greenhouse Gas Management Organization (TGO)
+
+103
+
+ 
+CHAPTER 3
+Carbon Footprint Products (CFP)
+TGO initiated the Carbon Footprint of Products promotion project to raise
+consumer awareness and disseminate Carbon Footprint (CFP) labeling information from
+the production process through the products in the market. The CFP label attached to
+the products shows consumers how much greenhouse gases are emitted throughout
+the products’ life cycle from acquiring raw materials, production processes, distribution,
+use, and waste management after expiration of use, which helps to make consumers’
+decisions. The scheme aims to induce manufacturers to adopt mitigation measures and
+reduce GHG production with consumers’ purchase power. Furthermore, this CFP can
+be used by business partners through their supply chain; the buyers can request CF
+information of purchased raw materials from suppliers to quantify their CFP through their
+products’ life cycle. Thus, the final manufacturers can disclose their CFP on products to
+express their awareness of global warming and climate change.
+This effort can also increase the competitiveness of Thai producers in the global market,
+where the concern on the importance of global warming and climate change is continually
+increasing. TGO, in collaboration with the National Science and Technology Development
+Agency (NSTDA), developed requirements and guidelines for quantifying the Carbon
+Footprint of Products. The guidelines aim to disseminate a standardized approach to
+Thai producers to quantify their CFP. TGO has developed the CFP certification and
+registration scheme for Thai producers in accordance with ISO 14067: 2018 Greenhouse
+gases – Carbon footprint of products – Requirements and guidelines for quantification
+and developed a third-party verification system to increase the credibility and reliability
+of the Thai CFP scheme to meet the International Standardization. Producers who intend
+to quantify their CFP shall comply with the assigned Product Category Rule (PCR) and
+the requirements and guidelines for quantifying the Carbon Footprint of Products.
+
+104
+
+ 
+THAILAND'S FOURTH NATIONAL COMMUNICATION
+
+Figure 3-17: Statistic of registered products for CFP
+Source: Thailand Greenhouse Gas Management Organization (TGO)
+
+Carbon Footprint Reduction (CFR)
+Carbon Footprint Reduction Label (CFR) or Global Warming Reduction Label is a label that
+demonstrates a certified Carbon Footprint of Product (CFP) and its emissions reduction
+based on the TGO eligible reduction criteria. The CFR evaluation process includes
+the quantification and certification of the base year and current year CFP and
+the comparison results between the base year and current year certified CFP or against
+its product category benchmarking threshold announced by TGO. The product registered
+as CFR shall comply with the following requirements: 1) The certified CFP of its current
+year compared to the base year certified CFP shall be reduced not less than 2% or
+2) The certified CFP of its current year is equal to or less than the product category
+benchmarking threshold and not more than its base year certified value. In 2021,
+127 products from 28 companies were labeled with an overall emission reduction of
+294,055 tCO2.
+
+105
+
+ 
+CHAPTER 3
+
+Figure 3-18: Statistic of registered companies and products for CFR
+Source: Thailand Greenhouse Gas Management Organization (TGO)
+
+Low Carbon City
+• Municipality and GHG Inventory
+The department of local governments and TGO collaborated to encourage local
+governments to report greenhouse gas data in local governments and cities to promote
+the management of greenhouse gases in local governments to become a carbon
+reduction politics and as a database for greenhouse gas reduction activities to become
+a carbon reduction city. From 2011-2021, a total of 237 municipalities participated in
+the project, and also expanded the city’s carbon footprint in 2014 to guide the reporting
+of urban greenhouse gas data as well as for the year 2019, with the cooperation of
+94 municipalities, which has been implemented in the city-level greenhouse gas data
+reporting guidelines and appropriate greenhouse gas reduction plans in each area.
+
+106
+
+ 
+THAILAND'S FOURTH NATIONAL COMMUNICATION
+
+25M
+
+23,000,013
+
+Greenhouse ges emissions (tCO2eq)
+
+21,971,061
+20M
+scope 1
+5M
+
+13,472,055
+
+15,805,945
+
+scope 2
+scope 3
+
+10M
+
+5M
+
+5,775,730
+
+6,241,806
+
+3,035,940
+
+3,234,196
+3,286,152
+0
+chon buri
+
+2,604,980
+
+1,642,773
+
+5,760,915
+
+5,347,610
+
+2,790,675
+2,612,586
+
+2,424,489
+
+570,718
+
+1,267,533
+
+315,301
+
+817,506
+
+357,654
+
+surin
+
+sukhothai
+
+nakhon pathom
+
+rayong
+
+chachoengsao
+
+province
+
+Figure 3-19: GHG emissions caused by provincial activities in 2021
+Source: Thailand Greenhouse Gas Management Organization (TGO)
+
+• Achieving Low Carbon Growth in Cities through Sustainable Urban System
+Management in Thailand Project (GEF5) (LCC)
+TGO and the United Nations Development Programme (UNDP) have joined forces to
+develop the project “Achieving Low Carbon Growth in Cities through Sustainable Urban
+System Management in Thailand,” with financial support from the World Environment
+Fund (Global Environment Fund: GEF) of 3.15 million USD. The project was launched in
+2017 and accomplished in July 2021.
+The LCC project was designed as a four-year project to promote low-carbon urban
+development in mid-sized Thai cities. It pursues the dual aims of greenhouse gas
+(GHG) emissions reductions, economic benefits, and enhancement of the lives of local
+people through an improved urban environment. Emphasis is on the waste management,
+transport, and electricity end-use sectors. The project cooperates with the four mid-sized
+Thai cities of Nakhon Ratchasima, Chiang Mai, Samui, and Khon Kaen.
+LCC targets three outcomes for its partner cities: (1) low carbon planning,
+(2) demonstration of low carbon city initiatives, and (3) financing of increased
+investment in low carbon city initiatives. For each city, the low carbon planning work
+features, development of city carbon footprints, and low carbon development strategies
+are to be incorporated into mainstream planning. The demo outcome features a package
+of demos for each city. Nakhon Ratchasima and Khon Kaen demos cut across all three
+sectors: waste management, end-use energy/ distributed solar PV, and transport, while
+
+107
+
+ 
+CHAPTER 3
+Chiang Mai focuses entirely on transport and Samui on organic waste management.
+The financing/ investment outcome was intended to develop financing mechanisms
+for low carbon development, but its design also features capacity building and
+awareness-raising. Subsequently, TGO has set up a Bureau for Low Carbon Cities and plans
+additional city-level outreach, though it aims to address the local level through
+cooperation with provinces. TGO also plans to work with the responsible Ministry, MOI,
+to develop low-carbon KPIs for the city and provincial staff.
+Source: 1) Thailand Greenhouse Gas Management Organization (TGO) 2) Terminal Evaluation – Thailand LCC Project,
+United Nations Development Programme
+
+Developing Low Carbon and Circular Economy Model for Industry in Eastern
+Economic Corridor (EEC) Area
+To accelerate economic growth in the next 20 years, the Thai government has set
+a strategy to promote investment, trade, production, and services in the Eastern
+Economic Corridor (EEC). The EEC was designated as a sandbox (pilot area) for various
+economic, social, and environmental development initiatives. In terms of production,
+more than 37% of the total factories in Thailand are located in the EEC area. Thus, this
+area possesses a high GHG reduction potential and could be developed as a model for
+low-carbon industrial cities. In 2018, TGO initiated “Integrating Climate Actions into
+the Eastern Economic Corridor: Toward Low Carbon Industry Project.” The objectives
+are 1) to develop
+a circular economy and low carbon model for the industry in the EEC area (CE-EEC
+model), 2) to provide recommendations on circular economy for low carbon industry in
+the EEC area, 3) to conduct a survey on low carbon technologies and encourage
+industries to self-assess their low carbon industry readiness, and 4) to develop and integrate
+the circular economy database into GHG Mitigation Information Platform developed by
+TGO.
+During 2019-2020, policy recommendations and action plans during 2021-2030 were
+developed to promote the low-carbon industry in the EEC area. Sixty factories from 3
+provinces in the EEC area participated and implemented GHG management and
+emission reduction activities. Among these factories, 44 factories calculated and reported
+an organization’s carbon footprint (CFO), 11 factories reported the carbon footprint of
+a product (CFP), and 7 factories developed T-VER projects. GHG Mitigation Information
+Platform was established to disseminate the project information, knowledge, and
+information relevant to GHG emission reduction, such as low-carbon technologies,
+number, and name of factories registered to CFO/CFP/T-VER scheme with TGO. In 2021,
+6 industries were adopting the CE-EEC Model with the capacity to reduce GHG
+emissions equivalent to 1.69 million tCO2 per year. Sets of data on raw materials, product
+parts, by-products, and wastes were collected from 88 industries in the EEC areas. From
+the data received from 111 industries, in case technologies are advanced, the capacity
+to reduce GHG emissions significantly increases to 11,772.42 tCO2. A low carbon
+technologies database surveyed 85 factories, and results reveal the low carbon industry
+readiness self-assessment from 75 factories.
+Source: Thailand Greenhouse Gas Management Organization (TGO)
+108
+
+ 
+THAILAND'S FOURTH NATIONAL COMMUNICATION
+Thailand Carbon Neutral Network (TCNN):
+Thailand Carbon Neutral Network was established to promote cooperation between
+governments in GHG reduction to create sustainable growth in a climate-friendly society
+and move toward net-zero GHG emissions aligning with the international community
+and the Paris Agreement. The operational objectives include: promote and support
+organizations in feasibility studies, readiness potential implementation guidelines and
+announcement of carbon neutral targets at the enterprise level; encourage increased GHG
+reduction activities; enhance the benefits of sustainable development from greenhouse
+gas reduction activities and projects; create a platform for exchanging best practices and
+experience in managing and reducing greenhouse gas emissions between organizations
+in the network; and promote info sharing/ exchanges between government agencies
+and private sector organizations in the network. Network member’s features
+are organizations registered in Thailand or established under Thai law and express
+a willingness to participate in promoting the pursuit of carbon neutrality, at least one
+level of activity, product, or organization.
+Source: Thailand Greenhouse Gas Management Organization (TGO)
+
+109
+
+ 
+110

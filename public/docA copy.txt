@@ -1,0 +1,3213 @@
+3. MITIGATION ASSESSMENT
+3.1
+
+Introduction
+
+Efforts continued to be taken by Malaysia to mainstream mitigation actions into its
+development through the development and implementation of polices, plans and
+programmes that have mitigation co-benefits which at the same time meets the
+development needs of the country. Specifically in the 12th Malaysia Plan (2021-2025),
+one of the main thrusts is on ‘Advancing Green Growth to Enhance Environmental
+Sustainability’. There are three priority areas for this thrust and each priority area has
+respective strategies which are as follows:
+i.
+
+ii.
+
+iii.
+
+Priority Area A – Implementing a Low-Carbon, Clean and Resilient
+Development
+• Strategy A1 – Moving Towards a Low-Carbon Nation
+• Strategy A2 – Accelerating Transition to the Circular Economy
+• Strategy A3 – Sharing Responsibility in Pollution Prevention
+• Strategy A4 – Increasing Resilience against Climate Change and
+Disasters
+Priority Area B – Managing Natural Resources Efficiently to Safeguard Natural
+Capital
+• Strategy B1 – Conserving Natural Ecosystems
+• Strategy B2 – Protecting and Conserving Species and Genetic
+Resources
+• Strategy B3 – Ensuring Sustainable Utilisation and Benefit Sharing
+• Strategy B4 – Enhancing Conservation of Water Resources
+Priority Area C – Strengthening the Enabling Environment for Effective
+Governance
+• Strategy C1 – Strengthening Environmental Governance
+• Strategy C2 – Scaling-up Green Financing and Investments
+• Strategy C3 – Instilling Sense of Ownership and Shared Responsibility
+
+The emphasis to minimize GHG emissions are highlighted through the green growth
+implementation, energy efficiency enhancement and green mobility promotion
+initiatives in the 12th Malaysian Plan as well. The awareness of the need to accurately
+quantify mitigation actions and their effects is also increasing among the government
+agencies and the private sector.
+Additional efforts however are required for Malaysia to meet the mitigation targets
+stated in the updated NDC submitted to the UNFCCC in July 2021. That pledge
+expressed Malaysia’s commitment to reduce by 45% its GHG emissions per GDP by
+2030, relative to its emissions intensity in 2005.
+This chapter provides a summary of polices, plans and programmes in place to drive
+the mitigation agenda of the country as part of its sustainable development agenda.
+54
+
+ 
+An indicative GHG emissions modelling projection on possible mitigation pathways for
+Malaysia to fulfil its Paris Agreement target is also provided. The quantified Mitigation
+Actions and Their Effects are reported in the Fourth Biennial Update Report.
+3.2 National Policy and Framework
+A brief description of the updated national Policy and Planning Framework for
+mitigation is provided as below.
+3.2.1 National Policy on Climate Change
+The main policy to guide Government agencies, industry, communities and other
+stakeholders in addressing the challenges of climate change in an effective and
+holistic manner is provided in the National Policy on Climate Change approved by the
+Cabinet in 2009. The policy recognised the need for both mitigation and adaptation to
+be carried out in a balanced manner where national responses that consolidate
+economic, social and environmental development goals are mainstreamed based on
+the following five principles:
+•
+•
+•
+•
+•
+
+Development on a sustainable path: To integrate climate change responses into
+national development plans to fulfil the country’s aspiration for sustainable
+development;
+Conservation of environment and natural resources: To strengthen implementation
+of climate change actions that contribute to environmental conservation and
+sustainable use of natural resources;
+Coordinated implementation: To incorporate climate change considerations into
+the implementation of development programmes at all levels;
+Effective participation: To improve participation of stakeholders and major groups
+for effective implementation of climate change responses; and
+Common but differentiated responsibilities and respective capabilities:
+International involvement on climate change will be based on the principle of
+common but differentiated responsibilities and respective capabilities.
+
+3.2.2 Sectoral Policies
+The policies that give effect to mitigation are contained in sectoral polices related to
+the energy; transport; IPPU; waste; land use, land-use change and forestry; and
+agriculture sectors. These policies are implemented by the respective Ministries and
+their associated Agencies through the Malaysia Development Plans.
+Table 3.1 summarises the major mitigation actions across those sectors and their
+related key policies. The practical targets of these mitigations are discussed in greater
+detail in the respective sections of the GHG emission projection section of this chapter.
+
+55
+
+ 
+Table 3.1: Major Mitigation Actions and Related Policies
+Sector/ SubSector
+Energy1
+Power
+Generation
+
+Mitigation Actions
+
+Related Policies
+
+Policy Target
+
+Renewable Energy
+Initiatives
+
+•
+
+National
+Renewable
+Energy Policy
+and Action Plan
+(NREPAP,
+2011)
+12th Malaysia
+Plan
+
+•
+
+National
+Energy
+Efficiency
+Action Plan
+(NEEAP, 2015)
+Efficient
+Management of
+Electrical
+Energy
+Regulations
+(EMEER, 2008)
+12th Malaysia
+Plan
+National
+Energy Policy,
+1979
+Electricity
+Regulation,
+1994
+Gas Supply
+Regulation,
+1997
+
+•
+
+•
+
+Energy Efficiency
+
+•
+
+•
+
+•
+Generation of power
+from coal power plant
+
+•
+•
+•
+
+1Energy
+
+•
+
+The
+development
+and utilisation
+of renewable
+energy
+resources to be
+intensified to
+achieve the
+target of 31%
+RE of the total
+installed
+capacity for the
+whole of
+Malaysia (12th
+Malaysia Plan)
+52,233 GWh of
+electricity
+savings over a
+10-year period
+from 2016 to
+2025,
+corresponding
+to an electricity
+demand growth
+reduction of 8%
+at end of the
+plan.
+Reduced share
+of installed
+capacity in the
+overall power
+generation
+capacity mix for
+Peninsular
+Malaysia from
+42% in 2020 to
+29% in 2030
+
+policies developed from 2020 onwards especially the National Energy Transition
+Roadmap (NETR) that was developed in 2023 would only be reported in the first Biennial Transparency
+Report of Malaysia in 2024. Some of the targets in the National Energy Policy 2022-2040 were
+considered in the development of the projection.
+
+56
+
+ 
+Sector/ SubSector
+
+Transport
+
+Mitigation Actions
+
+Related Policies
+•
+
+Fuel
+Diversification
+Policy, 2001
+
+Electric Vehicles
+
+•
+
+Low Carbon
+Mobility
+Blueprint 20212030
+
+•
+
+100,000 electric
+vehicles by
+2030
+
+Biofuel Initiative
+
+•
+
+National Biofuel
+Policy, 2006
+12th Malaysia
+Plan
+
+•
+
+National Biofuel
+Policy, 2006
+12th Malaysia
+Plan
+National Solid
+Waste
+Management
+Policy (revised
+2016)
+12th Malaysia
+Plan
+
+•
+
+Mandate of B10
+(10% bio-diesel
+blending)
+starting from
+2019.
+Mandate of B7
+biodiesel
+starting from
+2019.
+40% recycling
+rate of
+household
+waste by 2025.
+
+MPOB
+Mandatory
+Regulation
+(2014)
+National
+Agrofood Policy
+2.0 (20212030)
+National
+Agricommodity
+Policy 20212030 (DAKN
+2030)
+
+•
+
+Increase of
+biogas capture
+facilities
+
+•
+
+Increase yield
+per hectare to
+optimise land
+use
+Optimum use of
+fertilisers
+
+•
+Industries
+
+Biofuel Initiative
+
+•
+•
+
+Waste
+
+•
+
+Waste Recycling
+
+•
+
+•
+
+Agriculture
+
+Policy Target
+
+•
+
+Methane Recovery
+from POME
+
+•
+
+•
+
+Good Agriculture
+Practices
+
+•
+
+•
+
+57
+
+(as per the
+Report on
+Peninsular
+Malaysia
+Generation
+Development
+Plan 2019
+(2020 – 2030))
+
+•
+
+•
+
+ 
+Sector/ SubSector
+Land Use,
+Land-Use
+Change and
+Forestry
+
+Mitigation Actions
+
+Related Policies
+
+Policy Target
+
+•
+
+•
+
+•
+
+Sustainable Forest
+Management
+
+•
+
+•
+
+Malaysia Policy
+on Forestry
+National Policy
+on Biological
+Diversity 20162025
+REDD Strategy
+
+At least 50% of
+Malaysia’s land
+mass remains
+forested.
+
+3.2.2.1 Energy Management and Conservation
+In 2019 the power sector contributed 32% of the country’s GHG emissions. Energy
+security and affordable electricity rates to consumers remain the main priorities of the
+country. Hence to a large extent, the energy mix for electricity generation is dictated
+by population affordability. Nevertheless, efforts are being taken to cap the share of
+coal in the energy mix. In addition, efforts continue to be taken to enhance the share
+of clean and green energy sources in its electricity generation and at the same time
+encouraging energy efficiency in its usage.
+The National Energy Transition Roadmap (NETR) was recently launched in July 2023
+with aims to power the future by unlocking potentials in new growth areas and
+delivering progress and prosperity to Malaysian households and businesses. The plan
+aspires to steer Malaysia’s shift from traditional fossil fuels-based economy to a highvalue green economy. The policies conducted and outlined in this plan will be reported
+in the first Biennial Transparency Report of Malaysia in 2024.
+Apart from NETR, the Hydrogen Economy and Technology Roadmap (HETR) was
+also recently launched in October 2023 with the aims to achieve decarbonisation and
+to spearhead the hydrogen economy through the application of hydrogen and its
+derivatives. It is a living document for new industrial development propelled by the
+applicable technologies and innovations.
+Renewable Energy
+In the 12th Malaysia Plan, the development and utilisation of renewable energy will be
+intensified from 21.5% in 2019 to 31% by the end of the plan in 2025. The focus in the
+renewables include greater usage of biomass and biogas, apart from implementation
+of power generation from hydro and solar resources. The contribution of mitigation
+actions through the RE electricity from solar is estimated to increase through the
+increased installed capacity of renewable power sources. The adoption of new
+technologies comprising the energy storage system is planned to be promoted to
+address the intermittency issue in the renewable energy.
+Energy Efficiency
+A number of energy efficiency programmes had been reported since the first BUR.
+The newest of these is the National Energy Efficiency Action Plan which has been
+approved in 2016 for implementation. The NEEAP sets a target to save 52,233 GWh
+58
+
+ 
+amount of electricity over a 10-year period from 2016 to 2025 that corresponds to an
+electricity demand growth reduction at the end of the plan of about 8.0%. These would
+be implemented through five initiatives namely,
+Initiative 1: Promotion of 5-Star Rated Appliances;
+Initiative 2: Minimum Energy Performance Standards (MEPS);
+Initiative 3: Energy Audits and Energy Management in Buildings and Industries;
+Initiative 4: Promotion of Co-generation; and
+Initiative 5: Energy Efficient Building Design.
+Through the implementation of NEEAP initiatives, GHG emissions are expected to be
+reduced.
+3.2.2.2 Transport
+The transport sector has been remained the second largest GHG emitting sector in
+the country based on the historical trend, accounting for 20% of the country’s total
+GHG emissions in 2019. Of these 20%, about 17% comes from road transportation.
+The National Transport Policy (NTP) 2019-2030 has been developed to lay the policy
+thrusts and strategies to enhance Malaysia’s economic competitiveness, provide
+strong social impact particularly with respect to inclusivity and accessibility, while
+reducing the negative impact of the transport system on the environment. It provides
+an overarching policy to guide relevant federal ministries and agencies as well as State
+Governments and Local Authorities (PBT) to develop and streamline transport
+initiatives towards a common goal, resulting in effective and efficient use of resources.
+Among the initiatives is to mainstream the shift towards electrification in the
+transportation industry as a key strategy to diminish our emissions and contribute
+towards the achievement of our national Paris Agreement GHG target. In the urban
+areas, especially in the Greater Kuala Lumpur Area, urban rail development had been
+implemented since the mid 1990’s.
+Continued implementation of the National Biofuel Policy has also resulted in higher
+blends of biodiesel being implemented for the transport sector. The B10 programme
+has been implemented since the year of 2019. While B20 biodiesel programme
+implementation is targeted to start in 2020 with phased nationwide rollout subject to
+infrastructure readiness, the B30 biodiesel blending target is to be implemented by
+2030 especially for the heavy vehicles.
+In the new National Industrial Master Plan 2030 (NIMP 2030) described below, the
+electric vehicle development is one of the four focusses in the master plan. It is also
+one of the four new growth areas identified in the NIMP 2030. There are plannings to
+install up to 10,000 charging stations to support the electric vehicle implementation in
+Malaysia. To achieve the target, the electric vehicle ecosystem and the supply chain
+will need to be strengthened.
+
+59
+
+ 
+3.2.2.3 Industrial Processes and Product Use
+Prior to 2020, the development of industries in Malaysia was guided by the Third
+Industrial Master Plan 2006-2020. That policy guided Malaysia’s long-term global
+competitiveness and innovation of the manufacturing and non-Government services
+sectors during that period. It covered 12 industries namely electrical and electronics,
+medical devices, textile and apparel, machinery and equipment, metals, transport
+equipment, petrochemicals, pharmaceuticals, wood-based, rubber based, oil-palm
+based and food processing. Success of the plan however had attracted investments
+in some high energy intensive and high GHG emitting sectors towards the end period
+of the plan.
+NIMP 2030 was launched in September 2023. This policy aims to drive the next phase
+of the country’s industrial development and advance its economic complexity,
+particularly in five key sectors: aerospace, digital economy, chemicals and
+petrochemicals, electrical and electronics, and pharmaceuticals. Among its missions
+is to push towards achieving net zero greenhouse gas emissions in the industrial
+sector through:
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+
+accelerating transition towards sustainable practices in the industrial sector;
+enhancing energy efficiency and use of renewable energy;
+catalysing low carbon technologies and carbon capture as new growth areas;
+advancing circular economy and industrial waste management; and
+shifting towards green infrastructure.
+
+The plan would help to quicken early peaking of greenhouse gas emissions from the
+industrial sector and there after guide its greenhouse gas emissions reduction towards
+net zero as early as 2050.
+The NIMP 2030 is a planning follow up to the New Investment Policy which was
+launched in October 2022. The New Investment Policy takes a comprehensive
+approach to catalyse high-quality investments to deliver forward-looking and equitable
+growth for the nation. One of the top line targets is sustained economic and wealth
+growth at 4.5-5.0% GDP growth per annum and GNI per capita growth at 5.5-6.0%
+per annum. It aspires to enhance environmental, social and corporate governance
+practices and de-risk the economy against these factors.
+3.2.2.4 Waste Management
+As stated in Chapter 2, without LULUCF, the waste sector contributed about 9% of the
+country’s GHG emissions. The GHG emissions from this sector come mainly from
+methane emissions from solid waste disposal sites and from Palm Oil Mill Effluents
+(POME). The National Solid Waste Management Policy 2016 and the 12th Malaysia
+Plan (2021-2025) set a target of 40% recycling rate by 2025. The 12 th Malaysia Plan
+also envisages that all seven types of waste (solid, sewage, scheduled waste,
+agriculture, construction and radioactive) shall be managed in a holistic manner based
+on a life-cycle approach, with increase investment to channel waste away from waste
+disposal sites to be used as a resource, either as input for other products or converted
+to energy. Such processes would help to reduce waste generation and contribute to
+GHG emissions reduction.
+60
+
+ 
+Reducing methane emissions from POME continues to be encouraged through
+Developing Biogas Facilities at Palm Oil Mills. Through this programme, palm oil mills
+are encouraged to install biogas trapping facilities to capture methane as fuel for their
+use or to generate electricity for sale to the national grid. In 2014 the Government
+mandated new palm oil mills and old mills that are expanding their capacity to install
+methane avoidance facilities. However, uptake has been slower than anticipated with
+only 130 facilities being installed by 2020.
+3.2.2.5 Land Use, Land-Use Change and Forestry
+The LULUCF sector plays an important role in Malaysia’s action to address climate
+change. This sector remains a net sink while contributing to the nation’s GDP. Hence
+it is necessary to continue to strengthen the sustainable forest management efforts of
+the country and enhance the forest reserves.
+The management of all types of forests is enshrined in the Malaysia Policy on Forestry
+(MPF) or other relevant State Forests Policy. This policy provides greater uniformity in
+implementing strategies for achieving forest conservation, management, and social
+and educational needs. It represents an important policy framework, which is
+unequivocal in maintaining that forest management must fulfil environmental and
+conservational needs besides meeting rational economic production goals. It provides
+a reference, guidelines and strong emphasis on the necessity for sound management,
+conservation, utilisation, development and protection of the forests for the three
+regions namely Peninsular, Sabah and Sarawak. This commitment is duly recognised
+and given specific attention by the National Forestry Act 1984 (Amendment 2022)
+(NFA). In Sabah, the necessary legal backing is provided by the Sabah Forest
+Enactment 1968, Forest Rules 1969 and Forest (Timber) Enactment 2015 while in
+Sarawak the Sarawak’ Forests Ordinance 2015 (Cap.71), provides the necessary
+legal framework.
+To ensure sustainable forest management, a National Committee on Sustainable
+Forest Management in Malaysia comprising representatives from various agencies in
+the forestry sector was formed in 1994 to ensure that the International Tropical Timber
+Organisation’s (ITTO) Criteria and Indicators on sustainable forest management are
+fully implemented. The standard used to asses Forest Management Units (FMUs) for
+the purpose of certification is the MC&I Standard of Performance for Forest
+Management [MC&I (2001)] which is based on the 1998 ITTO Criteria and Indicator
+for Sustainable Management of Natural Tropical Forest. The key elements for
+sustainable forest management would cover economic, social, environmental and
+conservational aspects.
+To ensure sustainable harvesting of timber, a forest certification scheme was started
+from 2002 with the adoption of the Malaysian Criteria and Indicators (MC&I) for
+Sustainable Forest Management (SFM) certification. The maximum cutting limit has
+been capped at 85 m3/ha. The Malaysian Timber Certification Council was established
+in October 1998 as an independent organisation to develop and operate the Malaysian
+Timber Certification Scheme (MTCS). The MTCS provides for independent
+assessment of forest management practices, to ensure the sustainable management
+of Malaysia’s natural forest as well as to meet the demand for certified timber products.
+For 2020, a total of 5,139,745.36 ha of natural forests and 132,989.48 ha of forest
+61
+
+ 
+plantations have been certified under the MTCS Programme for the Endorsement of
+Forest Certification (PEFC) Scheme.
+Under the 11th Malaysia Plan (2016-2020), efforts were taken on forest enrichment to
+improve degraded forests. Programmes such as the Central Forest Spine in
+Peninsular Malaysia and the Heart of Borneo programme in Sabah and Sarawak serve
+as enablers to enhance connectivity between forests, reduce fragmentation and at the
+same time improve natural resource management. This is continued in the 12 th
+Malaysia Plan, (2021-2025) where the government has committed to ‘Advancing
+Green Growth for Sustainability and Resilience’. In the main ’Game Changers’,
+reducing dependency on natural resources and maintaining at least 50% forest cover
+has been listed as one of its targets.
+A REDD plus Strategy has been developed and adopted in 2017. The Strategy
+outlines policy actions to ensure at least 50% of Malaysia’s land mass remains as
+forest. This is achieved through enhancing sustainable forest management,
+conservation activities and seeking synergies with activities under the National Policy
+on Biological Diversity 2016-2025.
+Table 3.2: Major Mitigation Actions and Related Policies
+Sector/SubSector
+Land Use, LandUse Change and
+Forestry
+
+Mitigation
+Actions
+● Reduced
+deforestation
+● Sustainable
+Forest
+Management
+
+Related Policies
+● Malaysia Policy on
+Forestry
+● National Policy on
+Biological Diversity
+● REDD Strategy
+
+Policy Target
+At least 50% of
+Malaysia’s land
+mass remains as
+forest.
+
+3.2.2.6 Agriculture
+The development of the agriculture sector in Malaysia is guided by the National
+Agrofood Policy 2021—2030 (NAP2.0) and the National Agricommodity Policy (20212030), which respectively aim to increase food production and exports of industrial
+commodities. The objectives of the National Agrofood Policy are to ensure food
+security and that the food produced is safe to eat; to make the agro-food industry
+competitive and sustainable; and to increase the agro-based entrepreneur’s level of
+income.
+Without LULUCF, agriculture accounts for 3% of Malaysia’s GHG emissions in 2019.
+Synthetic fertiliser usage accounts for about 31.6% of these emissions and efforts are
+being made to optimise fertiliser application.
+Two certification schemes guide sustainable agriculture implementation in Malaysia.
+The Malaysian Good Agricultural Practices (MyGAP) launched in 2013 is a
+comprehensive certification scheme for the agricultural, aquaculture and livestock
+sectors. The Malaysian Organic Scheme (currently known as MyOrganic) launched in
+62
+
+ 
+2007 is a certification programme to recognise organically cultivated farms which do
+not use chemical pesticides and synthetic fertilisers.
+For the commodity crops, increase of exports is to be met by increase in yield per
+hectare. Oil palm is the largest of these commodity crops and both the upstream and
+downstream activities of this sector are being improved to address land use
+competition. As of 2019, about 5.90 million ha were planted with oil palm in Malaysia
+and the maximum arable land for this crop is estimated at 6.5 million ha in 2020. The
+anticipated increase in global demand for vegetable oil will be met through increased
+oil yield per hectare. The National Agricommodity Policy and Action Plan 2021-2030
+targeted an increase of average oil yield of 3.47 tonnes per hectare in 2019 to 3.70
+tonnes per hectare by 2025 and 4.0 tonnes per hectare by 2030. The average fresh
+fruit bunch (FFB) yield is targeted to increase from 17.19 tonnes per hectare in 2019
+to 18.25 tonnes per hectare by 2025 and 19.5 tonnes per hectare per year by 2030.
+Environmental performance regulations and sustainability criteria are complied with
+through the Malaysian Sustainable Palm Oil (MSPO), Roundtable on Sustainable
+Palm Oil (RSPO) and other sustainability certification schemes. Currently, all big oil
+palm plantations are MSPO or RSPO certified to ensure environmental sustainability.
+The National Agricommodity Policy 2021-2030 targeted all oil palm plantations to be
+MSPO certified by 2030.
+3.2.3 Malaysia Development Plans
+The ambition of the sectoral polices described in sections are operationalised through
+the five-year Malaysia Development Plans. Due to competing needs of the different
+areas, implementation is dependent on the availability of development funds which is
+tied to the economic growth during the period.
+It is useful to note that the 11th Malaysia Plan provides the supports to address climate
+change through the emphasizing of sustainability. The 12th Malaysia Plan (2021-2025)
+described in the introduction takes these efforts further by having the strategic priority
+areas and the supporting initiatives. The fundamental shift is towards a development
+model that views resilient, low-carbon, resource-efficient and socially inclusive
+development as an investment that will yield future gains. The 12th Malaysia Plan
+(2021-2025) had set advancing sustainability as one of its three themes. Driving
+decarbonisation of the energy sector through greater deployment of renewable energy
+is one of the focusses.
+3.3
+
+GHG Emission Projection
+
+This section presents an assessment on Malaysia’s GHG emission projection. The
+assessment had been carried out for the period from 2020 until 2030 for the five
+sectors namely Energy, IPPU, Waste, Agriculture and LULUCF. Three key scenarios
+have been explored in the assessment. In the Without Measures (WOM) scenario, the
+GHG emissions are projected based on a “no additional policy intervention” criterion.
+The With Existing Measures (WEM) scenario takes into account the existing policies
+and planned initiatives in 2019 that would be implemented until 2030. The With
+Additional Measures (WAM) scenario looks at potential emissions reduction when
+additional mitigation measures are implemented.
+63
+
+ 
+3.3.1 GHG Emission Projection Assumptions
+The assumptions applied include the applicable sectoral and population growths are
+based on the pre-COVID-19 condition. The projection for the WOM scenario used
+population information as the Table 3.3 and GDP growth is based on the assumptions
+as the Table 3.4.
+Key Note:
+The COVID-19 pandemic, which started in the end of 2019 and relatively ended in
+2022 is estimated to cause a decrease of energy demand due to domestic lockdown
+which contributes to a lower value of energy supply. During the preparation works
+of NC4, actual energy data for the year of 2020 was still in the process of publication
+by the related agency. Hence, the projection for the year of 2020 and onwards is
+based on the pre-COVID-19 condition assumptions.
+The updates pertaining to the actual energy data for 2020 and 2021 as well a
+relatively updated projection will be reported in the next reporting document e.g. the
+First Biennial Transparency Report (BTR1).
+
+Table 3.3: Annual Population Growth Rate from 2020 to 2030
+Year
+
+2020-2030*
+
+Average Population Growth Rate
+(% per annum)
+*Projected values.
+
+1.1
+
+Table 3.4: Annual Growth Rate of GDP by Economic Activity from 2020 to 2030
+Annual Growth Rate (%)
+
+2020-2030*
+
+Agriculture
+
+1.0
+
+Mining & Quarrying
+
+Less than 0.1
+
+Manufacturing
+
+4.8
+
+Construction
+
+4.7
+
+Services
+
+8.0
+
+Total GDP
+
+4.5
+
+*Projected and derived values from DOSM’s Information on GDP based on the Type
+of Economic Activity
+
+64
+
+ 
+The macroeconomics projections up to 2030 are then used to generate energy
+demand functions using the regression software Microfit2. The energy demand
+functions generated then is used to estimate the final energy demand and supply
+projections and GHG emissions for the energy sector.
+3.3.2 Summary of GHG Emission Projection Results
+The projection indicates that the total emissions without LULUCF for Malaysia would
+be 481,363 Gg CO2 eq for the WOM case by 2030 (Figure 3.1 and Table 3.5).
+Continued implementation of the planned activities under the WEM scenario would
+bring the emissions down to 367,603 Gg CO2 eq. If further mitigation activities under
+the WAM scenario are carried out, the GHG emissions could reduce to 337,554 Gg
+CO2 eq. The mitigation assumptions for each of the scenarios and sectors are
+described in section 3.3.3.
+
+Figure 3.1: Projected Greenhouse Gas Emission Time Series for WOM, WEM
+and WAM Scenarios
+
+The energy sector is projected to continue to be the largest contributor of GHG
+emissions in 2030 followed by the IPPU and waste sectors. For the WEM scenario
+without LULUCF, the GHG emissions from the energy sector is likely to be 80% of the
+total emissions in 2030. This is followed by the IPPU sector at around 11%, the waste
+sector at about 6% and the agriculture sector at 3%. For the WAM scenario without
+LULUCF, the energy sector is likely to account for 78% of the emissions in 2030. This
+is followed by the IPPU sector at 13%, the waste sector at 7% and the agriculture
+sector at 3%.
+2 Microfit is an econometric software to generate the demand equations for each of the fuels and
+
+sectors.
+
+65
+
+ 
+Table 3.5: Projected GHG Emissions by Sector under WOM, WEM and WAM Mitigation Scenarios in 2020, 2025 and 2030
+(Gg CO2eq)
+2020
+Sector
+
+2025
+
+2030
+
+WOM
+
+WEM
+
+WAM
+
+WOM
+
+WEM
+
+WAM
+
+WOM
+
+WEM
+
+WAM
+
+273,416
+
+255,910
+
+253,052
+
+310,616
+
+270,722
+
+260,282
+
+348,550
+
+269,308
+
+248,515
+
+Industrial
+Processes and
+Product Use
+(IPPU)
+
+31,385
+
+30,304
+
+29,007
+
+44,285
+
+41,715
+
+38,365
+
+82,462
+
+56,585
+
+50,662
+
+Agriculture
+
+10,499
+
+10,499
+
+10,065
+
+14,829
+
+13,070
+
+11,285
+
+16,257
+
+13,615
+
+11,310
+
+Waste
+
+27,768
+
+26,987
+
+26,987
+
+30,612
+
+27,392
+
+26,829
+
+34,094
+
+28,095
+
+27,067
+
+Land Use, LandUse Change and
+Forestry
+(LULUCF)
+
+-227,480
+
+-231,615
+
+-233,145
+
+-220,933
+
+-227,121
+
+-229,635
+
+-220,931
+
+-225,720
+
+-232,236
+
+Total emissions
+without LULUCF
+
+343,008
+
+323,677
+
+319,088
+
+400,343
+
+352,903
+
+336,761
+
+481,362
+
+367,603
+
+337,553
+
+Total emissions
+with LULUCF
+
+115,528
+
+92,062
+
+85,943
+
+179,410
+
+125,782
+
+107,126
+
+260,431
+
+141,883
+
+105,317
+
+Energy
+
+66
+
+ 
+3.3.3 GHG Emission Projection Assessment for Each Sector
+3.3.3.1 Energy Sector
+Table 3.6 summarizes the assumptions for the energy sector mitigation actions for the
+three aforementioned mitigation scenarios, WOM, WEM and WAM. Some of the
+mitigation actions listed in the table for the WEM and WAM scenarios are lower in
+target compared to the policy aspirations in Table 3.1 due to financial and technical
+limitations in implementing those targets. These more realistic targets adopted for the
+WEM scenario and WAM scenario were derived after consultation with the
+implementing Ministries and Agencies.
+Table 3.6: Summary of Actions by Mitigation Scenarios for the Energy Sector
+Mitigation
+Action
+Renewable
+Energy
+Initiatives
+
+Generation of
+power
+from
+coal
+power
+plant
+
+WOM Scenario
+
+WEM Scenario
+
+WAM Scenario
+
+No additional RE
+installations
+from
+2019 onwards, with
+the capacity mix of
+hydro at 8 % and
+other RE at 9 % for
+Peninsular
+Malaysia.
+For Sarawak, the
+hydro
+power
+capacity remains at
+3,458 MW
+Continuous
+dependency on coal
+Installed capacity of
+coal power plants
+remained at 43 %
+from 2019 onwards
+for
+Peninsular
+Malaysia
+Energy savings from
+2019 to 2025 based
+on NEEAP policy
+implementation and
+no further increase
+of energy savings
+from 2026 onwards
+
+By
+2030,
+RE
+installed capacity for
+Peninsular Malaysia
+increased to 30 %
+share
+of
+total
+installed capacity.
+Hydro
+power
+capacity in Sarawak
+increased to for
+Sarawak at 4,743
+MW
+
+By
+2030,
+RE
+installed capacity for
+Peninsular Malaysia
+increased to 30 %
+share
+of
+total
+installed capacity.
+Hydro
+power
+capacity in Sarawak
+increased to for
+Sarawak at 4,743
+MW
+
+Reduced
+dependency
+on
+coal.
+Installed capacity of
+coal power plants
+reduced to 29 % in
+2030 for Peninsular
+Malaysia.
+Energy savings from
+2019 to 2025 based
+on NEEAP policy
+implementation and
+further improvement
+of 0.5 % energy
+savings per year
+from 2026 onwards.
+
+Enhanced reduced
+dependency
+on
+coal.
+Installed capacity of
+coal power plants
+reduced to 29 % in
+2030 for Peninsular
+Malaysia.
+Energy
+Enhanced energy
+Efficiency
+savings from 2019
+Initiatives
+in
+to 2025 based on
+Electricity
+NEEAP
+policy
+Consumption
+implementation and
+further improvement
+of 1.0 % energy
+savings per year
+from 2026 onwards.
+Fuel
+Shifting Introduction of B7 Mandate on B7 Mandate on B7
+Initiative
+in biodiesel for the biodiesel in the biodiesel in the
+Industry Sector industrial
+sector industrial
+sector industrial from 2019
+from 2019 onwards. from 2019 onwards. onwards;
+67
+
+ 
+Mitigation
+Action
+
+WOM Scenario
+
+Energy
+No improvements in
+Efficiency
+technology.
+Initiatives
+in
+Fuel
+Consumption
+
+WEM Scenario
+
+WAM Scenario
+Usage of biomass
+and
+biogas
+as
+alternative fuel.
+Assume technology
+improvements
+for
+heating lead to 1%
+improvement
+in
+energy usage in
+commercial
+and
+industrial sectors by
+2030.
+Assume
+100,000
+electric cars and
+100,000
+electric
+motorcycles on-theroad by 2030
+
+Electric
+Vehicles
+
+Assume
+no
+introduction
+of
+electric vehicles.
+
+Biofuel
+Initiative
+(Reduce diesel
+dependence
+and emissions
+by
+blending
+petroleum
+diesel
+with
+biodiesel)
+Improvement in
+Natural
+Gas
+Transformation
+
+Mandate on B7
+biodiesel in the
+transportation sector
+from 2014 onwards
+and
+no
+further
+change in biodiesel
+blending.
+
+Assume technology
+improvements
+for
+heating lead to 0.5%
+improvement
+in
+energy usage in
+commercial
+and
+industrial sectors by
+2030.
+Assume
+progressive
+introduction
+of
+electrical vehicles to
+achieve total of
+20,000
+electric
+vehicles in 2030
+Mandate on B7
+biodiesel in the
+transportation
+sector from 2014
+onwards
+and
+improve to B10 from
+2019 onwards.
+
+No new policies are
+introduced
+to
+encourage energy
+efficient practices.
+
+Improvement of 1%
+in plant operations
+and plant energy
+efficiency.
+
+Improvement of 2%
+in plant operations
+and plant energy
+efficiency,
+plus
+introduction
+of
+carbon
+capture
+technology.
+
+Improvement in No new policies are
+Oil
+Refining introduced
+to
+Industries
+encourage energy
+efficient practices.
+
+Improvement of 1%
+in plant operations
+and plant energy
+efficiency.
+
+Improvement of 2%
+in plant operations
+and plant energy
+efficiency,
+plus
+introduction
+of
+carbon
+capture
+technology.
+
+68
+
+Mandate on B7
+biodiesel in the
+transportation
+sector from 2014
+onwards
+and
+improve to B10 from
+2019 and B20 from
+2020 onwards.
+
+ 
+Mitigation
+WOM Scenario
+Action
+Reduction
+of No new policies are
+Fugitive
+introduced
+to
+Emissions
+encourage fugitive
+emission reduction
+
+WEM Scenario
+
+WAM Scenario
+
+Reduced
+routine
+flaring by 2030 and
+25%
+methane
+emission reduction
+in natural gas supply
+chain by 2030
+
+Zero routine flaring
+by 2030 and 50%
+methane emission
+reduction in natural
+gas supply chain by
+2030
+
+In all the three mitigation scenarios, the energy demand is projected to continue to
+grow in tandem with the increasing population and GDP. The modelling results
+indicate that energy demand will grow from 68.9 Mtoe3 in 2020 to 90.7 Mtoe in 2030
+in the WOM scenario and from 68.5 Mtoe in 2020 to 90.5 Mtoe by 2030 for the WEM
+scenario. For WAM scenario, the energy demand in 2020 and 2030 will be 68.0 Mtoe
+and 89.8 Mtoe respectively (Figure 3.2). The results indicate that more aggressive
+energy efficiency programmes across the sectors need to be put in place to reduce
+the demand.
+Final Energy Demand
+
+Final Energy Demand (Ktoe)
+
+100,000
+90,000
+80,000
+70,000
+60,000
+50,000
+40,000
+
+30,000
+2005
+
+2010
+
+2015
+WOM
+
+WEM
+
+2020
+
+2025
+
+2030
+
+WAM
+
+Figure 3.2: Final Energy Demand by Mitigation Scenarios from 2005 to 2030
+In-depth analysis of the final energy demand by the different sub-sectors under the
+three scenarios showed that transport sector will continue to be the highest energy
+consumer up to 2030, followed by manufacturing industries and construction (Figure
+3.3). Together these two sub-sectors are expected to account for 63% of energy
+demand in 2030, with the transport and manufacturing industries and construction
+sectors accounting for about 36 % and 27 % of the energy demand respectively in
+
+3 Energy demand value excluded fuel used for international civil aviation and international water
+
+borne navigation.
+
+69
+
+ 
+2030 for WEM scenario. In the WAM scenario, both sectors also provide the similar
+share of percentage in 2030 with the breakdown is roughly 36 % and 26 % each.
+
+120,000
+
+Final Energy Demand (Ktoe)
+
+100,000
+
+80,000
+
+60,000
+
+40,000
+
+20,000
+
+2005
+Transport
+
+2010
+
+2015
+
+Manufacturing Industries and Construction
+
+2020
+
+2025
+
+2030
+
+Residential
+
+Commercial
+
+Non Energy Use
+
+2030
+
+120,000
+
+Final Energy Demand (Ktoe)
+
+100,000
+
+A
+MB
+
+80,000
+
+60,000
+
+40,000
+
+20,000
+
+Y
+
+-
+
+2015 ear
+
+2020
+
+2025
+
+Manufacturing Industries and Construction
+
+Residential
+
+Commercial
+
+2005
+Transport
+
+2010
+
+Non Energy Use
+
+Figure 3.3: Final Energy Demand by Sub-Sectors under WEM (Top Diagram)
+and WAM (Bottom Diagram) Scenarios from 2020 to 2030
+
+70
+
+ 
+In tandem with the growth in energy demand, the GHG emissions for the energy sector
+for WOM scenario will also to grow over the projected time period (Figure 3.4).
+However, the GHG emission for the WEM and WAM scenarios will be relatively lower
+than WOM due to the effects of the aforementioned mitigation measures in the WEM
+and WAM scenarios.
+
+500,000
+400,000
+300,000
+200,000
+100,000
+
+2030
+
+2029
+
+2028
+
+2027
+
+2026
+
+2025
+
+2024
+
+2023
+
+2022
+
+2021
+
+2020
+
+2019
+
+2018
+
+2017
+
+2016
+
+2015
+
+2014
+
+2013
+
+2012
+
+2011
+
+2010
+
+2009
+
+2008
+
+2007
+
+2006
+
+0
+
+2005
+
+Emissions from Energy Sector (Gg CO2 Eq.)
+
+Project GHG Emissions for the Energy Sector
+
+Year
+WOM
+
+WEM
+
+WAM
+
+Figure 3.4: Projected GHG Emissions for the Energy Sector for WOM, WEM
+and WAM Scenarios
+
+The WOM scenario is projected to have the highest GHG emission growth rate from
+among the three scenarios, with an annual growth rate of 2.5% from 2020 to 2030.
+Under the WEM scenario, where existing mitigation policies are implemented, the
+emissions are expected to be reduced by 6.4% (17,506 Gg CO2 eq) by 2020 and up
+to 22.7% (79,242 Gg CO2 eq) by 2030, relative to the WOM scenario. Further emission
+reductions are anticipated in the WAM scenario i.e. by 6.4% (18,043 Gg CO2 eq) from
+the WOM scenario by 2020 and 28.7% (100,035 Gg CO2 eq) by 2030.
+Analysis of the projected GHG emissions for each of the energy sub-sectors (Table
+3.6) indicates that GHG emissions from the electricity sector would continue to be the
+largest emitter. However, the magnitude of GHG emission is estimated to be reduced
+in both WEM and WAM scenarios. In the WEM scenario, the GHG emissions will
+decrease from 101,206 Gg CO2 eq in 2020 to 98,657 Gg CO2 eq in 2030. For the WAM
+scenario, GHG emissions is estimated at 100,622 CO2 eq and 91,442 CO2 eq in 2020
+and 2030 each. These results indicate that increase of RE capacity in power
+generation and energy efficiency initiatives are necessary to help reduce emissions
+from this sub-sector.
+The largest increase in GHG emissions in the energy sector comes from the
+manufacturing industries and construction sub-sector, increasing from 35,416 Gg CO2
+71
+
+ 
+eq in 2020 to 55,580 CO2eq in 2030 for the WEM scenario. In 2020 and 2030, the
+value of estimated GHG emissions is 35,391 and 55,544 CO2 eq respectively under
+the WAM scenario. These increases will require further effort to reduce the GHG
+emissions of the manufacturing industries and construction sub-sector through certain
+initiatives and policies while supporting the competitiveness of the industry.
+The second largest increase in projected GHG emissions is from the transportation
+sub-sector, increasing from 63,382 Gg CO2 eq in 2020 to 66,334 Gg CO2eq in 2030
+for WEM scenario and from 62,104 Gg CO2 eq to 64,473 Gg CO2 eq in 2030 under
+WAM scenario.
+In the projections, the GHG emissions from the natural gas transformation GHG for
+WOM scenario are assumed to remain around the range of the 2019 values for the
+projection period. The GHG emissions reduction projected for the WEM and WAM
+scenarios are based on the mitigation actions mentioned in Table 3.6. For the fugitive
+emissions from the oil and gas industry, the mitigation actions for reduction are shown
+in Table 3.7.
+
+72
+
+ 
+Table 3.7: Projected GHG Emissions for the Energy Sector under WOM, WEM and WAM Mitigation Scenarios in 2020, 2025
+and 2030 (Gg CO2 eq)
+2020
+Energy Sector
+
+2025
+
+2030
+
+WOM
+
+WEM
+
+WAM
+
+WOM
+
+WEM
+
+WAM
+
+WOM
+
+WEM
+
+WAM
+
+116,622.57
+
+101,205.68
+
+100,622.32
+
+140,032.90
+
+105,132.60
+
+101,757.81
+
+168,869.81
+
+98,657.16
+
+91,442.19
+
+6,175.89
+
+6,114.13
+
+6,052.37
+
+6,175.89
+
+6,114.13
+
+6,052.37
+
+6,175.89
+
+6,114.13
+
+5,434.78
+
+20,608.80
+
+20,402.71
+
+20,196.62
+
+20,608.80
+
+20,402.71
+
+20,196.62
+
+20,608.80
+
+20,402.71
+
+18,135.74
+
+35,433.20
+
+35,416.17
+
+35,390.61
+
+42,952.68
+
+42,931.90
+
+42,902.42
+
+55,607.42
+
+55,580.30
+
+55,544.08
+
+Transport
+
+64,115.35
+
+63,381.67
+
+62,103.52
+
+70,220.93
+
+70,220.93
+
+68,158.99
+
+66,333.98
+
+66,333.98
+
+64,473.44
+
+Commercial/
+Institution
+
+2,795.29
+
+2,793.93
+
+2,792.50
+
+3,116.85
+
+3,115.32
+
+3,113.73
+
+3,434.82
+
+3,433.13
+
+3,431.38
+
+Residential
+
+1,751.09
+
+1,751.09
+
+1,751.09
+
+1,675.64
+
+1,675.64
+
+1,675.64
+
+1,535.41
+
+1,535.41
+
+1,535.41
+
+Agriculture, Forestry
+and Fishing/Fish
+Farm
+
+2,954.26
+
+2,954.26
+
+2,954.26
+
+3,142.77
+
+3,142.77
+
+3,142.77
+
+3,503.85
+
+3,503.85
+
+3,503.85
+
+Fugitive Emissions
+
+22,959.56
+
+21,890.25
+
+21,189.00
+
+22,689.84
+
+17,985.86
+
+13,281.88
+
+22,480.24
+
+13,747.27
+
+5,014.29
+
+Total Energy
+
+273,416
+
+255,910
+
+253,052
+
+310,616
+
+270,722
+
+260,282
+
+348,550
+
+269,308
+
+248,515
+
+Electricity
+Generation
+(electricity and heat
+production)
+Oil Refining
+Natural Gas
+Transformation
+Manufacturing
+Industries and
+Construction
+
+73
+
+ 
+3.3.3.2 Industrial Processes and Product Use Sector
+From the GHG Inventory, within this sector in 2019, the metal industry contributed the
+highest share (39.8%) of the sector’s GHG emissions, followed by mineral industry
+(30.7%), the chemical industry (17.5%) and the electronics industry (8.5%). GHG
+emissions from industrial processes however were projected to increase in these subsectors over the next decade due to expansion of production capacity, especially in
+the iron and steel industry. Emissions from the iron and steel industry would depend
+on control on the number and capacity of iron and steel mills approved for production.
+Except for the cement and iron and steel industries, differences in the GHG emissions
+between WOM, WEM and WAM scenarios for the other sub-sectors in this
+assessment were basically based on production growth rates.
+Production of cement in Malaysia increased from 16.66 million tonnes in 2005 to 20.04
+million tonnes in 2019. The cement production is projected to grow at about 2.5% per
+year until 2030, based on the existing capacity of 48.959 million tonnes per annum
+and with an operating capacity of 41%. Cement production in Malaysia is highly
+concentrated, with the top five players having a total market share of 90%.
+Reduction of emissions from energy usage has been taken into account in the energy
+sector calculations, hence this section shall only concentrate on the option of
+decreasing the share of clinker in cement production by adding additives like fly ash.
+In the first Biennial Update Report (BUR1), it has been recommended that the cement
+industry in Malaysia could reduce its clinker ratio to 0.75:1 by the year 2030 to help
+reduce emissions from cement production. Based on this, the proposed clinker content
+per tonne of cement in the WOM, WEM and WAM scenarios are as shown in Table
+3.8.
+
+Table 3.8: Summary of Proposed Mitigation Scenarios for Cement Production
+Mitigation Action
+Reduce clinker ratio
+in cement production
+
+WOM Scenario
+The clinker ratio to
+cement is at 88%
+(0.82:1) level until
+2030.
+
+WEM Scenario
+Cement producers
+to reduce the
+clinker ratio from
+88% in 2019 to
+81% in 2030.
+
+WAM Scenario
+Clinker ratio to be
+reduced from 88%
+in 2019 to 78% in
+2030.
+
+Based on the aforementioned assumptions, the projected GHG emission growths in
+all the three scenarios for the IPPU sector is as shown in Figure 3.5 and Table 3.9.
+Here the GHG emissions for each of the sub-sector is estimated for the projection
+period based on each sub-sector’s projected production and using the 2006 IPCC
+Guidelines. The GHG emission is projected to grow from 32,853 Gg CO2 eq in 2019 to
+82,462 Gg CO2 eq, 56,585 Gg CO2 eq and 50,662 Gg CO2 eq for the WOM, WEM and
+WAM scenarios respectively in 2030.
+74
+
+ 
+Figure 3.5: Projected GHG Emissions for the IPPU Sector for WOM, WEM and
+WAM Scenarios
+
+75
+
+ 
+Table 3.9: Projected GHG Emission for the IPPU Sub-Sectors under WOM, WEM and WAM Mitigation Scenarios in 2020,
+2025 and 2030 (Gg CO2 eq.)
+2020
+
+2025
+
+2030
+
+Sub-sector
+WOM
+
+WEM
+
+WAM
+
+WOM
+
+WEM
+
+WAM
+
+WOM
+
+WEM
+
+WAM
+
+Mineral Industry
+
+10,194.51
+
+9,466.97
+
+9,083.08
+
+10,762.30
+
+9,990.70
+
+9,583.57
+
+11,365.54
+
+10,547.22
+
+10,115.43
+
+Chemical Industry
+
+6,353.80
+
+6,195.06
+
+6,142.21
+
+8,782.40
+
+7,647.62
+
+7,209.06
+
+12,067.09
+
+9,559.60
+
+8,445.75
+
+Metal Industry
+
+10,704.58
+
+10,551.28
+
+9,732.67
+
+18,700.41
+
+18,459.51
+
+16,335.89
+
+50,191.53
+
+28,763.27
+
+25,337.59
+
+Electronics Industry
+
+3,041.61
+
+2,999.75
+
+2,957.89
+
+4,679.89
+
+4,306.53
+
+3,958.33
+
+7,200.59
+
+6,182.58
+
+5,297.14
+
+876.27
+
+876.27
+
+876.27
+
+1,092.05
+
+1,042.74
+
+1,010.82
+
+1,306.35
+
+1,201.03
+
+1,135.06
+
+214.56
+
+214.56
+
+214.56
+
+267.45
+
+267.45
+
+267.45
+
+331.27
+
+331.27
+
+331.27
+
+31,385
+
+30,304
+
+29,007
+
+44,285
+
+41,715
+
+38,365
+
+82,462
+
+56,585
+
+50,662
+
+Product Uses as
+Substitute for ODS
+Other Product
+Manufacture & Use
+Total Emissions
+
+Note: ODS refers to Ozone Depleting Substances.
+
+76
+
+ 
+3.3.3.3 Agriculture
+As mentioned earlier food security is one of the key concerns of Malaysia. In 2019
+emissions from the agriculture sector was about 9,922 Gg CO2 eq., with direct N2O
+emissions from managed soils accounting for about 3,737 Gg CO2 eq. (37.7%) of the
+emissions and rice cultivations accounting for about 2,269 Gg CO2 eq. (22.9%) of the
+emissions. Increasing self-sufficiency in food production especially livestock would
+lead to increase level of GHG emissions.
+Reducing emissions from the agriculture sector through good agriculture practices
+would include optimising the usage of synthetic fertiliser for crop yield. This can be
+achieved by applying what is commonly known as the 4R’s:
+•
+•
+•
+•
+
+Right N application rate
+Right formulation (fertiliser type)
+Right timing of application, and
+Right placement
+
+Discussions with the agriculture research institutions indicate the possibility of
+reduction of about 10% of synthetic fertiliser application through the 4R strategy for oil
+palm cultivation, the largest crop under cultivation in Malaysia. The assumption for
+reducing synthetic fertiliser application for the WOM, WEM and WAM scenarios for the
+agriculture sector is as shown in Table 3.10.
+Table 3.10: Summary of Proposed Mitigation Scenarios for Oil Palm Cultivation
+Mitigation
+Action
+Improved
+nitrogenous
+fertiliser
+management
+for oil palm
+cultivation
+
+WOM Scenario
+
+WEM Scenario
+
+WAM Scenario
+
+The application
+rate of fertilizer
+usage:
+90 kg N per year
+per hectare for
+young oil palm and
+105 kg N per year
+per hectare for
+mature oil palm.
+
+The application
+rate of fertiliser
+usage:
+90 kg N per year
+per hectare for
+young oil palm and
+105 kg N per year
+per hectare for
+mature oil palm.
+
+Assume that the
+application rate of
+nitrogenous fertilisers
+reduces by 10% from
+2020 onwards
+through optimum
+application of
+synthetic fertiliser.
+
+Efforts are also being taken to limit the areas under oil palm cultivation. While the
+WOM scenario would likely see oil palm cultivation reaching 7 million hectares, efforts
+are being taken by the Ministry of Plantation and Commodities to restrict oil palm
+cultivation to a maximum land usage of 6.5 million hectares by 2030 which was used
+for the WEM and WAM modelling scenarios.
+For rice cultivations, increasing productivity per hectare of paddy planted area
+especially in the irrigated granaries, would reduce the need of additional land for rice
+77
+
+ 
+cultivation. The National Agrofood Policy 2.0 2021-2030 (NAP 2.0) and Action Plan
+targeted a productivity of 7 tonnes of paddy yield per hectare especially in the
+granaries by 2030. This scenario was used for the WAM case, while the WEM used a
+mid-value productivity yield value of 5.7 tonnes of paddy per planted by 2030 and the
+WOM scenario used the 2005-2019 average productivity yield of 4.576 tonnes per
+hectare of granary planted area.
+Livestock population emissions were modelled based on the full achievement of NAP
+2.0 meat and dairy self-sufficiency ratio (SSR) targets for the WOM case and the 66%
+achievement of NAP 2.0 SSR targets for the WEM case based on historical trends
+and from reverse investment initiatives. While the achievement of the 33% SSR
+objective for the WAM is because of food imports contributing to a decrease in GHG
+emissions.
+Based on the aforementioned assumptions, the projected GHG emissions for the three
+scenarios for the agriculture sector is as shown in Figure 3.6 and Table 3.11. The
+projections indicated that the GHG emissions for the agriculture sector would grow
+from 9.922 Gg CO2 eq. in 2019 to 16,256 Gg CO2 eq., 13,615 Gg CO2 eq. and 11,309
+Gg CO2 eq. under the WOM, WEM and WAM scenarios in 2030.
+
+Figure 3.6: Projected GHG Emissions for the Agriculture Sector for WOM, WEM
+and WAM Scenarios
+
+78
+
+ 
+Table 3.11: Projected GHG Emission for the Agriculture Sub-Sectors under WOM, WEM and WAM Mitigation Scenarios in
+2020, 2025 and 2030 (Gg CO2 eq.)
+2020
+
+2025
+
+2030
+
+Sub-sector
+WOM
+
+WEM
+
+WAM
+
+WOM
+
+WEM
+
+WAM
+
+WOM
+
+WEM
+
+WAM
+
+1,228.45
+
+1,228.45
+
+1,228.45
+
+3,122.92
+
+2,475.58
+
+1,704.72
+
+3,299.63
+
+2,562.40
+
+1,656.57
+
+659.63
+
+659.63
+
+659.63
+
+896.60
+
+824.40
+
+738.85
+
+1,002.09
+
+890.80
+
+772.54
+
+10.01
+
+10.01
+
+10.01
+
+14.37
+
+11.48
+
+10.36
+
+16.58
+
+11.73
+
+9.56
+
+Liming
+
+21.01
+
+21.01
+
+21.01
+
+27.60
+
+23.30
+
+21.63
+
+30.89
+
+23.68
+
+20.44
+
+Urea Application
+
+519.50
+
+519.50
+
+461.70
+
+590.97
+
+565.54
+
+510.01
+
+632.12
+
+579.82
+
+523.22
+
+4,092.73
+
+4,092.73
+
+3,808.79
+
+4,851.20
+
+4,595.61
+
+4,170.89
+
+5,227.91
+
+4,779.13
+
+4,297.66
+
+1,164.11
+
+1,164.11
+
+1,071.83
+
+1,424.45
+
+1,331.50
+
+1,192.10
+
+1,556.84
+
+1,391.55
+
+1,228.85
+
+556.31
+
+556.31
+
+556.31
+
+785.89
+
+708.73
+
+627.78
+
+931.15
+
+790.43
+
+653.52
+
+Rice cultivations
+
+2,247.72
+
+2,247.72
+
+2,247.72
+
+3,115.07
+
+2,533.65
+
+2,308.40
+
+3,559.60
+
+2,585.68
+
+2,147.51
+
+Total Emissions
+
+10,499
+
+10,499
+
+10,065
+
+14,829
+
+13,070
+
+11,285
+
+16,257
+
+13,615
+
+11,310
+
+Enteric
+Fermentation
+Manure
+Management
+Biomass burning
+in Croplands
+
+Direct N2O
+Emissions from
+managed soils
+Indirect N2O
+Emissions from
+managed soils
+Indirect N2O
+Emissions from
+manure
+management
+
+79
+
+ 
+3.3.3.4 Waste
+GHG emissions from the waste sector arise from two major sources, i.e., solid waste
+disposal and wastewater treatment and discharge (domestic and industrial), where
+most of the emissions are in the form of methane. Out of the 28,257 Gg CO 2 eq. of
+GHG emissions from this sector in 2019, industrial waste water treatment and
+discharge contributed 51% (14,462 Gg CO2 eq.) of the emissions with nearly 99% of
+this part of the emission coming from POME. Solid waste disposal sites contributed
+41% (11,681 Gg CO2 eq.) of the emissions and domestic waste water contributed 7%
+(2,065 Gg CO2 eq.) of the emissions.
+Logically the mitigation efforts in this sector should be focused on reducing methane
+emissions from solid waste disposal sites and from POME. Table 3.12 is a summary
+of the mitigation actions assumed for the WOM, WEM and WAM scenarios in the
+projection. The assumptions for recycling follow closely the targets set in the policies.
+For methane recovery from POME, although the earlier policies proposed the
+implementation of biogas capture facilities for 500 palm oil mills by 2020, the uptake
+by that industry has been slower than expected where in 2019 only 125 out of 452
+palm oil mills have been fully equipped with biogas capture facilities. Based on
+discussions with the Ministry of Plantation and Commodities and the Malaysian Palm
+Oil Board (MPOB) it is projected that the yearly increment of mills with biogas capture
+would be five per year. It is evident that greater push for implementation of biogas
+capture facilities in palm oil mills is needed.
+
+Table 3.12: Summary of Mitigation Actions by Scenarios for the Waste Sector
+Mitigation Actions
+
+WOM Scenario
+
+WEM Scenario
+
+WAM Scenario
+
+Increase solid waste
+recycling rate:
+(i)
+Encouraging
+waste separation
+at source;
+(ii)
+Reduction of
+organic waste
+generation;
+(iii)
+Paper recycling
+activities;
+(iv)
+Encouraging 3R
+and using waste
+as a resource for
+other industries.
+
+The recycling
+rate remains at
+2019 value (31
+%) from 2020
+to 2030.
+
+The recycling rate
+increases from
+31% in 2019 to
+35.5% by 2025
+and remains at
+that value till
+2030.
+
+The recycling
+rate increases
+from 31% in
+2019 to 40% by
+2025 and
+remains at that
+value till 2030.
+
+80
+
+ 
+Mitigation Actions
+
+WOM Scenario
+
+WEM Scenario
+
+WAM Scenario
+
+Increase proper treatment
+of industrial wastewater:
+(i)
+Increase capture of
+methane from POME
+by installing biogas
+capture facilities in
+existing palm oil mills
+and mandatory for
+new palm oil mills to
+install biogas capture
+facilities.
+
+Assume the
+number of
+biogas capture
+facilities at
+POME
+treatment sites
+remain the
+same as per
+2019 values.
+Methane
+captured in
+POME biogas
+treatment
+facilities is 50%
+for flaring and
+50% for energy
+use.
+The flaring
+efficiency of
+methane is at
+50%.
+
+The number of
+biogas capture
+facilities at POME
+treatment sites
+increase by five
+per year.
+Methane
+captured in
+POME biogas
+treatment
+facilities is 50%
+for flaring and
+50% for energy
+use in 2020 and
+increases to 25%
+for flaring and
+75% for energy
+use from 2021
+onwards.
+The flaring
+efficiency of
+methane
+increased from
+50% in 2019 to
+80% in 2020
+onwards.
+.
+
+The number of
+biogas capture
+facilities at
+POME treatment
+sites increase by
+five per year.
+Methane
+captured in
+POME biogas
+treatment
+facilities is 50%
+for flaring and
+50% for energy
+use in 2020 and
+increases to
+25% for flaring
+and 75% for
+energy use from
+2021 onwards.
+The flaring
+efficiency of
+methane
+increased from
+50% in 2019 to
+80% in 2020 and
+100% by 2025.
+
+Figure 3.7 and Table 3.13 show the projected GHG emissions from 2020 to 2030 for
+the WOM, WEM and WAM mitigation scenarios. The results indicate that GHG
+emissions from the waste sector would grow from 28,257 Gg CO2 eq in 2019 to 34,094
+Gg CO2 eq. and 28,095 CO2 eq. under the WOM and WEM scenarios respectively in
+2030. However, under the WAM scenario the GHG emissions from the waste sector
+could reduce to 27,067 Gg CO2 eq. in 2030. This could be achieved by diverting
+organic wastes away from landfills for treatment and greater implementation ambition
+on establishing biogas capture facilities at palm oil mills as well as better flaring
+efficiency and usage of the methane captured in these facilities for energy generation.
+
+81
+
+ 
+Figure 3.7: Projected GHG Emission for the Waste Sector for WOM, WEM and
+WAM Scenarios
+
+82
+
+ 
+Table 3.13: Projected GHG Emission for the Waste Sub-Sectors under WOM, WEM and WAM Mitigation Scenarios in 2020,
+2025 and 2030 (Gg CO2 eq.)
+2020
+
+2025
+
+2030
+
+Sub-Sector
+WOM
+
+WEM
+
+WAM
+
+WOM
+
+WEM
+
+WAM
+
+WOM
+
+WEM
+
+WAM
+
+11,650.13
+
+11,650.13
+
+11,650.13
+
+11,586.14
+
+11,370.00
+
+11,156.39
+
+12,158.16
+
+11,589.91
+
+11,019.32
+
+Biological
+Treatment of
+Solid Waste
+
+0.44
+
+0.44
+
+0.44
+
+0.62
+
+0.62
+
+0.62
+
+0.86
+
+0.86
+
+0.86
+
+Incineration
+
+45.90
+
+45.90
+
+45.90
+
+54.60
+
+54.60
+
+54.60
+
+67.13
+
+67.13
+
+67.13
+
+Open Burning
+
+2.72
+
+2.72
+
+2.72
+
+2.72
+
+2.72
+
+2.72
+
+2.56
+
+2.56
+
+2.56
+
+Domestic
+Wastewater
+
+2,060.42
+
+2,031.61
+
+2,031.61
+
+2,287.45
+
+2,091.50
+
+2,091.50
+
+2,416.96
+
+2,029.65
+
+2,029.65
+
+Industrial
+Wastewater
+
+14,007.90
+
+13,256.39
+
+13,256.39
+
+16,680.39
+
+13,872.51
+
+13,523.35
+
+19,448.13
+
+14,404.51
+
+13,947.88
+
+27,768
+
+26,987
+
+26,987
+
+30,612
+
+27,392
+
+26,829
+
+34,094
+
+28,095
+
+27,067
+
+Solid Waste
+Disposal Sites
+
+Total Emissions
+
+83
+
+ 
+3.3.3.5 Land Use, Land-Use Change and Forestry
+Of the five categories of land use under the IPCC categories, forest and crop land are
+the most important categories. These two categories account for more than 75% of
+the total land use of Malaysia. Some of the wetlands like peatland is reported in both
+forest and cropland. Mitigation potential for grassland and wetlands are relatively small
+while assessment for settlements is being undertaken.
+Net Forest Change
+Malaysia’s deforestation rates stabilised, between 2009 to 2015 there was no net
+forest loss. However, the increasing population (estimated to reach 38 million by 2030)
+together with increased demand for food, transportation and other infrastructures puts
+pressure on forest.
+Projected forest loss between 2020 and 2030 was derived from historic rate of forest
+conversion. Figure 3.8 shows the projected forest cover until 2030. Forest loss of
+65,000 ha per year is expected under the WOM scenario between 2020 and 2030
+while in the WEM and WAM scenarios, 50,000 ha and 47,000 ha respectively were
+projected to be lost annually over the same period.
+Based on these scenarios, Malaysia would still maintain 52.7%, 53.1% and 53.2% of
+its total land area as forest under the WOM, WEM and WAM scenarios respectively in
+2030 (Table 3.14).
+
+Figure 3.8: Projected Forest Cover in Malaysia for WOM, WEM and WAM
+Scenarios from 2020 to 2030
+
+84
+
+ 
+Table 3.14: Projected Forest Cover for WOM, WEM and WAM Scenarios
+in 2020, 2025 and 2030
+Total Forest Cover (million hectare)
+Year
+WOM
+
+WEM
+
+WAM
+
+2020
+
+18.046
+
+18.046
+
+18.046
+
+2025
+
+17.721
+
+17.796
+
+17.811
+
+2030
+
+17.396
+
+17.546
+
+17.576
+
+Sustainable Forest Management
+With the implementation of sustainable forest management and forest certification, the
+maximum harvest is limited to 85m3/ha and follows all the principles, criteria and
+indicators set in Malaysia Criteria and Indicator (MC&I). The historical rate of decrease
+in wood harvest is about 4% per annum from 2005 to 2019. The current scenarios do
+not include potential enhancement of carbon stocks in degraded forest especially
+when forest corridors are established. It only considered the increment in carbon
+stocks, drained organic soils and commercial harvest.
+For the mitigation assessment, a conservative assumption was made for the projected
+commercial wood harvest. For all the three scenarios wood harvest are projected to
+increase from 2020 to 2025 and then reduce from then onwards to 2030 (Table 3.15).
+By 2030, with the decreasing harvest rate from 2025 onwards, the projected
+commercial harvest is around 16.051 million m3 per year, 14.891 million m3 per year
+and 13.726 million m3 per year for WOM, WEM and WAM scenarios respectively.
+
+Table 3.15: Projected Commercial Wood Harvest for WOM, WEM and WAM
+Scenarios in 2020, 2025 and 2030
+Total Commercial Harvest (m3)
+Year
+WOM
+
+WEM
+
+WAM
+
+2020
+
+15,284,535
+
+14,839,355
+
+14,394,175
+
+2025
+
+17,086,675
+
+16,208,191
+
+15,324,845
+
+2030
+
+16,050,767
+
+14,890,776
+
+13,726,318
+
+85
+
+ 
+Cropland
+The expansion of cropland area is limited in Malaysia due to limited arable land
+targeted for agriculture. Labour shortage has also resulted in abandoned farms
+especially for rubber and rice cultivation. The current trend in oil palm expansion
+comes primarily from abandoned cropland and this trend may continue. The projected
+growth in the cropland is focused on enhancing productivity of the smallholders
+engaged in commodity tree crops like oil palm and rubber. The expansion of tree crops
+under the WOM, WEM and WAM scenarios are shown in Table 3.16.
+
+86
+
+ 
+Table 3.16: Projected Areas under Cropland for WOM, WEM and WAM Scenarios in 2020, 2025 and 2030 (hectares)
+Cropland Area (ha)
+WOM
+
+Year
+
+WEM
+
+WAM
+
+Oil Palm*
+
+Rubber
+
+Cocoa
+
+Total
+
+Oil Palm*
+
+Rubber
+
+Cocoa
+
+Total
+
+Oil Palm*
+
+Rubber
+
+Cocoa
+
+Total
+
+2020
+
+5,910,000
+
+1,132,000
+
+6,100
+
+7,048,100
+
+5,865,000
+
+1,132,000
+
+6,100
+
+7,003,100
+
+5,865,000
+
+1,132,000
+
+6,100
+
+7,003,100
+
+2025
+
+6,431,951
+
+1,132,000
+
+6,100
+
+7,570,051
+
+6,174,342
+
+1,132,000
+
+6,100
+
+7,312,442
+
+6,174,342
+
+1,132,000
+
+6,100
+
+7,312,442
+
+2030
+
+7,000,000
+
+1,132,000
+
+6,100
+
+8,138,100
+
+6,500,000
+
+1,132,000
+
+6,100
+
+7,638,100
+
+6,500,000
+
+1,132,000
+
+6,100
+
+7,638,100
+
+Source: MPC, 2023.
+
+87
+
+ 
+Projected LULUCF Emissions and Removals
+For the forest category, enhancing sustainable forest management (SFM) and
+conservation would reduce emission. The implementation of CFS and HoB have
+potential to increase forest connectivity and enhance removals. It is anticipated that
+future supply of wood from the plantation forest would increase and lesser harvesting
+would occur from natural forest. Deforestation would occur in the State Land Forest.
+Biomass loss of 140t d.m./ha, 127t d.m./ha and 144t d.m./ha for forest, oil palm and
+rubber respectively were applied in the calculation of GHG emissions. For
+deforestation, it is assumed that all of the above ground biomass is removed.
+For Cropland, marginal increase in removals is anticipated while conversion of
+cropland to settlement would also be stabilised. It is anticipated that 7,600 ha of rubber
+plantation and 2,000 ha of oil palm will be converted to settlement on annual basis
+respectively.
+The total emission and removals from forest and crop land is shown in Table 3.17
+under the three scenarios.
+
+Figure 3.9: Projected GHG Emission for the LULUCF Sector for WOM, WEM
+and WAM Scenarios
+-170,000
+2005
+-180,000
+
+YEAR
+2010
+
+2015
+
+2020
+
+WOM
+
+WAM
+
+WEM
+
+Emissions (CO2)
+
+-190,000
+-200,000
+-210,000
+-220,000
+-230,000
+-240,000
+-250,000
+-260,000
+
+88
+
+2025
+
+2030
+
+ 
+Table 3.17: Projected GHG Emissions for the LULUCF Sector under WOM, WEM and WAM Scenarios in 2020, 2025 and
+2030 (Gg CO2eq)
+2020
+
+2025
+
+2030
+
+Sub-sector
+WOM
+
+WEM
+
+WAM
+
+WOM
+
+WEM
+
+WAM
+
+WOM
+
+WEM
+
+WAM
+
+-228,980.31
+
+-229,785.86
+
+-230,591.42
+
+-219,084.27
+
+-223,307.01
+
+-225,096.66
+
+-215,437.64
+
+-219,816.11
+
+-225,608.52
+
+-16,536.35
+
+-16,247.60
+
+-16,247.60
+
+-19,885.54
+
+-18,232.54
+
+-18,232,54
+
+-23,530.51
+
+-20,322.18
+
+-20,322.18
+
+3,619.00
+
+0.00
+
+0.00
+
+3,619.00
+
+0.00
+
+0.00
+
+3,619.00
+
+0.00
+
+0.00
+
+Land converted
+to Settlement
+
+14,418.10
+
+14,418.10
+
+13,694.30
+
+14,418.10
+
+14,418.10
+
+13,694.30
+
+14,418.10
+
+14,418.10
+
+13,694.30
+
+Total Emissions
+
+-227,480
+
+-231,615
+
+-233,145
+
+-220,933
+
+-227,121
+
+-229,635
+
+-220,931
+
+-225,720
+
+-232,236
+
+Forest Land
+Remaining
+Forest Land
+Cropland
+Remaining
+Cropland
+Forest Land
+converted to
+Cropland
+
+89
+
+ 
+3.4
+
+Plan for Improvement
+
+As mitigation actions through different policies and programmes are being
+implemented across the different Ministries and Agencies, a coherent and robust
+Measurement, Reporting and Verification (MRV) System is necessary for keeping
+track of the integrated impacts of these implementations in reducing the GHG
+emissions in the country. A step-wise approach has been taken in developing this
+system in Malaysia with the Ministry of Natural Resources and Environmental
+Sustainability as the Secretariat to the Technical Working Group of Mitigation and
+Technical Working Group on Transparency and Related Activities.
+In moving strategic directions in implementing the policies that will give effect to GHG
+emission reduction, one of the critical information that is sought by policymakers is
+accurate information on projection of future GHG emissions. The current efforts in
+modelling the projected emissions are the efforts in providing such information for
+informed decisions making on strategic directions for implementing mitigation actions.
+More accurate modelling is required, in particular those coupled with accurate
+information on abatement costs. Moving towards more sophisticated models would
+be attempted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
