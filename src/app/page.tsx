@@ -33,7 +33,9 @@ export default function ComparePage() {
   const [showDocs, setShowDocs] = useState(true);    // “With documents” toggle
   const [diffText, setDiffText] = useState("");      // comparison result
   const [diffLoading, setDiffLoading] = useState(false);
-
+  const [mode, setMode] = useState<"topicgpt" | "manual">("topicgpt");
+  const [manualData, setManualData] = useState<{ sentencesA: string[]; sentencesB: string[]; topics: string[] } | null>(null);
+  const [manualResults, setManualResults] = useState<string[] | null>(null);
   /* ───────── fetch docs ───────── */
   useEffect(() => {
     Promise.all([
@@ -91,7 +93,41 @@ export default function ComparePage() {
       setLoading(false);
     }
   };
-
+  const handleManual = async () => {
+    setSelected(null);
+    setManualResults(null);
+    setLoading(true);
+    try {
+      const res = await fetch("/api/manual", { method: "POST" });
+      if (!res.ok) throw new Error("Manual pipeline failed");
+      const data = await res.json();
+      setManualData(data);
+    } catch (e) {
+      console.error(e);
+      alert("Manual run failed");
+    } finally {
+      setLoading(false);
+    }
+  };
+  const handleManualTopic = async (topic: string) => {
+    setSelected(topic);
+    setManualResults(null);
+    setLoading(true);
+    try {
+      const res = await fetch("/api/manual/topic-match", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ topic }), // ✅ only sending topic now
+      });
+      const matches = await res.json();
+      setManualResults(matches);
+    } catch (e) {
+      console.error(e);
+      alert("Topic match failed");
+    } finally {
+      setLoading(false);
+    }
+  };
   /* ───────── data derived ───────── */
   const topics = useMemo(() => {
     const m: Record<string, TopicRow[]> = {};
@@ -124,33 +160,33 @@ export default function ComparePage() {
 
       {/* control */}
       <Card className="max-w-lg mx-auto">
-        <CardHeader>
-          <CardTitle>Parameters</CardTitle>
-        </CardHeader>
         <CardContent className="flex flex-col gap-4 md:flex-row md:items-end">
-          {/* <div className="flex-1 space-y-1">
-            <label htmlFor="clusters" className="text-sm font-medium">
-              Number of clusters
+          <div className="flex-1 space-y-1">
+            <label htmlFor="mode" className="text-sm font-medium">
+              Mode
             </label>
-            <Input
-              id="clusters"
-              type="number"
-              value={clusters}
-              min={1}
-              disabled={loading}
-              onChange={(e) =>
-                setClusters(parseInt(e.target.value || "0", 10))
-              }
-            />
-          </div> */}
-          <Button onClick={handleRun} disabled={loading}>
-            {loading ? "Running…" : "Run"}
+            <select
+              id="mode"
+              value={mode}
+              onChange={(e) => setMode(e.target.value as "topicgpt" | "manual")}
+              className="w-full border border-gray-300 rounded px-2 py-1 text-sm"
+            >
+              <option value="topicgpt">TopicGPT</option>
+              <option value="manual">Manual</option>
+            </select>
+          </div>
+
+          <Button
+            onClick={mode === "manual" ? handleManual : handleRun}
+            disabled={loading}
+          >
+            {loading ? "Running…" : mode === "manual" ? "Generate" : "Run"}
           </Button>
         </CardContent>
       </Card>
 
       {/* topic chips */}
-      {Object.keys(topics).length > 0 && (
+      {mode === "topicgpt" && Object.keys(topics).length > 0 && (
         <div className="flex flex-wrap gap-2">
           <Switch
             checked={showDocs}
@@ -161,7 +197,6 @@ export default function ComparePage() {
             With documents
           </label>
           {Object.entries(topics).map(([topic, arr]) => (
-            
             <Button
               key={topic}
               variant={selected === topic ? "secondary" : "outline"}
@@ -182,6 +217,34 @@ export default function ComparePage() {
         </div>
       )}
 
+    {mode === "manual" && manualData && (
+      <div className="flex flex-wrap gap-2">
+        {manualData.topics.map((topic) => (
+          <Button
+            key={topic}
+            variant={selected === topic ? "secondary" : "outline"}
+            disabled={loading}
+            onClick={() => handleManualTopic(topic)}
+          >
+            {topic}
+          </Button>
+        ))}
+      </div>
+    )}
+
+    {mode === "manual" && manualResults && (
+      <Card className="h-[75vh] flex flex-col">
+        <CardHeader>
+          <CardTitle>Results for: {selected}</CardTitle>
+        </CardHeader>
+        <CardContent className="flex-1 overflow-y-auto space-y-2 text-sm">
+          {manualResults.map((line, idx) => (
+            <p key={idx} className="rounded border p-2 bg-muted">{line}</p>
+          ))}
+        </CardContent>
+      </Card>
+    )}
+
       
 <div
   className={`grid gap-6 ${
@@ -197,7 +260,7 @@ export default function ComparePage() {
   />
 
   {/* ⬅️ Middle topic card (only when a topic is selected) */}
-  {selected && (
+  {mode === "topicgpt" && selected && (
   <Card className="h-[75vh] flex flex-col">
     <CardHeader>
       <CardTitle>{selected}</CardTitle>
