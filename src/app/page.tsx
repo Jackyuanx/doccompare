@@ -9,6 +9,7 @@ import {
 } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
+import ReactMarkdown from "react-markdown";
 import {
   Dialog,
   DialogContent,
@@ -36,6 +37,9 @@ export default function ComparePage() {
   const [mode, setMode] = useState<"topicgpt" | "manual">("topicgpt");
   const [manualData, setManualData] = useState<{ sentencesA: string[]; sentencesB: string[]; topics: string[] } | null>(null);
   const [manualResults, setManualResults] = useState<string[] | null>(null);
+  const [discussion, setDiscussion] = useState<string | null>(null);
+  const [generatingDiscussion, setGeneratingDiscussion] = useState(false);
+
   /* ───────── fetch docs ───────── */
   useEffect(() => {
     Promise.all([
@@ -233,14 +237,52 @@ export default function ComparePage() {
     )}
 
     {mode === "manual" && manualResults && (
-      <Card className="h-[75vh] flex flex-col">
+  <>
+    {/* Existing matched sentences card... */}
+    <Card className="h-[75vh] flex flex-col">
+      <CardHeader>
+        <CardTitle>Results for: {selected}</CardTitle>
+      </CardHeader>
+      <CardContent className="flex-1 overflow-y-auto space-y-2 text-sm">
+        {manualResults.map((line, idx) => (
+          <p key={idx} className="rounded border p-2 bg-muted">{line}</p>
+        ))}
+      </CardContent>
+    </Card>
+  </>
+)}
+    <Button
+      onClick={async () => {
+        if (!selected) return;
+        setGeneratingDiscussion(true);
+        try {
+          const res = await fetch("/api/manual/discussion", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ topic: selected }),
+          });
+          const data = await res.json();
+          setDiscussion(data.text ?? "No output");
+        } catch (e) {
+          alert("Failed to generate comparison");
+        } finally {
+          setGeneratingDiscussion(false);
+        }
+      }}
+      disabled={generatingDiscussion}
+      className="mt-4"
+    >
+      {generatingDiscussion ? "Generating…" : "Generate Comparison"}
+    </Button>
+
+    {/* NEW OUTPUT: comparison text */}
+    {discussion && (
+      <Card className="mt-4">
         <CardHeader>
-          <CardTitle>Results for: {selected}</CardTitle>
+          <CardTitle>Comparison Summary</CardTitle>
         </CardHeader>
-        <CardContent className="flex-1 overflow-y-auto space-y-2 text-sm">
-          {manualResults.map((line, idx) => (
-            <p key={idx} className="rounded border p-2 bg-muted">{line}</p>
-          ))}
+        <CardContent className="whitespace-pre-wrap text-sm">
+          <ReactMarkdown>{discussion}</ReactMarkdown>
         </CardContent>
       </Card>
     )}
@@ -326,7 +368,7 @@ export default function ComparePage() {
 }
 
 /* ---------- DocCard ---------- */
-
+/* wow */
 function DocCard({
   title,
   sentences,
